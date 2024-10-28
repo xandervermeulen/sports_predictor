@@ -1,0 +1,54 @@
+event,fighter1,fighter2,outcome_predicted,W/L
+UFC Fight Night: Lewis vs. Nascimento,Tabatha Ricci,Tecia Torres,W/L,0.5542582404981332
+UFC Fight Night: Nicolau vs. Perez,Don'Tale Mayes,Caio Machado,W/L,0.9239786885469283
+UFC Fight Night: Barboza vs. Murphy,Luana Pinheiro,Angela Hill,W/L,0.7244183026641547
+UFC 301: Pantoja vs. Erceg,Michel Pereira,Makhmud Muradov,W/L,0.7295299887670769
+UFC Fight Night: Nicolau vs. Perez,Gabriel Benitez,Maheshate,W/L,0.798898694525989
+UFC 302: Makhachev vs. Poirier,Ailin Perez,Joselyne Edwards,W/L,0.5046312266542236
+UFC 302: Makhachev vs. Poirier,Grant Dawson,Joe Solecki,W/L,0.8102602307057899
+UFC Fight Night: Nicolau vs. Perez,Tim Means,Uros Medic,W/L,0.6271122041706673
+UFC 302: Makhachev vs. Poirier,Phil Rowe,Jake Matthews,W/L,0.4918785833850045
+UFC Fight Night: Nicolau vs. Perez,Ariane Lipski,Karine Silva,L/W,0.22026568325939402
+UFC Fight Night: Barboza vs. Murphy,Vanessa Demopoulos,Emily Ducote,W/L,0.6188305368752084
+UFC Fight Night: Barboza vs. Murphy,Piera Rodriguez,Ariane Carnelossi,W/L,0.7346138298955035
+UFC Fight Night: Barboza vs. Murphy,Khaos Williams,Carlston Harris,L/W,0.3271032037255917
+UFC Fight Night: Nicolau vs. Perez,Ryan Spann,Bogdan Guskov,W/L,0.898875840054588
+UFC 302: Makhachev vs. Poirier,Mickey Gall,Bassil Hafez,W/L,0.9751310665734289
+UFC 302: Makhachev vs. Poirier,Islam Makhachev,Dustin Poirier,W/L,0.8740849772116834
+UFC 302: Makhachev vs. Poirier,Roman Dolidze,Anthony Hernandez,W/L,0.6168016170212729
+UFC 301: Pantoja vs. Erceg,Anthony Smith,Vitor Petrino,L/W,0.08099869088561085
+UFC Fight Night: Lewis vs. Nascimento,Waldo Cortes-Acosta,Robelis Despaigne,L/W,0.26198991396412585
+UFC Fight Night: Lewis vs. Nascimento,Jared Gooden,Kevin Jousset,L/W,0.01095407163264645
+UFC Fight Night: Nicolau vs. Perez,Marnic Mann,Ketlen Souza,W/L,0.7241575446863133
+UFC 301: Pantoja vs. Erceg,Jonathan Martinez,Jose Aldo,W/L,0.5194965019180892
+UFC Fight Night: Barboza vs. Murphy,Tim Elliott,Tatsuro Taira,L/W,0.04918589626835569
+UFC Fight Night: Whittaker vs. Chimaev,Johnny Walker,Volkan Oezdemir,W/L,0.7087136677610284
+UFC 301: Pantoja vs. Erceg,Jean Silva,William Gomis,W/L,0.5472215803776949
+UFC Fight Night: Lewis vs. Nascimento,Derrick Lewis,Rodrigo Nascimento,L/W,0.40516367534656034
+UFC Fight Night: Lewis vs. Nascimento,Alonzo Menifield,Carlos Ulberg,L/W,0.3691488621256727
+UFC 301: Pantoja vs. Erceg,Ismael Bonfim,Vinc Pichel,L/W,0.16968411864579314
+UFC Fight Night: Nicolau vs. Perez,Rani Yahya,Victor Henry,L/W,0.48401955015868037
+UFC Fight Night: Barboza vs. Murphy,Adrian Yanez,Vinicius Salvador,W/L,0.9768235999949568
+UFC Fight Night: Barboza vs. Murphy,Hailey Cowan,Tamires Vidal,L/W,0.023368381465348052
+UFC Fight Night: Nicolau vs. Perez,Matheus Nicolau,Alex Perez,W/L,0.8646632712326864
+UFC Fight Night: Barboza vs. Murphy,Victor Martinez,Tom Nolan,W/L,0.58155884418812
+UFC Fight Night: Barboza vs. Murphy,Themba Gorimbo,Ramiz Brahimaj,W/L,0.8774085921759943
+UFC Fight Night: Lewis vs. Nascimento,Terrance McKinney,Esteban Ribovics,W/L,0.5565834387125103
+UFC Fight Night: Nicolau vs. Perez,Jonathan Pearce,David Onama,W/L,0.585356442653898
+UFC 301: Pantoja vs. Erceg,Karolina Kowalkiewicz,Iasmin Lucindo,L/W,0.38971391522041754
+UFC 302: Makhachev vs. Poirier,Niko Price,Jeremiah Wells,L/W,0.32290786053718773
+UFC 301: Pantoja vs. Erceg,Paul Craig,Caio Borralho,L/W,0.05051832799027191
+UFC Fight Night: Lewis vs. Nascimento,Chase Hooper,Viacheslav Borshchev,W/L,0.5535969721968846
+UFC Fight Night: Barboza vs. Murphy,Abus Magomedov,Warlley Alves,L/W,0.18699426830589
+UFC Fight Night: Nicolau vs. Perez,Austin Hubbard,Michal Figlak,W/L,0.9286151000366161
+UFC Fight Night: Lewis vs. Nascimento,Charles Johnson,Jake Hadley,L/W,0.3950867944770952
+UFC Fight Night: Barboza vs. Murphy,Edson Barboza,Lerone Murphy,L/W,0.09764668994279213
+UFC 301: Pantoja vs. Erceg,Jean Silva,William Gomis,L/W,0.4860927949313659
+UFC Fight Night: Whittaker vs. Chimaev,Kelvin Gastelum,Daniel Rodriguez,L/W,0.35886043102578286
+UFC 301: Pantoja vs. Erceg,Joaquim Silva,Drakkar Klose,L/W,0.20012615746685358
+UFC 301: Pantoja vs. Erceg,Jack Shore,Joanderson Brito,W/L,0.7605956465166667
+UFC 303: McGregor vs. Chandler,Conor McGregor,Michael Chandler,W/L,0.9246142265114987
+UFC Fight Night: Whittaker vs. Chimaev,Robert Whittaker,Khamzat Chimaev,L/W,0.4727418447816705
+UFC Fight Night: Lewis vs. Nascimento,Alex Caceres,Sean Woodson,L/W,0.20114992598950623
+UFC 301: Pantoja vs. Erceg,Alessandro Costa,Kevin Borjas,W/L,0.8283675200936647
+UFC 302: Makhachev vs. Poirier,Sean Strickland,Paulo Costa,W/L,0.684152974021533

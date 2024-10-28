@@ -1,0 +1,50 @@
+@import './custom-variables';
+@import './custom-selfmade-variables.scss';
+@import './exclusion-variables.scss';
+
+
+html body.darkmode{
+    background-color: $gray;
+    color:#fff;
+    #content{
+        background-color: #000;
+    }
+    h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6, .control-label{
+        color:#fff;
+    }
+    .btn {
+        background-color: #000;
+        color: #fff;
+    }
+    .grid-color{
+        background-color: black;
+    }
+    
+    .mx-name-dataGrid2_1{
+        background-color: black;
+    }
+
+    .td,.th{
+        background-color: black;
+    }
+
+    .card{
+        background-color: black;
+    }
+    .modal-content{
+        background-color: black;
+        color: white;
+    }
+    li.mx-name-index-0{
+        background-color: black;
+    }
+    #DataGrid6-column-selectors{
+        background-color: black;
+    }
+    .modal-header, .mx-window-header{
+        color: #fff !important;
+    }
+    .close{
+        background-color: #fff;
+    }
+}

@@ -1,0 +1,1529 @@
+EVENT,fighter1,fighter2,predicted_outcome,predicted_accuracy,actual_outcome
+UFC 300: Pereira vs. Hill ,Charles Oliveira,Arman Tsarukyan,L/W,0.4217808893837995,L/W
+UFC Fight Night: Allen vs. Curtis 2 ,Norma Dumont,Germaine de Randamie,W/L,0.5344338554919691,W/L
+UFC Fight Night: Blanchfield vs. Fiorot ,Chris Weidman,Bruno Silva,W/L,0.7620765642457129,W/L
+UFC Fight Night: Blanchfield vs. Fiorot ,Bill Algeo,Kyle Nelson,W/L,0.5310931489440278,L/W
+UFC Fight Night: Ribas vs. Namajunas ,Amanda Ribas,Rose Namajunas,L/W,0.4158745256835956,L/W
+UFC Fight Night: Ribas vs. Namajunas ,Edmen Shahbazyan,AJ Dobson,W/L,0.9128515568515491,W/L
+UFC Fight Night: Ribas vs. Namajunas ,Kurt Holobaugh,Trey Ogden,L/W,0.0951957253581852,L/W
+UFC Fight Night: Tuivasa vs. Tybura ,Natan Levy,Mike Davis,L/W,0.1323981412837724,L/W
+UFC Fight Night: Tuivasa vs. Tybura ,Jafel Filho,Ode Osbourne,W/L,0.8285224467797705,W/L
+UFC Fight Night: Tuivasa vs. Tybura ,Jaqueline Amorim,Cory McKenna,W/L,0.7578927164631457,W/L
+UFC 299: O'Malley vs. Vera 2 ,Dustin Poirier,Benoit Saint Denis,W/L,0.8107640462960833,W/L
+UFC 299: O'Malley vs. Vera 2 ,Mateusz Gamrot,Rafael Dos Anjos,W/L,0.6788230994157937,W/L
+UFC 299: O'Malley vs. Vera 2 ,Pedro Munhoz,Kyler Phillips,L/W,0.14579709538726177,L/W
+UFC Fight Night: Gonzaga vs Cro Cop 2 ,Joanne Wood,Maryna Moroz,W/L,0.6113033622282714,L/W
+UFC 300: Pereira vs. Hill ,Jiri Prochazka,Aleksandar Rakic,W/L,0.7402283972782812,W/L
+UFC 300: Pereira vs. Hill ,Sodiq Yusuff,Diego Lopes,W/L,0.5541373645236423,L/W
+UFC 300: Pereira vs. Hill ,Jessica Andrade,Marina Rodriguez,L/W,0.47673601733488896,W/L
+UFC 300: Pereira vs. Hill ,Bobby Green,Jim Miller,W/L,0.6469627763243964,W/L
+UFC Fight Night: Allen vs. Curtis 2 ,Trevor Peek,Charlie Campbell,L/W,0.017246874847061937,L/W
+UFC Fight Night: Allen vs. Curtis 2 ,Valter Walker,Lukasz Brzeski,L/W,0.08269279742461787,L/W
+UFC Fight Night: Allen vs. Curtis 2 ,Pedro Falcao,Victor Hugo,L/W,0.0005799223297845446,L/W
+UFC Fight Night: Blanchfield vs. Fiorot ,Nursulton Ruziboev,Sedriques Dumas,W/L,0.9867080783503897,W/L
+UFC Fight Night: Blanchfield vs. Fiorot ,Nate Landwehr,Jamall Emmers,W/L,0.7597905141739931,W/L
+UFC Fight Night: Blanchfield vs. Fiorot ,Virna Jandiroba,Loopy Godinez,W/L,0.6710600166877116,W/L
+UFC Fight Night: Blanchfield vs. Fiorot ,Julio Arce,Herbert Burns,W/L,0.9063791155454617,W/L
+UFC Fight Night: Blanchfield vs. Fiorot ,Ibo Aslan,Anton Turkalj,W/L,0.9971595699776028,W/L
+UFC Fight Night: Blanchfield vs. Fiorot ,Andre Petroski,Jacob Malkoun,W/L,0.8200674165666039,L/W
+UFC Fight Night: Blanchfield vs. Fiorot ,Angel Pacheco,Caolan Loughran,L/W,0.02428182687065369,L/W
+UFC Fight Night: Ribas vs. Namajunas ,Ricardo Ramos,Julian Erosa,W/L,0.6512421303417414,L/W
+UFC Fight Night: Tuivasa vs. Tybura ,Bryan Battle,Ange Loosa,W/L,0.6381808271664131,NC/NC
+UFC Fight Night: Tuivasa vs. Tybura ,Ovince Saint Preux,Kennedy Nzechukwu,W/L,0.6320717267317514,W/L
+UFC Fight Night: Tuivasa vs. Tybura ,Josh Culibao,Danny Silva,L/W,0.02830716426454223,L/W
+UFC 252: Miocic vs. Cormier 3 ,Sean O'Malley,Marlon Vera,W/L,0.8163840414672047,L/W
+UFC 299: O'Malley vs. Vera 2 ,Sean O'Malley,Marlon Vera,W/L,0.8163840414672047,W/L
+UFC 299: O'Malley vs. Vera 2 ,Petr Yan,Song Yadong,W/L,0.5617589237189899,W/L
+UFC 299: O'Malley vs. Vera 2 ,Michel Pereira,Michal Oleksiejczuk,W/L,0.8817607361259918,W/L
+UFC 299: O'Malley vs. Vera 2 ,Robelis Despaigne,Josh Parisian,W/L,0.9915907918355716,W/L
+UFC 299: O'Malley vs. Vera 2 ,Joanne Wood,Maryna Moroz,W/L,0.6113033622282714,W/L
+UFC 300: Pereira vs. Hill ,Alex Pereira,Jamahal Hill,W/L,0.6967007255828018,W/L
+UFC 300: Pereira vs. Hill ,Zhang Weili,Yan Xiaonan,W/L,0.7523271297602567,W/L
+UFC 300: Pereira vs. Hill ,Justin Gaethje,Max Holloway,L/W,0.2875359231793062,L/W
+UFC 300: Pereira vs. Hill ,Deiveson Figueiredo,Cody Garbrandt,W/L,0.8188489929751243,W/L
+UFC Fight Night: Allen vs. Curtis 2 ,Ignacio Bahamondes,Christos Giagos,W/L,0.781418043076449,W/L
+UFC Fight Night: Allen vs. Curtis 2 ,Dylan Budka,Cesar Almeida,L/W,0.0009232957514847961,L/W
+UFC Fight Night: Blanchfield vs. Fiorot ,Vicente Luque,Joaquin Buckley,W/L,0.7618991380356857,L/W
+UFC Fight Night: Blanchfield vs. Fiorot ,Chris Weidman,Bruno Silva,W/L,0.7155078371531658,W/L
+UFC Fight Night: Ribas vs. Namajunas ,Payton Talbott,Cameron Saaiman,W/L,0.9024678327545325,W/L
+UFC Fight Night: Ribas vs. Namajunas ,Billy Quarantillo,Youssef Zalal,W/L,0.611699239239007,L/W
+UFC Fight Night: Ribas vs. Namajunas ,Fernando Padilla,Luis Pajuelo,W/L,0.9802495732765119,W/L
+The Ultimate Fighter: Heavy Hitters Finale ,Pannie Kianzad,Macy Chiasson,L/W,0.2844327852700961,L/W
+UFC Fight Night: Tuivasa vs. Tybura ,Pannie Kianzad,Macy Chiasson,L/W,0.2844327852700961,L/W
+UFC Fight Night: Tuivasa vs. Tybura ,Josiane Nunes,Chelsea Chandler,W/L,0.7206101548888755,L/W
+UFC Fight Night: Tuivasa vs. Tybura ,Thiago Moises,Mitch Ramirez,W/L,0.9762073629112952,W/L
+UFC Fight Night: Tuivasa vs. Tybura ,Charalampos Grigoriou,Chad Anheliger,L/W,0.032018688577310425,L/W
+UFC 299: O'Malley vs. Vera 2 ,Kevin Holland,Michael Page,L/W,0.03854294712162731,L/W
+UFC 299: O'Malley vs. Vera 2 ,Ion Cutelaba,Philipe Lins,L/W,0.1893898079795653,L/W
+UFC 300: Pereira vs. Hill ,Bo Nickal,Cody Brundage,W/L,0.9798376706164964,W/L
+UFC 300: Pereira vs. Hill ,Calvin Kattar,Aljamain Sterling,L/W,0.24465351501048785,L/W
+UFC 300: Pereira vs. Hill ,Holly Holm,Kayla Harrison,L/W,0.10554078619139062,L/W
+UFC 300: Pereira vs. Hill ,Jalin Turner,Renato Moicano,L/W,0.42606199959726593,L/W
+UFC Fight Night: Font vs. Aldo ,Brendan Allen,Chris Curtis,W/L,0.7896397476141154,L/W
+UFC Fight Night: Allen vs. Curtis 2 ,Brendan Allen,Chris Curtis,W/L,0.7896397476141154,W/L
+UFC Fight Night: Allen vs. Curtis 2 ,Alexander Hernandez,Damon Jackson,L/W,0.3742357938586765,L/W
+UFC Fight Night: Allen vs. Curtis 2 ,Court McGee,Alex Morono,L/W,0.24082796238057738,L/W
+UFC Fight Night: Blanchfield vs. Fiorot ,Erin Blanchfield,Manon Fiorot,L/W,0.23907581194553643,L/W
+UFC Fight Night: Blanchfield vs. Fiorot ,Chidi Njokuani,Rhys McKee,W/L,0.9400012723320526,W/L
+UFC Fight Night: Blanchfield vs. Fiorot ,Dennis Buzukja,Connor Matthews,W/L,0.8275451748729172,W/L
+UFC Fight Night: Ribas vs. Namajunas ,Karl Williams,Justin Tafa,W/L,0.9621335425555838,W/L
+UFC Fight Night: Ribas vs. Namajunas ,Miles Johns,Cody Gibson,W/L,0.9571513307536168,W/L
+UFC Fight Night: Ribas vs. Namajunas ,Jarno Errens,Steven Nguyen,W/L,0.9354246545765171,W/L
+UFC Fight Night: Tuivasa vs. Tybura ,Tai Tuivasa,Marcin Tybura,L/W,0.43282635403495673,L/W
+UFC Fight Night: Tuivasa vs. Tybura ,Christian Rodriguez,Isaac Dulgarian,W/L,0.9383127594769886,W/L
+UFC Fight Night: Tuivasa vs. Tybura ,Gerald Meerschaert,Bryan Barberena,W/L,0.5402877710048568,W/L
+UFC Fight Night: Tuivasa vs. Tybura ,Natan Levy,Mike Davis,L/W,0.1467635967947443,L/W
+UFC 299: O'Malley vs. Vera 2 ,Gilbert Burns,Jack Della Maddalena,L/W,0.18018125880760527,L/W
+UFC 299: O'Malley vs. Vera 2 ,Curtis Blaydes,Jailton Almeida,W/L,0.6478957739259794,W/L
+UFC Fight Night: Rozenstruik vs. Gaziev ,Jairzinho Rozenstruik,Shamil Gaziev,W/L,0.7104607922668928,W/L
+UFC Fight Night: Rozenstruik vs. Gaziev ,Alex Perez,Muhammad Mokaev,L/W,0.09758964751405588,L/W
+UFC Fight Night: Rozenstruik vs. Gaziev ,Umar Nurmagomedov,Bekzat Almakhan,W/L,0.9963506988919401,W/L
+UFC Fight Night: Moreno vs. Royval 2 ,Brandon Moreno,Brandon Royval,W/L,0.5204866770918836,L/W
+UFC Fight Night: Moreno vs. Royval 2 ,Yair Rodriguez,Brian Ortega,L/W,0.4873060016603534,L/W
+UFC Fight Night: Moreno vs. Royval 2 ,Victor Altamirano,Felipe dos Santos,L/W,0.24708527505056926,L/W
+UFC Fight Night: Moreno vs. Royval 2 ,Erik Silva,Muhammad Naimov,L/W,0.002225888841050677,L/W
+UFC 298: Volkanovski vs. Topuria ,Marcos Rogerio de Lima,Junior Tafa,W/L,0.9871142141359872,W/L
+UFC 298: Volkanovski vs. Topuria ,Oban Elliott,Val Woodburn,W/L,0.9968703370207388,W/L
+UFC Fight Night: Hermansson vs. Pyfer ,Zac Pauga,Bogdan Guskov,L/W,0.34498744600891595,L/W
+UFC Fight Night: Hermansson vs. Pyfer ,Fernie Garcia,Hyder Amil,L/W,0.001891926040020267,L/W
+UFC Fight Night: Dolidze vs. Imavov ,Randy Brown,Muslim Salikhov,W/L,0.7171779598978396,W/L
+UFC Fight Night: Dolidze vs. Imavov ,Viviane Araujo,Natalia Silva,L/W,0.06459416210710947,L/W
+UFC Fight Night: Dolidze vs. Imavov ,Aliaskhab Khizriev,Makhmud Muradov,W/L,0.8643754119478744,NC/NC
+UFC Fight Night: Dolidze vs. Imavov ,Azat Maksum,Charles Johnson,L/W,0.4596322405520822,L/W
+UFC Fight Night: Dolidze vs. Imavov ,Thomas Petersen,Jamal Pogues,L/W,0.010919858227677867,L/W
+UFC 297: Strickland vs. Du Plessis ,Neil Magny,Mike Malott,W/L,0.6975309400585302,W/L
+UFC Fight Night: Ankalaev vs. Walker 2 ,Magomed Ankalaev,Johnny Walker,W/L,0.9298328513778125,W/L
+UFC Fight Night: Ankalaev vs. Walker 2 ,Matthew Semelsberger,Preston Parsons,W/L,0.7878725448608342,L/W
+UFC Fight Night: Ankalaev vs. Walker 2 ,Westin Wilson,Jean Silva,L/W,0.0011871267902995382,L/W
+UFC Fight Night: Ankalaev vs. Walker 2 ,Westin Wilson,Jean Silva,L/W,0.0010192985499719886,L/W
+UFC 255: Figueiredo vs. Perez ,Brandon Moreno,Brandon Royval,W/L,0.5204866770918836,W/L
+UFC Fight Night: Moreno vs. Royval 2 ,Yazmin Jauregui,Sam Hughes,W/L,0.8676404780224533,W/L
+UFC Fight Night: Moreno vs. Royval 2 ,Manuel Torres,Chris Duncan,W/L,0.8706725971801826,W/L
+UFC Fight Night: Moreno vs. Royval 2 ,Edgar Chairez,Daniel Lacerda,W/L,0.9690693450518986,W/L
+UFC Fight Night: Moreno vs. Royval 2 ,Claudio Puelles,Fares Ziam,L/W,0.29055578931372505,L/W
+UFC 298: Volkanovski vs. Topuria ,Robert Whittaker,Paulo Costa,W/L,0.7458853839008556,W/L
+UFC 298: Volkanovski vs. Topuria ,Amanda Lemos,Mackenzie Dern,W/L,0.7056852287705697,W/L
+UFC 298: Volkanovski vs. Topuria ,Josh Quinlan,Danny Barlow,L/W,0.004167281989372458,L/W
+UFC Fight Night: Hermansson vs. Pyfer ,Brad Tavares,Gregory Rodrigues,L/W,0.4196455098712239,L/W
+UFC Fight Night: Dolidze vs. Imavov ,Molly McCann,Diana Belbita,W/L,0.8553285030026766,W/L
+UFC Fight Night: Dolidze vs. Imavov ,JeongYeong Lee,Blake Bilder,W/L,0.9741928086329854,W/L
+UFC Fight Night: Dolidze vs. Imavov ,Luana Carolina,Julija Stoliarenko,W/L,0.9216111616052749,W/L
+UFC 297: Strickland vs. Du Plessis ,Sean Strickland,Dricus Du Plessis,L/W,0.2339306068618876,L/W
+UFC 297: Strickland vs. Du Plessis ,Raquel Pennington,Mayra Bueno Silva,W/L,0.6648797775816002,W/L
+UFC 297: Strickland vs. Du Plessis ,Gillian Robertson,Polyana Viana,W/L,0.8869102030579074,W/L
+UFC 297: Strickland vs. Du Plessis ,Yohan Lainesse,Sam Patterson,W/L,0.5193320494526518,L/W
+UFC 297: Strickland vs. Du Plessis ,Malcolm Gordon,Jimmy Flick,L/W,0.43782639604417894,L/W
+UFC Fight Night: Ankalaev vs. Walker 2 ,Ricky Simon,Mario Bautista,W/L,0.5360001131764824,L/W
+UFC Fight Night: Ankalaev vs. Walker 2 ,Andrei Arlovski,Waldo Cortes-Acosta,L/W,0.30822979605993395,L/W
+UFC Fight Night: Ankalaev vs. Walker 2 ,Nikolas Motta,Tom Nolan,W/L,0.9775114505149723,W/L
+UFC Fight Night: Rozenstruik vs. Gaziev ,Vitor Petrino,Tyson Pedro,W/L,0.9725511426680924,W/L
+UFC Fight Night: Rozenstruik vs. Gaziev ,Aiemann Zahabi,Javid Basharat,L/W,0.2818950139055271,W/L
+UFC Fight Night: Moreno vs. Royval 2 ,Daniel Zellhuber,Francisco Prado,W/L,0.8617230895947945,W/L
+UFC 298: Volkanovski vs. Topuria ,Anthony Hernandez,Roman Kopylov,W/L,0.7983465356982609,W/L
+UFC 298: Volkanovski vs. Topuria ,Andrea Lee,Miranda Maverick,L/W,0.23709668684595764,L/W
+UFC Fight Night: Hermansson vs. Pyfer ,Dan Ige,Andre Fili,W/L,0.7046679429223145,W/L
+UFC Fight Night: Hermansson vs. Pyfer ,Rodolfo Vieira,Armen Petrosyan,W/L,0.5321401528302601,W/L
+UFC Fight Night: Dolidze vs. Imavov ,Roman Dolidze,Nassourdine Imavov,L/W,0.41820342609528216,L/W
+UFC Fight Night: Dolidze vs. Imavov ,Themba Gorimbo,Pete Rodriguez,W/L,0.9705780720090265,W/L
+UFC 297: Strickland vs. Du Plessis ,Chris Curtis,Marc-Andre Barriault,W/L,0.7117304212080274,W/L
+UFC 297: Strickland vs. Du Plessis ,Charles Jourdain,Sean Woodson,L/W,0.0912233067004611,L/W
+UFC Fight Night: Ankalaev vs. Walker 2 ,Jim Miller,Gabriel Benitez,W/L,0.8441436775702762,W/L
+UFC Fight Night: Ankalaev vs. Walker 2 ,Marcus McGhee,Gaston Bolanos,W/L,0.9562655641666363,W/L
+UFC Fight Night: Ankalaev vs. Walker 2 ,Farid Basharat,Taylor Lapilus,W/L,0.8864320351284652,W/L
+UFC Fight Night: Rozenstruik vs. Gaziev ,Eryk Anders,Jamie Pickett,W/L,0.871445560519267,W/L
+UFC Fight Night: Rozenstruik vs. Gaziev ,Ludovit Klein,AJ Cunningham,W/L,0.9912672021797837,W/L
+UFC Fight Night: Rozenstruik vs. Gaziev ,Abdul-Kareem Al-Selwady,Loik Radzhabov,L/W,0.013196411126706404,L/W
+UFC Fight Night: Grasso vs. Shevchenko 2 ,Edgar Chairez,Daniel Lacerda,W/L,0.9690693450518986,NC/NC
+UFC 298: Volkanovski vs. Topuria ,Alexander Volkanovski,Ilia Topuria,W/L,0.494043418245284,L/W
+UFC 298: Volkanovski vs. Topuria ,Merab Dvalishvili,Henry Cejudo,W/L,0.7038965921237114,W/L
+UFC 298: Volkanovski vs. Topuria ,Rinya Nakamura,Carlos Vera,W/L,0.9977603775159456,W/L
+UFC Fight Night: Hermansson vs. Pyfer ,Jack Hermansson,Joe Pyfer,L/W,0.309130993228334,W/L
+UFC Fight Night: Hermansson vs. Pyfer ,Robert Bryczek,Ihor Potieria,L/W,0.052160417586528784,L/W
+UFC Fight Night: Hermansson vs. Pyfer ,Michael Johnson,Darrius Flowers,W/L,0.9741763799143962,W/L
+UFC Fight Night: Hermansson vs. Pyfer ,Trevin Giles,Carlos Prates,L/W,0.07485916528172755,L/W
+UFC Fight Night: Hermansson vs. Pyfer ,Loma Lookboonmee,Bruna Brasil,W/L,0.9171458590050414,W/L
+UFC Fight Night: Hermansson vs. Pyfer ,Devin Clark,Marcin Prachnio,W/L,0.5306462939460462,L/W
+UFC Fight Night: Hermansson vs. Pyfer ,Max Griffin,Jeremiah Wells,W/L,0.5253857819262675,W/L
+UFC Fight Night: Hermansson vs. Pyfer ,Daniel Marcos,Aoriqileng,W/L,0.9404972040359121,NC/NC
+UFC Fight Night: Dolidze vs. Imavov ,Renato Moicano,Drew Dober,W/L,0.6961845086912585,W/L
+UFC Fight Night: Reyes vs. Weidman ,Molly McCann,Diana Belbita,W/L,0.8553285030026766,W/L
+UFC 297: Strickland vs. Du Plessis ,Arnold Allen,Movsar Evloev,L/W,0.3574005225000936,L/W
+UFC 297: Strickland vs. Du Plessis ,Brad Katona,Garrett Armfield,L/W,0.3645103545133592,L/W
+UFC 297: Strickland vs. Du Plessis ,Serhiy Sidey,Ramon Taveras,L/W,0.0004278655391393847,L/W
+UFC 297: Strickland vs. Du Plessis ,Jasmine Jasudavicius,Priscila Cachoeira,W/L,0.8526370700827136,W/L
+UFC 294: Makhachev vs. Volkanovski 2 ,Magomed Ankalaev,Johnny Walker,W/L,0.9298328513778125,NC/NC
+UFC 296: Edwards vs. Covington ,Shavkat Rakhmonov,Stephen Thompson,W/L,0.8333830536665948,W/L
+UFC 296: Edwards vs. Covington ,Tony Ferguson,Paddy Pimblett,L/W,0.197774332880902,L/W
+UFC 296: Edwards vs. Covington ,Josh Emmett,Bryce Mitchell,W/L,0.6253119190064995,W/L
+UFC 296: Edwards vs. Covington ,Cody Garbrandt,Brian Kelleher,W/L,0.7574101675474066,W/L
+UFC Fight Night: Song vs. Gutierrez ,Steve Garcia,Melquizael Costa,W/L,0.9399240908383956,W/L
+UFC Fight Night: Song vs. Gutierrez ,Rayanne Amanda,Talita Alencar,L/W,0.0007747232342018686,L/W
+UFC Fight Night: Dariush vs. Tsarukyan ,Rob Font,Deiveson Figueiredo,L/W,0.3904854091255821,L/W
+UFC Fight Night: Dariush vs. Tsarukyan ,Punahele Soriano,Dustin Stoltzfus,W/L,0.6636246920343268,L/W
+UFC Fight Night: Dariush vs. Tsarukyan ,Zach Reese,Cody Brundage,L/W,0.046091727081655744,L/W
+UFC Fight Night: Dariush vs. Tsarukyan ,Drakkar Klose,Joe Solecki,W/L,0.7193394349499365,W/L
+UFC Fight Night: Dariush vs. Tsarukyan ,Wellington Turman,Jared Gooden,W/L,0.5615156988217284,L/W
+UFC Fight Night: Allen vs. Craig ,Brendan Allen,Paul Craig,W/L,0.9223333929915473,W/L
+UFC Fight Night: Allen vs. Craig ,Chase Hooper,Jordan Leavitt,W/L,0.5661714664544505,W/L
+UFC Fight Night: Allen vs. Craig ,Luana Pinheiro,Amanda Ribas,W/L,0.6551493995373925,L/W
+UFC Fight Night: Allen vs. Craig ,Chad Anheliger,Jose Johnson,W/L,0.5093988420472543,L/W
+UFC Fight Night: Allen vs. Craig ,Lucie Pudilova,Ailin Perez,L/W,0.10606715751692078,L/W
+UFC Fight Night: Allen vs. Craig ,Charles Johnson,Rafael Estevam,L/W,0.025093777013136098,L/W
+UFC 295: Prochazka vs. Pereira ,Sergei Pavlovich,Tom Aspinall,W/L,0.6767363780320312,L/W
+UFC 295: Prochazka vs. Pereira ,Tabatha Ricci,Loopy Godinez,W/L,0.6001861344929136,L/W
+UFC 295: Prochazka vs. Pereira ,John Castaneda,Kyung Ho Kang,W/L,0.6277673161724301,W/L
+UFC 295: Prochazka vs. Pereira ,Joshua Van,Kevin Borjas,W/L,0.9932807971204213,W/L
+UFC Fight Night: Almeida vs. Lewis ,Jailton Almeida,Derrick Lewis,W/L,0.8528515161973755,W/L
+UFC Fight Night: Yusuff vs. Barboza ,Andre Petroski,Michel Pereira,L/W,0.4753487375984365,L/W
+UFC Fight Night: Yusuff vs. Barboza ,Christian Rodriguez,Cameron Saaiman,W/L,0.8157528087586097,W/L
+UFC 296: Edwards vs. Covington ,Leon Edwards,Colby Covington,W/L,0.6761091256657618,W/L
+UFC 296: Edwards vs. Covington ,Irene Aldana,Karol Rosa,L/W,0.4432427146961567,W/L
+UFC Fight Night: Dariush vs. Tsarukyan ,Sean Brady,Kelvin Gastelum,W/L,0.8286555297441613,W/L
+UFC Fight Night: Dariush vs. Tsarukyan ,Clay Guida,Joaquim Silva,W/L,0.6133210616066538,L/W
+UFC Fight Night: Dariush vs. Tsarukyan ,Miesha Tate,Julia Avila,W/L,0.518880278364043,W/L
+UFC Fight Night: Allen vs. Craig ,Jonathan Pearce,Joanderson Brito,W/L,0.5991529343133352,L/W
+UFC 295: Prochazka vs. Pereira ,Jessica Andrade,Mackenzie Dern,W/L,0.586885537866806,W/L
+UFC 295: Prochazka vs. Pereira ,Diego Lopes,Pat Sabatini,W/L,0.7463123447445605,W/L
+UFC 295: Prochazka vs. Pereira ,Mateusz Rebecki,Roosevelt Roberts,W/L,0.9793098489312799,W/L
+UFC 295: Prochazka vs. Pereira ,Nazim Sadykhov,Viacheslav Borshchev,W/L,0.9574611358956203,D/D
+UFC 295: Prochazka vs. Pereira ,Dennis Buzukja,Jamall Emmers,L/W,0.26526812853242765,L/W
+UFC Fight Night: Almeida vs. Lewis ,Gabriel Bonfim,Nicolas Dalby,L/W,0.3783733557225789,L/W
+UFC Fight Night: Almeida vs. Lewis ,Caio Borralho,Abus Magomedov,W/L,0.988314199582815,W/L
+UFC Fight Night: Almeida vs. Lewis ,Angela Hill,Denise Gomes,W/L,0.5839648868511155,W/L
+UFC Fight Night: Almeida vs. Lewis ,Kaue Fernandes,Marc Diakiese,L/W,0.03329269049149617,L/W
+UFC 284: Makhachev vs. Volkanovski ,Islam Makhachev,Alexander Volkanovski,W/L,0.5796259226625461,W/L
+UFC Fight Night: Yusuff vs. Barboza ,Jennifer Maia,Viviane Araujo,L/W,0.4218709571683519,L/W
+UFC Fight Night: Yusuff vs. Barboza ,Darren Elkins,TJ Brown,W/L,0.9169969682558521,W/L
+UFC Fight Night: Ankalaev vs. Walker 2 ,Joshua Van,Felipe Bunes,W/L,0.9958945485241575,W/L
+UFC Fight Night: Cannonier vs. Gastelum ,Alexandre Pantoja,Brandon Royval,W/L,0.6917590898206714,W/L
+UFC 296: Edwards vs. Covington ,Alexandre Pantoja,Brandon Royval,W/L,0.6917590898206714,W/L
+UFC 296: Edwards vs. Covington ,Tagir Ulanbekov,Cody Durden,W/L,0.8628499483816977,W/L
+UFC 296: Edwards vs. Covington ,Martin Buday,Shamil Gaziev,W/L,0.8726901170445499,L/W
+UFC Fight Night: Song vs. Gutierrez ,Song Yadong,Chris Gutierrez,W/L,0.532588722251823,W/L
+UFC Fight Night: Song vs. Gutierrez ,Nasrat Haqparast,Jamie Mullarkey,W/L,0.7343786434932555,W/L
+UFC Fight Night: Song vs. Gutierrez ,Song Kenan,Kevin Jousset,L/W,0.03553588118357374,L/W
+UFC Fight Night: Dariush vs. Tsarukyan ,Jalin Turner,Bobby Green,L/W,0.46160412973639675,W/L
+UFC Fight Night: Allen vs. Craig ,Jeka Saragih,Lucas Alexander,W/L,0.7167671312295737,W/L
+UFC Fight Night: Allen vs. Craig ,Trey Ogden,Nikolas Motta,W/L,0.6990719837342465,NC/NC
+UFC 295: Prochazka vs. Pereira ,Jiri Prochazka,Alex Pereira,L/W,0.4270301926994866,L/W
+UFC 295: Prochazka vs. Pereira ,Jared Gordon,Mark Madsen,W/L,0.5021619286024821,W/L
+UFC Fight Night: Almeida vs. Lewis ,Rodrigo Nascimento,Don'Tale Mayes,W/L,0.9319006869879155,W/L
+UFC Fight Night: Almeida vs. Lewis ,Vitor Petrino,Modestas Bukauskas,W/L,0.9772779782280934,W/L
+UFC Fight Night: Yusuff vs. Barboza ,Jonathan Martinez,Adrian Yanez,W/L,0.6571591981075606,W/L
+UFC 296: Edwards vs. Covington ,Alonzo Menifield,Dustin Jacoby,W/L,0.6772632725488009,W/L
+UFC 296: Edwards vs. Covington ,Casey O'Neill,Ariane Lipski,W/L,0.6168879082146019,L/W
+UFC 296: Edwards vs. Covington ,Andre Fili,Lucas Almeida,W/L,0.8503716090697422,W/L
+UFC Fight Night: Song vs. Gutierrez ,Anthony Smith,Khalil Rountree Jr.,L/W,0.44754198779602367,L/W
+UFC Fight Night: Song vs. Gutierrez ,Tim Elliott,Sumudaerji,W/L,0.7362232607435774,W/L
+UFC Fight Night: Song vs. Gutierrez ,HyunSung Park,Shannon Ross,W/L,0.9952696198169889,W/L
+UFC Fight Night: Song vs. Gutierrez ,Luana Santos,Stephanie Egger,W/L,0.9794982969563276,W/L
+UFC Fight Night: Song vs. Gutierrez ,Tatsuro Taira,Carlos Hernandez,W/L,0.973994201316254,W/L
+UFC Fight Night: Dariush vs. Tsarukyan ,Beneil Dariush,Arman Tsarukyan,L/W,0.4052402761734995,L/W
+UFC Fight Night: Dariush vs. Tsarukyan ,Rodolfo Bellato,Ihor Potieria,W/L,0.9581587029140597,W/L
+UFC Fight Night: Allen vs. Craig ,Michael Morales,Jake Matthews,W/L,0.932261485525523,W/L
+UFC Fight Night: Allen vs. Craig ,Payton Talbott,Nick Aguirre,W/L,0.9934655666445229,W/L
+UFC Fight Night: Allen vs. Craig ,Uros Medic,Myktybek Orolbai,L/W,0.32082551482015015,L/W
+UFC Fight Night: Allen vs. Craig ,Jeka Saragih,Lucas Alexander,W/L,0.7087926571668856,W/L
+UFC 295: Prochazka vs. Pereira ,Matt Frevola,Benoit Saint Denis,L/W,0.4317442888320061,L/W
+UFC Fight Night: Overeem vs. Harris ,Rodrigo Nascimento,Don'Tale Mayes,W/L,0.9319006869879155,W/L
+UFC Fight Night: Almeida vs. Lewis ,Rinat Fakhretdinov,Elizeu Zaleski dos Santos,W/L,0.8865375496677608,D/D
+UFC 294: Makhachev vs. Volkanovski 2 ,Islam Makhachev,Alexander Volkanovski,W/L,0.5796259226625461,W/L
+UFC Fight Night: Yusuff vs. Barboza ,Sodiq Yusuff,Edson Barboza,W/L,0.5361692043817663,L/W
+UFC Fight Night: Yusuff vs. Barboza ,Terrance McKinney,Brendon Marotte,W/L,0.9829068427389588,W/L
+UFC Fight Night: Dawson vs. Green ,Joe Pyfer,Abdul Razak Alhassan,W/L,0.8566790297172925,W/L
+UFC Fight Night: Dawson vs. Green ,Karolina Kowalkiewicz,Diana Belbita,W/L,0.8354591164503802,W/L
+UFC Fight Night: Fiziev vs. Gamrot ,Bryan Battle,AJ Fletcher,W/L,0.9707737043163971,W/L
+UFC Fight Night: Grasso vs. Shevchenko 2 ,Alex Reyes,Charlie Campbell,L/W,0.00035666471120128474,L/W
+UFC 293: Adesanya vs. Strickland ,Israel Adesanya,Sean Strickland,W/L,0.7501251368417923,L/W
+UFC 293: Adesanya vs. Strickland ,Manel Kape,Felipe dos Santos,W/L,0.6906373751063125,W/L
+UFC 293: Adesanya vs. Strickland ,Tyson Pedro,Anton Turkalj,W/L,0.9667147215831641,W/L
+UFC 293: Adesanya vs. Strickland ,Jamie Mullarkey,John Makdessi,L/W,0.25393030688009827,W/L
+UFC 293: Adesanya vs. Strickland ,Shane Young,Gabriel Miranda,L/W,0.31068921674070593,L/W
+UFC Fight Night: Gane vs. Spivac ,Taylor Lapilus,Caolan Loughran,W/L,0.7531936314650414,W/L
+UFC Fight Night: Gane vs. Spivac ,Ange Loosa,Rhys McKee,W/L,0.9622633182731416,W/L
+UFC Fight Night: Gane vs. Spivac ,Nora Cornolle,Joselyne Edwards,W/L,0.9029858032059646,W/L
+UFC Fight Night: Smith vs. Spann ,Anthony Smith,Ryan Spann,W/L,0.5726298951821758,W/L
+UFC 292: Sterling vs. O'Malley ,Kurt Holobaugh,Austin Hubbard,L/W,0.16131634717020546,W/L
+UFC 292: Sterling vs. O'Malley ,Andrea Lee,Natalia Silva,L/W,0.021675969210040422,L/W
+UFC 292: Sterling vs. O'Malley ,Karine Silva,Maryna Moroz,W/L,0.9589679312972066,W/L
+UFC Fight Night: Dawson vs. Green ,Drew Dober,Ricky Glenn,W/L,0.7016312604506525,W/L
+UFC Fight Night: Dawson vs. Green ,Alexander Hernandez,Bill Algeo,L/W,0.2814874573470934,L/W
+UFC Fight Night: Fiziev vs. Gamrot ,Bryce Mitchell,Dan Ige,W/L,0.6809535471537301,W/L
+UFC Fight Night: Fiziev vs. Gamrot ,Tim Means,Andre Fialho,W/L,0.922176689366855,W/L
+UFC Fight Night: Fiziev vs. Gamrot ,Tamires Vidal,Montserrat Rendon,W/L,0.5597579136041271,L/W
+UFC Fight Night: Grasso vs. Shevchenko 2 ,Fernando Padilla,Kyle Nelson,W/L,0.6265386236425796,L/W
+UFC Fight Night: Grasso vs. Shevchenko 2 ,Loopy Godinez,Elise Reed,W/L,0.817769343414369,W/L
+UFC Fight Night: Grasso vs. Shevchenko 2 ,Roman Kopylov,Josh Fremd,W/L,0.8336143816552626,W/L
+UFC Fight Night: Grasso vs. Shevchenko 2 ,Josefine Knutsson,Marnic Mann,W/L,0.9961163097619928,W/L
+UFC Fight Night: Gane vs. Spivac ,Benoit Saint Denis,Thiago Moises,W/L,0.7867034644785224,W/L
+UFC Fight Night: Gane vs. Spivac ,Volkan Oezdemir,Bogdan Guskov,W/L,0.8374630710396062,W/L
+UFC 292: Sterling vs. O'Malley ,Da'Mon Blackshear,Mario Bautista,L/W,0.1726529694842134,L/W
+UFC 292: Sterling vs. O'Malley ,Chris Weidman,Brad Tavares,W/L,0.5518044458194082,L/W
+UFC Fight Night: Luque vs. Dos Anjos ,Khalil Rountree Jr.,Chris Daukaus,W/L,0.7796185618264674,W/L
+UFC Fight Night: Luque vs. Dos Anjos ,Polyana Viana,Iasmin Lucindo,L/W,0.17989764008022738,L/W
+UFC Fight Night: Luque vs. Dos Anjos ,Josh Fremd,Jamie Pickett,W/L,0.6724048016187614,W/L
+UFC Fight Night: Luque vs. Dos Anjos ,Terrance McKinney,Mike Breeden,W/L,0.9754966683360312,W/L
+UFC Fight Night: Sandhagen vs. Font ,Cory Sandhagen,Rob Font,W/L,0.7333810359425478,W/L
+UFC Fight Night: Yusuff vs. Barboza ,Chris Gutierrez,Alatengheili,W/L,0.5943251778917905,W/L
+UFC Fight Night: Yusuff vs. Barboza ,Ashley Yoder,Emily Ducote,L/W,0.1181079116014125,L/W
+UFC Fight Night: Dawson vs. Green ,Grant Dawson,Bobby Green,W/L,0.8742946883874505,L/W
+UFC Fight Night: Dawson vs. Green ,Alex Morono,Joaquin Buckley,W/L,0.5721273600148976,L/W
+UFC Fight Night: Dawson vs. Green ,Nate Maness,Mateus Mendonca,W/L,0.9836641307580095,W/L
+UFC Fight Night: Dawson vs. Green ,Vanessa Demopoulos,Kanako Murata,W/L,0.926314266822532,W/L
+UFC Fight Night: Dawson vs. Green ,Aoriqileng,Johnny Munoz,W/L,0.7696762566486809,W/L
+UFC Fight Night: Fiziev vs. Gamrot ,Rafael Fiziev,Mateusz Gamrot,L/W,0.33622087894289215,L/W
+UFC Fight Night: Fiziev vs. Gamrot ,Jacob Malkoun,Cody Brundage,W/L,0.8160427009961487,L/W
+UFC Fight Night: Grasso vs. Shevchenko 2 ,Alexa Grasso,Valentina Shevchenko,L/W,0.34411315780081103,D/D
+UFC Fight Night: Grasso vs. Shevchenko 2 ,Kevin Holland,Jack Della Maddalena,L/W,0.11756238881003012,L/W
+UFC Fight Night: Grasso vs. Shevchenko 2 ,Daniel Zellhuber,Christos Giagos,W/L,0.8447373282024268,W/L
+UFC 293: Adesanya vs. Strickland ,Kevin Jousset,Kiefer Crosbie,W/L,0.997124404284716,W/L
+UFC Fight Night: Gane vs. Spivac ,Manon Fiorot,Rose Namajunas,W/L,0.8498712627081202,W/L
+UFC Fight Night: Gane vs. Spivac ,Morgan Charriere,Manolo Zecchini,W/L,0.9798166374762539,W/L
+UFC Fight Night: Gane vs. Spivac ,Zarah Fairn,Jacqueline Cavalcanti,L/W,0.00025366696300046956,L/W
+UFC Fight Night: Holloway vs. The Korean Zombie ,Anthony Smith,Ryan Spann,W/L,0.5726298951821758,W/L
+UFC 292: Sterling vs. O'Malley ,Zhang Weili,Amanda Lemos,W/L,0.7920343022620148,W/L
+UFC 292: Sterling vs. O'Malley ,Andre Petroski,Gerald Meerschaert,W/L,0.8248475357042077,W/L
+UFC Fight Night: Luque vs. Dos Anjos ,Vicente Luque,Rafael Dos Anjos,W/L,0.706401758295028,W/L
+UFC Fight Night: Luque vs. Dos Anjos ,Cub Swanson,Hakeem Dawodu,W/L,0.5215601683633964,W/L
+UFC Fight Night: Luque vs. Dos Anjos ,AJ Dobson,Tafon Nchukwi,L/W,0.3305968293455921,W/L
+UFC Fight Night: Luque vs. Dos Anjos ,JP Buys,Marcus McGhee,L/W,0.0013250533574190445,L/W
+UFC Fight Night: Luque vs. Dos Anjos ,Francis Marshall,Isaac Dulgarian,L/W,0.3724091098062005,L/W
+UFC Fight Night: Luque vs. Dos Anjos ,Josh Parisian,Martin Buday,L/W,0.04334712912290817,L/W
+UFC Fight Night: Luque vs. Dos Anjos ,Juliana Miller,Luana Santos,L/W,0.015181484404206113,L/W
+UFC Fight Night: Dawson vs. Green ,Montana De La Rosa,JJ Aldrich,L/W,0.30387367275277327,L/W
+UFC Fight Night: Fiziev vs. Gamrot ,Ricardo Ramos,Charles Jourdain,W/L,0.547463884737093,L/W
+UFC Fight Night: Fiziev vs. Gamrot ,Mohammed Usman,Jake Collier,W/L,0.8950984884825306,W/L
+UFC Fight Night: Grasso vs. Shevchenko 2 ,Raul Rosas Jr.,Terrence Mitchell,W/L,0.9894140045026631,W/L
+UFC Fight Night: Grasso vs. Shevchenko 2 ,Tracy Cortez,Jasmine Jasudavicius,W/L,0.8814630516487252,W/L
+UFC 293: Adesanya vs. Strickland ,Tai Tuivasa,Alexander Volkov,L/W,0.17759074680096906,L/W
+UFC 293: Adesanya vs. Strickland ,Justin Tafa,Austen Lane,W/L,0.978450124886028,W/L
+UFC 293: Adesanya vs. Strickland ,Nasrat Haqparast,Landon Quinones,W/L,0.9739855009966352,W/L
+UFC Fight Night: Gane vs. Spivac ,Ciryl Gane,Serghei Spivac,W/L,0.8969139966804148,W/L
+UFC Fight Night: Gane vs. Spivac ,William Gomis,Yanis Ghemmouri,W/L,0.9965557984257004,W/L
+UFC Fight Night: Gane vs. Spivac ,Farid Basharat,Kleydson Rodrigues,W/L,0.9859554135912448,W/L
+UFC 292: Sterling vs. O'Malley ,Aljamain Sterling,Sean O'Malley,L/W,0.32120541529750685,L/W
+UFC 292: Sterling vs. O'Malley ,Marlon Vera,Pedro Munhoz,W/L,0.7634289507573543,W/L
+UFC 292: Sterling vs. O'Malley ,Gregory Rodrigues,Denis Tiuliulin,W/L,0.9726957996483918,W/L
+UFC 292: Sterling vs. O'Malley ,Brad Katona,Cody Gibson,W/L,0.8254040277169049,W/L
+UFC Fight Night: Luque vs. Dos Anjos ,Da'Mon Blackshear,Jose Johnson,L/W,0.45806783068919454,W/L
+UFC Fight Night: Sandhagen vs. Font ,Jeremiah Wells,Carlston Harris,L/W,0.3945446058639768,L/W
+UFC 291: Poirier vs. Gaethje 2 ,Michael Chiesa,Kevin Holland,W/L,0.4979891964717118,L/W
+UFC 291: Poirier vs. Gaethje 2 ,Matthew Semelsberger,Uros Medic,W/L,0.6445635258529095,L/W
+UFC 291: Poirier vs. Gaethje 2 ,Miranda Maverick,Priscila Cachoeira,W/L,0.8520534595316059,W/L
+UFC Fight Night: Aspinall vs. Tybura ,Molly McCann,Julija Stoliarenko,W/L,0.906557740969509,L/W
+UFC Fight Night: Aspinall vs. Tybura ,Lerone Murphy,Josh Culibao,W/L,0.9455813884297931,W/L
+UFC Fight Night: Aspinall vs. Tybura ,Danny Roberts,Jonny Parsons,L/W,0.04285038986928719,L/W
+UFC Fight Night: Aspinall vs. Tybura ,Makhmud Muradov,Bryan Barberena,W/L,0.6853138549756558,W/L
+UFC Fight Night: Aspinall vs. Tybura ,Jafel Filho,Daniel Barez,W/L,0.9766616066692533,W/L
+UFC Fight Night: Holm vs. Bueno Silva ,Holly Holm,Mayra Bueno Silva,L/W,0.38231252190930826,NC/NC
+UFC Fight Night: Holm vs. Bueno Silva ,Tyson Nam,Azat Maksum,L/W,0.23622825085987004,L/W
+UFC 290: Volkanovski vs. Rodriguez ,Alexander Volkanovski,Yair Rodriguez,W/L,0.7503759428545052,W/L
+UFC 290: Volkanovski vs. Rodriguez ,Robbie Lawler,Niko Price,W/L,0.8656515779507462,W/L
+UFC 290: Volkanovski vs. Rodriguez ,Tatsuro Taira,Edgar Chairez,W/L,0.9879808497635901,W/L
+UFC 290: Volkanovski vs. Rodriguez ,Yazmin Jauregui,Denise Gomes,W/L,0.7969361395599595,L/W
+UFC 290: Volkanovski vs. Rodriguez ,Vitor Petrino,Marcin Prachnio,W/L,0.9711779133725371,W/L
+UFC 290: Volkanovski vs. Rodriguez ,Cameron Saaiman,Terrence Mitchell,W/L,0.985278229423968,W/L
+UFC Fight Night: Strickland vs. Magomedov ,Max Griffin,Michael Morales,L/W,0.039583759059309144,L/W
+UFC Fight Night: Sandhagen vs. Font ,Dustin Jacoby,Kennedy Nzechukwu,W/L,0.5227468069259025,W/L
+UFC Fight Night: Sandhagen vs. Font ,Tanner Boser,Aleksa Camur,W/L,0.7751336069574797,W/L
+UFC Fight Night: Sandhagen vs. Font ,Cody Durden,Jake Hadley,W/L,0.7305779391493381,W/L
+UFC 291: Poirier vs. Gaethje 2 ,Dustin Poirier,Justin Gaethje,W/L,0.6448594752170397,L/W
+UFC 291: Poirier vs. Gaethje 2 ,CJ Vergara,Vinicius Salvador,W/L,0.9231829591691237,W/L
+UFC Fight Night: Aspinall vs. Tybura ,Paul Craig,Andre Muniz,L/W,0.37317566325495977,W/L
+UFC Fight Night: Aspinall vs. Tybura ,Davey Grant,Daniel Marcos,L/W,0.03259409609138697,L/W
+UFC Fight Night: Holm vs. Bueno Silva ,Jack Della Maddalena,Bassil Hafez,W/L,0.9945374322254997,W/L
+UFC Fight Night: Holm vs. Bueno Silva ,Ottman Azaitar,Francisco Prado,W/L,0.5123147046515274,L/W
+UFC Fight Night: Holm vs. Bueno Silva ,Nazim Sadykhov,Terrance McKinney,W/L,0.9707447092087315,W/L
+UFC Fight Night: Holm vs. Bueno Silva ,Tucker Lutz,Melsik Baghdasaryan,L/W,0.026778122099410034,L/W
+UFC Fight Night: Holm vs. Bueno Silva ,Austin Lingo,Melquizael Costa,W/L,0.6726381269596129,L/W
+UFC Fight Night: Maia vs. Usman ,Brandon Moreno,Alexandre Pantoja,L/W,0.45476155323215933,L/W
+UFC 290: Volkanovski vs. Rodriguez ,Brandon Moreno,Alexandre Pantoja,L/W,0.45476155323215933,L/W
+UFC 290: Volkanovski vs. Rodriguez ,Robert Whittaker,Dricus Du Plessis,L/W,0.2645018311392126,L/W
+UFC Fight Night: Strickland vs. Magomedov ,Joanderson Brito,Westin Wilson,W/L,0.9962212680775804,W/L
+UFC Fight Night: Strickland vs. Magomedov ,Ivana Petrovic,Luana Carolina,L/W,0.01503221002167227,L/W
+UFC Fight Night: Strickland vs. Magomedov ,Alexandr Romanov,Blagoy Ivanov,W/L,0.8871560804988191,W/L
+UFC Fight Night: Emmett vs. Topuria ,Josh Emmett,Ilia Topuria,L/W,0.25975379656130365,L/W
+UFC Fight Night: Emmett vs. Topuria ,Amanda Ribas,Maycee Barber,L/W,0.37026624804123454,L/W
+UFC Fight Night: Emmett vs. Topuria ,David Onama,Gabriel Santos,W/L,0.970830001542555,W/L
+UFC Fight Night: Sandhagen vs. Font ,Jessica Andrade,Tatiana Suarez,L/W,0.28162682275448425,L/W
+UFC Fight Night: Sandhagen vs. Font ,Ignacio Bahamondes,Ludovit Klein,L/W,0.3443554406902756,L/W
+UFC Fight Night: Sandhagen vs. Font ,Kyler Phillips,Raoni Barcelos,W/L,0.8346227622030713,W/L
+UFC Fight Night: Sandhagen vs. Font ,Billy Quarantillo,Damon Jackson,W/L,0.5833751297140148,W/L
+UFC Fight Night: Poirier vs. Gaethje ,Dustin Poirier,Justin Gaethje,W/L,0.6448594752170397,W/L
+UFC 291: Poirier vs. Gaethje 2 ,Jan Blachowicz,Alex Pereira,L/W,0.2490126935996767,L/W
+UFC 291: Poirier vs. Gaethje 2 ,Derrick Lewis,Marcos Rogerio de Lima,W/L,0.8279729233941342,W/L
+UFC 291: Poirier vs. Gaethje 2 ,Tony Ferguson,Bobby Green,W/L,0.6525205220898823,L/W
+UFC Fight Night: Aspinall vs. Tybura ,Tom Aspinall,Marcin Tybura,W/L,0.8847571762931328,W/L
+UFC Fight Night: Aspinall vs. Tybura ,Nathaniel Wood,Andre Fili,W/L,0.8365391408342658,W/L
+UFC Fight Night: Aspinall vs. Tybura ,Marc Diakiese,Joel Alvarez,L/W,0.290515084279174,L/W
+UFC Fight Night: Aspinall vs. Tybura ,Ketlen Vieira,Pannie Kianzad,W/L,0.8429194258219771,W/L
+UFC Fight Night: Aspinall vs. Tybura ,Shauna Bannon,Bruna Brasil,L/W,0.05446902319117929,L/W
+UFC Fight Night: Holm vs. Bueno Silva ,Norma Dumont,Chelsea Chandler,W/L,0.7956090184922611,W/L
+UFC Fight Night: Holm vs. Bueno Silva ,Viktoriia Dudakova,Istela Nunes,W/L,0.9918623006681115,W/L
+UFC Fight Night: Holm vs. Bueno Silva ,Evan Elder,Genaro Valdez,W/L,0.8566925778135818,W/L
+UFC Fight Night: Holm vs. Bueno Silva ,Alexander Munoz,Carl Deaton,W/L,0.8768752046249204,W/L
+UFC Fight Night: Holm vs. Bueno Silva ,Ashlee Evans-Smith,Ailin Perez,L/W,0.09239332203622555,L/W
+UFC 290: Volkanovski vs. Rodriguez ,Bo Nickal,Val Woodburn,W/L,0.990316192035939,W/L
+UFC 284: Makhachev vs. Volkanovski ,Jimmy Crute,Alonzo Menifield,L/W,0.26768142066859585,D/D
+UFC 290: Volkanovski vs. Rodriguez ,Jimmy Crute,Alonzo Menifield,L/W,0.26768142066859585,L/W
+UFC Fight Night: Strickland vs. Magomedov ,Sean Strickland,Abus Magomedov,W/L,0.9633619245036488,W/L
+UFC Fight Night: Strickland vs. Magomedov ,Damir Ismagulov,Grant Dawson,L/W,0.3552000940217721,L/W
+UFC Fight Night: Strickland vs. Magomedov ,Ismael Bonfim,Benoit Saint Denis,L/W,0.23113858606211157,L/W
+UFC Fight Night: Strickland vs. Magomedov ,Kevin Lee,Rinat Fakhretdinov,L/W,0.13240205133711985,L/W
+UFC Fight Night: Emmett vs. Topuria ,Austen Lane,Justin Tafa,L/W,0.012426823136278811,NC/NC
+UFC Fight Night: Sandhagen vs. Font ,Diego Lopes,Gavin Tucker,W/L,0.8114303041339614,W/L
+UFC Fight Night: Sandhagen vs. Font ,Sean Woodson,Dennis Buzukja,W/L,0.9467306008790068,W/L
+UFC 291: Poirier vs. Gaethje 2 ,Gabriel Bonfim,Trevin Giles,W/L,0.6404167651191229,W/L
+UFC 291: Poirier vs. Gaethje 2 ,Roman Kopylov,Claudio Ribeiro,W/L,0.9330287562363876,W/L
+UFC 291: Poirier vs. Gaethje 2 ,Jake Matthews,Darrius Flowers,W/L,0.9829143783280283,W/L
+UFC Fight Night: Aspinall vs. Tybura ,Jai Herbert,Fares Ziam,L/W,0.04455169105297993,L/W
+UFC 290: Volkanovski vs. Rodriguez ,Jalin Turner,Dan Hooker,L/W,0.3833897799253671,L/W
+UFC 290: Volkanovski vs. Rodriguez ,Kamuela Kirk,Esteban Ribovics,L/W,0.20072156716004333,L/W
+UFC Fight Night: Strickland vs. Magomedov ,Ariane Lipski,Melissa Gatto,W/L,0.5653760504948467,W/L
+UFC Fight Night: Emmett vs. Topuria ,Brendan Allen,Bruno Silva,W/L,0.8961749734932744,W/L
+UFC Fight Night: Emmett vs. Topuria ,Brendan Allen,Bruno Silva,W/L,0.9164322285385885,W/L
+UFC Fight Night: Emmett vs. Topuria ,Mateusz Rebecki,Loik Radzhabov,W/L,0.9378836697256908,W/L
+UFC Fight Night: Emmett vs. Topuria ,Tabatha Ricci,Gillian Robertson,W/L,0.7039285368221173,W/L
+UFC Fight Night: Emmett vs. Topuria ,Cody Brundage,Sedriques Dumas,W/L,0.7332826587672627,L/W
+UFC Fight Night: Vettori vs. Cannonier ,Nicolas Dalby,Muslim Salikhov,W/L,0.6603717312651032,W/L
+UFC 289: Nunes vs. Aldana ,Aiemann Zahabi,Aoriqileng,W/L,0.7224493760227382,W/L
+UFC 289: Nunes vs. Aldana ,Diana Belbita,Maria Oliveira,W/L,0.5361586801061332,W/L
+UFC Fight Night: Kara-France vs. Albazi ,Tim Elliott,Victor Altamirano,W/L,0.7282687440667944,W/L
+UFC Fight Night: Kara-France vs. Albazi ,Karine Silva,Ketlen Souza,W/L,0.9973916998712273,W/L
+UFC Fight Night: Kara-France vs. Albazi ,Elise Reed,Jinh Yu Frey,W/L,0.6452526664154129,W/L
+UFC Fight Night: Dern vs. Hill ,Mackenzie Dern,Angela Hill,W/L,0.6243272056005003,W/L
+UFC Fight Night: Dern vs. Hill ,Emily Ducote,Loopy Godinez,L/W,0.2670714174921424,L/W
+UFC Fight Night: Dern vs. Hill ,Andre Fialho,Joaquin Buckley,L/W,0.11092866425943737,L/W
+UFC Fight Night: Dern vs. Hill ,Ilir Latifi,Rodrigo Nascimento,L/W,0.2890792520551395,L/W
+UFC Fight Night: Dern vs. Hill ,Natalia Silva,Victoria Leonardo,W/L,0.989623921676171,W/L
+UFC Fight Night: Rozenstruik vs. Almeida ,Matt Brown,Court McGee,W/L,0.7327622779115621,W/L
+UFC Fight Night: Rozenstruik vs. Almeida ,Karl Williams,Chase Sherman,W/L,0.9818333513036305,W/L
+UFC 288: Sterling vs. Cejudo ,Kron Gracie,Charles Jourdain,L/W,0.11893246231245357,L/W
+UFC Fight Night: Song vs. Simon ,Caio Borralho,Michal Oleksiejczuk,W/L,0.969692209286601,W/L
+UFC Fight Night: Emmett vs. Topuria ,Randy Brown,Wellington Turman,W/L,0.9289506601773645,W/L
+UFC Fight Night: Emmett vs. Topuria ,Zhalgas Zhumagulov,Joshua Van,L/W,0.001973239752821405,L/W
+UFC Fight Night: Vettori vs. Cannonier ,Marvin Vettori,Jared Cannonier,W/L,0.5509324572275347,L/W
+UFC Fight Night: Vettori vs. Cannonier ,Jimmy Flick,Alessandro Costa,W/L,0.5201947924974735,L/W
+UFC Fight Night: Vettori vs. Cannonier ,Tereza Bleda,Gabriella Fernandes,W/L,0.9331495438546572,W/L
+UFC 289: Nunes vs. Aldana ,Nassourdine Imavov,Chris Curtis,W/L,0.6310676739415286,NC/NC
+UFC 289: Nunes vs. Aldana ,Kyle Nelson,Blake Bilder,W/L,0.6107628695544624,W/L
+UFC Fight Night: Kara-France vs. Albazi ,Kai Kara-France,Amir Albazi,L/W,0.09107277415694,L/W
+UFC Fight Night: Kara-France vs. Albazi ,Daniel Santos,Johnny Munoz,W/L,0.8989394430504091,W/L
+UFC Fight Night: Kara-France vs. Albazi ,Andrei Arlovski,Don'Tale Mayes,W/L,0.8532443349792753,L/W
+UFC Fight Night: Kara-France vs. Albazi ,Jamie Mullarkey,Muhammad Naimov,L/W,0.05916428159788296,L/W
+UFC Fight Night: Kara-France vs. Albazi ,Da'Mon Blackshear,Luan Lacerda,W/L,0.9474463816565625,W/L
+UFC Fight Night: Dern vs. Hill ,Chase Hooper,Nick Fiore,W/L,0.9672842802361619,W/L
+UFC Fight Night: Rozenstruik vs. Almeida ,Cody Stamann,Douglas Silva de Andrade,W/L,0.509139165587274,L/W
+UFC Fight Night: Rozenstruik vs. Almeida ,Jessica-Rose Clark,Tainara Lisboa,L/W,0.030764798582306113,L/W
+UFC 288: Sterling vs. Cejudo ,Aljamain Sterling,Henry Cejudo,W/L,0.6610160173964684,W/L
+UFC 288: Sterling vs. Cejudo ,Khaos Williams,Rolando Bedoya,W/L,0.9685648248962407,W/L
+UFC 288: Sterling vs. Cejudo ,Joseph Holmes,Claudio Ribeiro,W/L,0.5948424492033333,L/W
+UFC Fight Night: Song vs. Simon ,Song Yadong,Ricky Simon,W/L,0.7893177689742333,W/L
+UFC Fight Night: Emmett vs. Topuria ,Neil Magny,Phil Rowe,W/L,0.7506816249634358,W/L
+UFC Fight Night: Emmett vs. Topuria ,Jamall Emmers,Jack Jenkins,L/W,0.15859695401947832,L/W
+UFC Fight Night: Vettori vs. Cannonier ,Arman Tsarukyan,Joaquim Silva,W/L,0.8617408368039545,W/L
+UFC Fight Night: Vettori vs. Cannonier ,Pat Sabatini,Lucas Almeida,W/L,0.944771990332212,W/L
+UFC Fight Night: Vettori vs. Cannonier ,Carlos Hernandez,Denys Bondar,W/L,0.9314348584691418,W/L
+UFC Fight Night: Vettori vs. Cannonier ,Zac Pauga,Modestas Bukauskas,L/W,0.17525710039507333,L/W
+UFC 289: Nunes vs. Aldana ,Amanda Nunes,Irene Aldana,W/L,0.8756335986874909,W/L
+UFC 289: Nunes vs. Aldana ,Marc-Andre Barriault,Eryk Anders,L/W,0.3276134957352271,W/L
+UFC 289: Nunes vs. Aldana ,Miranda Maverick,Jasmine Jasudavicius,W/L,0.5079969739620621,L/W
+UFC Fight Night: Kara-France vs. Albazi ,Jim Miller,Jesse Butler,W/L,0.9963202114947057,W/L
+UFC Fight Night: Kara-France vs. Albazi ,John Castaneda,Muin Gafurov,W/L,0.9761174555141175,W/L
+UFC Fight Night: Kara-France vs. Albazi ,Philipe Lins,Maxim Grishin,W/L,0.80866651573583,W/L
+UFC Fight Night: Dern vs. Hill ,Diego Ferreira,Michael Johnson,W/L,0.6007270623369192,W/L
+UFC Fight Night: Dern vs. Hill ,Orion Cosce,Gilbert Urbina,W/L,0.5752120115558672,L/W
+UFC Fight Night: Rozenstruik vs. Almeida ,Jairzinho Rozenstruik,Jailton Almeida,L/W,0.40577036261668176,L/W
+UFC Fight Night: Rozenstruik vs. Almeida ,Carlos Ulberg,Ihor Potieria,W/L,0.9479091038889169,W/L
+UFC Fight Night: Rozenstruik vs. Almeida ,Bryan Battle,Gabe Green,W/L,0.9223351223159633,W/L
+UFC 288: Sterling vs. Cejudo ,Belal Muhammad,Gilbert Burns,W/L,0.750430860572291,W/L
+UFC 288: Sterling vs. Cejudo ,Jessica Andrade,Yan Xiaonan,L/W,0.4340556946789436,L/W
+UFC 288: Sterling vs. Cejudo ,Movsar Evloev,Diego Lopes,W/L,0.9089052859627259,W/L
+UFC 288: Sterling vs. Cejudo ,Kennedy Nzechukwu,Devin Clark,W/L,0.560319847904021,W/L
+UFC Fight Night: Vettori vs. Cannonier ,Manuel Torres,Nikolas Motta,W/L,0.9728541401588628,W/L
+UFC 289: Nunes vs. Aldana ,Charles Oliveira,Beneil Dariush,W/L,0.7262166765806921,W/L
+UFC 289: Nunes vs. Aldana ,Mike Malott,Adam Fugitt,W/L,0.9499424121436559,W/L
+UFC 289: Nunes vs. Aldana ,Dan Ige,Nate Landwehr,W/L,0.635164791745624,W/L
+UFC Fight Night: Kara-France vs. Albazi ,Alex Caceres,Daniel Pineda,W/L,0.8553993314211769,W/L
+UFC Fight Night: Kara-France vs. Albazi ,Abubakar Nurmagomedov,Elizeu Zaleski dos Santos,L/W,0.12807552147926965,L/W
+UFC Fight Night: Dern vs. Hill ,Edmen Shahbazyan,Anthony Hernandez,W/L,0.4950940855962961,L/W
+UFC Fight Night: Dern vs. Hill ,Maheshate,Viacheslav Borshchev,L/W,0.15800860981272138,L/W
+UFC Fight Night: Dern vs. Hill ,Karolina Kowalkiewicz,Vanessa Demopoulos,L/W,0.3703714541028276,W/L
+UFC Fight Night: Dern vs. Hill ,Takashi Sato,Themba Gorimbo,L/W,0.12535908564906614,L/W
+UFC Fight Night: Rozenstruik vs. Almeida ,Anthony Smith,Johnny Walker,W/L,0.585202255037821,L/W
+UFC Fight Night: Rozenstruik vs. Almeida ,Tim Means,Alex Morono,L/W,0.41595227894482983,L/W
+UFC Fight Night: Rozenstruik vs. Almeida ,Ji Yeon Kim,Mandy Bohm,L/W,0.3311283176306863,L/W
+UFC 288: Sterling vs. Cejudo ,Drew Dober,Matt Frevola,W/L,0.6838788436944133,L/W
+UFC 288: Sterling vs. Cejudo ,Marina Rodriguez,Virna Jandiroba,W/L,0.6587806619800666,L/W
+UFC 288: Sterling vs. Cejudo ,Braxton Smith,Parker Porter,L/W,0.011398069248145647,L/W
+UFC 288: Sterling vs. Cejudo ,Phil Hawes,Ikram Aliskerov,L/W,0.09083791144646311,L/W
+UFC Fight Night: Song vs. Simon ,Julian Erosa,Fernando Padilla,L/W,0.22091445241892352,L/W
+UFC Fight Night: Song vs. Simon ,Martin Buday,Jake Collier,W/L,0.9373992586353775,W/L
+UFC Fight Night: Song vs. Simon ,Cody Durden,Charles Johnson,W/L,0.7052958745012877,W/L
+UFC Fight Night: Song vs. Simon ,Journey Newson,Marcus McGhee,L/W,0.006207320636451928,L/W
+UFC Fight Night: Pavlovich vs. Blaydes ,Rani Yahya,Montel Jackson,W/L,0.5684436074538891,L/W
+UFC Fight Night: Pavlovich vs. Blaydes ,Karol Rosa,Norma Dumont,L/W,0.3787468835286448,L/W
+UFC Fight Night: Holloway vs. Allen ,Tanner Boser,Ion Cutelaba,W/L,0.7028094811989745,L/W
+UFC Fight Night: Holloway vs. Allen ,Clay Guida,Rafa Garcia,W/L,0.6342317251287428,L/W
+UFC Fight Night: Holloway vs. Allen ,Bill Algeo,TJ Brown,W/L,0.8081413365420477,W/L
+UFC 287: Pereira vs. Adesanya 2 ,Gilbert Burns,Jorge Masvidal,W/L,0.6974885801725378,W/L
+UFC 287: Pereira vs. Adesanya 2 ,Shayilan Nuerdanbieke,Steve Garcia,W/L,0.6211099666428498,L/W
+UFC Fight Night: Vera vs. Sandhagen ,Steven Peterson,Lucas Alexander,W/L,0.5762815664122392,L/W
+UFC Fight Night: Vera vs. Sandhagen ,Victor Altamirano,Vinicius Salvador,W/L,0.9086383817653264,W/L
+UFC 286: Edwards vs. Usman 3 ,Jack Shore,Makwan Amirkhani,W/L,0.9381660338345885,W/L
+UFC 286: Edwards vs. Usman 3 ,Muhammad Mokaev,Jafel Filho,W/L,0.9661557873681306,W/L
+UFC 286: Edwards vs. Usman 3 ,Lerone Murphy,Gabriel Santos,W/L,0.9967133867070058,W/L
+UFC Fight Night: Yan vs. Dvalishvili ,Petr Yan,Merab Dvalishvili,W/L,0.5193660848611674,L/W
+UFC Fight Night: Yan vs. Dvalishvili ,Vitor Petrino,Anton Turkalj,W/L,0.9972411497805695,W/L
+UFC Fight Night: Yan vs. Dvalishvili ,Karl Williams,Lukasz Brzeski,W/L,0.9658634620921819,W/L
+UFC Fight Night: Yan vs. Dvalishvili ,Raphael Assuncao,Davey Grant,W/L,0.6907094314599734,L/W
+UFC Fight Night: Pavlovich vs. Blaydes ,Sergei Pavlovich,Curtis Blaydes,W/L,0.6283196902896007,W/L
+UFC Fight Night: Pavlovich vs. Blaydes ,Brad Tavares,Bruno Silva,W/L,0.6724499011930852,L/W
+UFC Fight Night: Pavlovich vs. Blaydes ,Iasmin Lucindo,Brogan Walker,W/L,0.9767922860055515,W/L
+UFC Fight Night: Holloway vs. Allen ,Edson Barboza,Billy Quarantillo,W/L,0.6638184899262278,W/L
+UFC Fight Night: Holloway vs. Allen ,Dustin Jacoby,Azamat Murzakanov,L/W,0.0313254292019865,L/W
+UFC Fight Night: Holloway vs. Allen ,Aaron Phillips,Gaston Bolanos,L/W,0.02841480316978504,L/W
+UFC Fight Night: Holloway vs. Allen ,Joselyne Edwards,Lucie Pudilova,W/L,0.8096846404123585,W/L
+UFC 287: Pereira vs. Adesanya 2 ,Rob Font,Adrian Yanez,L/W,0.46643332475573795,W/L
+UFC 287: Pereira vs. Adesanya 2 ,Kevin Holland,Santiago Ponzinibbio,W/L,0.5422223891247079,W/L
+UFC 287: Pereira vs. Adesanya 2 ,Gerald Meerschaert,Joe Pyfer,L/W,0.18013196274940163,L/W
+UFC Fight Night: Vera vs. Sandhagen ,Nate Landwehr,Austin Lingo,W/L,0.7909096409502163,W/L
+UFC Fight Night: Vera vs. Sandhagen ,Andrea Lee,Maycee Barber,L/W,0.11801433658446543,L/W
+UFC Fight Night: Vera vs. Sandhagen ,Daniel Pineda,Tucker Lutz,W/L,0.8239680244575325,W/L
+UFC 286: Edwards vs. Usman 3 ,Gunnar Nelson,Bryan Barberena,W/L,0.734944177310429,W/L
+UFC 286: Edwards vs. Usman 3 ,Jennifer Maia,Casey O'Neill,L/W,0.24374136279874087,W/L
+UFC 286: Edwards vs. Usman 3 ,Joanne Wood,Luana Carolina,L/W,0.3981440587626347,W/L
+UFC 286: Edwards vs. Usman 3 ,Jai Herbert,Ludovit Klein,L/W,0.0689364851322832,D/D
+UFC Fight Night: Yan vs. Dvalishvili ,Alexander Volkov,Alexandr Romanov,W/L,0.748639870379412,W/L
+UFC Fight Night: Song vs. Simon ,Rodolfo Vieira,Cody Brundage,W/L,0.9080605381802149,W/L
+UFC Fight Night: Song vs. Simon ,Josh Quinlan,Trey Waters,L/W,0.004057555477998421,L/W
+UFC Fight Night: Pavlovich vs. Blaydes ,Jeremiah Wells,Matthew Semelsberger,W/L,0.7784355300027759,W/L
+UFC Fight Night: Pavlovich vs. Blaydes ,Mohammed Usman,Junior Tafa,W/L,0.9875764880195409,W/L
+UFC Fight Night: Pavlovich vs. Blaydes ,Francis Marshall,William Gomis,L/W,0.01139482823406572,L/W
+UFC Fight Night: Holloway vs. Allen ,Pedro Munhoz,Chris Gutierrez,L/W,0.15758252018493757,W/L
+UFC Fight Night: Holloway vs. Allen ,Brandon Royval,Matheus Nicolau,L/W,0.46207356552282813,W/L
+UFC Fight Night: Holloway vs. Allen ,Gillian Robertson,Piera Rodriguez,W/L,0.5437364815539141,W/L
+UFC Fight Night: Holloway vs. Allen ,Lando Vannata,Daniel Zellhuber,L/W,0.056736443458994264,L/W
+UFC Fight Night: Holloway vs. Allen ,Bruna Brasil,Denise Gomes,L/W,0.23171854392939095,L/W
+UFC 287: Pereira vs. Adesanya 2 ,Raul Rosas Jr.,Christian Rodriguez,L/W,0.3501263802842446,L/W
+UFC 287: Pereira vs. Adesanya 2 ,Cynthia Calvillo,Loopy Godinez,L/W,0.4166180447069948,L/W
+UFC 287: Pereira vs. Adesanya 2 ,Jaqueline Amorim,Sam Hughes,W/L,0.8765481612269707,L/W
+UFC Fight Night: Vera vs. Sandhagen ,Chidi Njokuani,Albert Duraev,W/L,0.606235675624292,L/W
+UFC 286: Edwards vs. Usman 3 ,Justin Gaethje,Rafael Fiziev,L/W,0.3871787118225546,W/L
+UFC 286: Edwards vs. Usman 3 ,Marvin Vettori,Roman Dolidze,W/L,0.7069331279766629,W/L
+UFC 286: Edwards vs. Usman 3 ,Jake Hadley,Malcolm Gordon,W/L,0.8376121958535331,W/L
+UFC Fight Night: Yan vs. Dvalishvili ,Nikita Krylov,Ryan Spann,W/L,0.6388552548571012,W/L
+UFC Fight Night: Yan vs. Dvalishvili ,Said Nurmagomedov,Jonathan Martinez,L/W,0.41950158058791337,L/W
+UFC Fight Night: Yan vs. Dvalishvili ,Sedriques Dumas,Josh Fremd,L/W,0.37332110695356724,L/W
+UFC Fight Night: Song vs. Simon ,Marcos Rogerio de Lima,Waldo Cortes-Acosta,L/W,0.3121352397099074,W/L
+UFC Fight Night: Song vs. Simon ,Stephanie Egger,Irina Alekseeva,L/W,0.3991159959383253,L/W
+UFC Fight Night: Song vs. Simon ,Hailey Cowan,Jamey-Lyn Horth,L/W,0.019191359048432294,L/W
+UFC Fight Night: Pavlovich vs. Blaydes ,Brad Tavares,Bruno Silva,W/L,0.7240227997319886,L/W
+UFC Fight Night: Pavlovich vs. Blaydes ,Bobby Green,Jared Gordon,L/W,0.48867200958362395,NC/NC
+UFC Fight Night: Pavlovich vs. Blaydes ,Ricky Glenn,Christos Giagos,W/L,0.5370695807235442,L/W
+UFC Fight Night: Holloway vs. Allen ,Max Holloway,Arnold Allen,W/L,0.5818480185519861,W/L
+UFC Fight Night: Holloway vs. Allen ,Zak Cummings,Ed Herman,W/L,0.8153811872301294,W/L
+UFC 287: Pereira vs. Adesanya 2 ,Alex Pereira,Israel Adesanya,L/W,0.40505567260292336,L/W
+UFC 287: Pereira vs. Adesanya 2 ,Chris Curtis,Kelvin Gastelum,W/L,0.49879322781942614,L/W
+UFC 287: Pereira vs. Adesanya 2 ,Ignacio Bahamondes,Trey Ogden,W/L,0.6632877653551639,W/L
+UFC Fight Night: Vera vs. Sandhagen ,Marlon Vera,Cory Sandhagen,L/W,0.3303917684961614,L/W
+UFC Fight Night: Vera vs. Sandhagen ,Trevin Giles,Preston Parsons,W/L,0.7916423567889007,W/L
+UFC Fight Night: Vera vs. Sandhagen ,CJ Vergara,Daniel Lacerda,W/L,0.9671604529432234,W/L
+UFC 286: Edwards vs. Usman 3 ,Leon Edwards,Kamaru Usman,W/L,0.5389887216173453,W/L
+UFC 286: Edwards vs. Usman 3 ,Chris Duncan,Omar Morales,W/L,0.8158876035255647,W/L
+UFC Fight Night: Yan vs. Dvalishvili ,Mario Bautista,Guido Cannetti,W/L,0.9373881648502245,W/L
+UFC Fight Night: Yan vs. Dvalishvili ,Tyson Nam,Bruno Silva,L/W,0.1988235869414134,L/W
+UFC 285: Jones vs. Gane ,Mateusz Gamrot,Jalin Turner,W/L,0.8363788651715078,W/L
+UFC 285: Jones vs. Gane ,Julian Marquez,Marc-Andre Barriault,L/W,0.40158020685387924,L/W
+UFC Fight Night: Muniz vs. Allen ,Andre Muniz,Brendan Allen,L/W,0.45301767983095154,L/W
+UFC Fight Night: Muniz vs. Allen ,Erick Gonzalez,Trevor Peek,L/W,0.056396532636048595,L/W
+UFC Fight Night: Muniz vs. Allen ,Rafael Alves,Nurullo Aliev,L/W,0.012353999240879422,L/W
+UFC Fight Night: Andrade vs. Blanchfield ,William Knight,Marcin Prachnio,L/W,0.4549167793098113,L/W
+UFC Fight Night: Andrade vs. Blanchfield ,Nazim Sadykhov,Evan Elder,W/L,0.9800981277173108,W/L
+UFC Fight Night: Andrade vs. Blanchfield ,Ovince Saint Preux,Philipe Lins,L/W,0.4817417211691742,L/W
+UFC Fight Night: Andrade vs. Blanchfield ,AJ Fletcher,Themba Gorimbo,L/W,0.07639270821399177,W/L
+UFC 284: Makhachev vs. Volkanovski ,Jamie Mullarkey,Francisco Prado,W/L,0.6659348883799816,W/L
+UFC Fight Night: Lewis vs. Spivac ,Derrick Lewis,Serghei Spivac,W/L,0.8063992726439381,L/W
+UFC 283: Teixeira vs. Hill ,Shamil Abdurakhimov,Jailton Almeida,L/W,0.15787661179452986,L/W
+UFC 283: Teixeira vs. Hill ,Ismael Bonfim,Terrance McKinney,L/W,0.47323637510073197,W/L
+UFC Fight Night: Strickland vs. Imavov ,Dan Ige,Damon Jackson,W/L,0.7076749727435726,W/L
+UFC Fight Night: Strickland vs. Imavov ,Punahele Soriano,Roman Kopylov,L/W,0.29112270163493786,L/W
+UFC 285: Jones vs. Gane ,Jon Jones,Ciryl Gane,W/L,0.6407159108397417,W/L
+UFC 285: Jones vs. Gane ,Cody Garbrandt,Trevin Jones,W/L,0.9402530488448024,W/L
+UFC 285: Jones vs. Gane ,Derek Brunson,Dricus Du Plessis,L/W,0.12387771749042618,L/W
+UFC 285: Jones vs. Gane ,Viviane Araujo,Amanda Ribas,W/L,0.5018182910913451,L/W
+UFC 285: Jones vs. Gane ,Mana Martinez,Cameron Saaiman,L/W,0.4223067549279251,L/W
+UFC Fight Night: Muniz vs. Allen ,Tatiana Suarez,Montana De La Rosa,W/L,0.9686047023844273,W/L
+UFC Fight Night: Muniz vs. Allen ,Jasmine Jasudavicius,Gabriella Fernandes,W/L,0.9752131628656223,W/L
+UFC Fight Night: Andrade vs. Blanchfield ,Josh Parisian,Jamal Pogues,L/W,0.07344059538561891,L/W
+UFC Fight Night: Andrade vs. Blanchfield ,Jim Miller,Alexander Hernandez,W/L,0.8342903330411299,L/W
+UFC Fight Night: Andrade vs. Blanchfield ,Lina Lansberg,Mayra Bueno Silva,L/W,0.13571773593329303,L/W
+UFC 284: Makhachev vs. Volkanovski ,Jack Della Maddalena,Randy Brown,W/L,0.9068152644561839,W/L
+UFC 284: Makhachev vs. Volkanovski ,Justin Tafa,Parker Porter,W/L,0.49214445055845,W/L
+UFC 284: Makhachev vs. Volkanovski ,Jack Jenkins,Don Shainis,W/L,0.9837424519881933,W/L
+UFC Fight Night: Lewis vs. Spivac ,Jeka Saragih,Anshul Jubli,L/W,0.057793590905713406,L/W
+UFC 256: Figueiredo vs. Moreno ,Deiveson Figueiredo,Brandon Moreno,W/L,0.726600972734728,D/D
+UFC 263: Adesanya vs. Vettori 2 ,Deiveson Figueiredo,Brandon Moreno,W/L,0.726600972734728,L/W
+UFC 283: Teixeira vs. Hill ,Lauren Murphy,Jessica Andrade,W/L,0.5585441866271219,L/W
+UFC 283: Teixeira vs. Hill ,Gabriel Bonfim,Mounir Lazzez,W/L,0.6694462357368298,W/L
+UFC Fight Night: Yan vs. Dvalishvili ,Victor Henry,Tony Gravely,W/L,0.7442982546294113,W/L
+UFC Fight Night: Yan vs. Dvalishvili ,Ariane Lipski,JJ Aldrich,L/W,0.36220117560226556,W/L
+UFC Fight Night: Yan vs. Dvalishvili ,Carlston Harris,Jared Gooden,W/L,0.9304362432428441,W/L
+UFC 285: Jones vs. Gane ,Geoff Neal,Shavkat Rakhmonov,L/W,0.24957385351213812,L/W
+UFC 285: Jones vs. Gane ,Bo Nickal,Jamie Pickett,W/L,0.9853057960273588,W/L
+UFC 285: Jones vs. Gane ,Esteban Ribovics,Loik Radzhabov,L/W,0.31331165145101214,L/W
+UFC Fight Night: Muniz vs. Allen ,Augusto Sakai,Don'Tale Mayes,W/L,0.7615106637459985,W/L
+UFC Fight Night: Muniz vs. Allen ,Jordan Leavitt,Victor Martinez,W/L,0.9772475075247989,W/L
+UFC Fight Night: Muniz vs. Allen ,Ode Osbourne,Charles Johnson,L/W,0.32703168865549925,W/L
+UFC Fight Night: Andrade vs. Blanchfield ,Jessica Andrade,Erin Blanchfield,L/W,0.3114681295924511,L/W
+UFC Fight Night: Andrade vs. Blanchfield ,Clayton Carpenter,Juancamilo Ronderos,W/L,0.9967569345680479,W/L
+UFC 284: Makhachev vs. Volkanovski ,Yair Rodriguez,Josh Emmett,W/L,0.543648536212807,W/L
+UFC 284: Makhachev vs. Volkanovski ,Tyson Pedro,Modestas Bukauskas,W/L,0.689407552650354,L/W
+UFC 284: Makhachev vs. Volkanovski ,Josh Culibao,Melsik Baghdasaryan,L/W,0.1004048990385997,W/L
+UFC 284: Makhachev vs. Volkanovski ,Shane Young,Blake Bilder,L/W,0.2856156432197703,L/W
+UFC Fight Night: Lewis vs. Spivac ,Yusaku Kinoshita,Adam Fugitt,L/W,0.028402237577961127,L/W
+UFC Fight Night: Lewis vs. Spivac ,SeungGuk Choi,HyunSung Park,L/W,0.0014485473502066437,L/W
+UFC 283: Teixeira vs. Hill ,Deiveson Figueiredo,Brandon Moreno,W/L,0.726600972734728,L/W
+UFC 283: Teixeira vs. Hill ,Gilbert Burns,Neil Magny,W/L,0.652741535731276,W/L
+UFC 283: Teixeira vs. Hill ,Mauricio Rua,Ihor Potieria,W/L,0.8095790204851513,L/W
+UFC 283: Teixeira vs. Hill ,Luan Lacerda,Cody Stamann,L/W,0.012638193317876563,L/W
+UFC 283: Teixeira vs. Hill ,Warlley Alves,Nicolas Dalby,L/W,0.39976963373552976,L/W
+UFC 283: Teixeira vs. Hill ,Saimon Oliveira,Daniel Marcos,L/W,0.0009858590398132611,L/W
+UFC Fight Night: Yan vs. Dvalishvili ,Tyson Nam,Bruno Silva,L/W,0.1624463305172995,L/W
+UFC 285: Jones vs. Gane ,Valentina Shevchenko,Alexa Grasso,W/L,0.6631041334108888,L/W
+UFC 285: Jones vs. Gane ,Jessica Penne,Tabatha Ricci,L/W,0.15076657437748373,L/W
+UFC 285: Jones vs. Gane ,Da'Mon Blackshear,Farid Basharat,L/W,0.03545467964426469,L/W
+UFC Fight Night: Muniz vs. Allen ,Mike Malott,Yohan Lainesse,W/L,0.9786227410798987,W/L
+UFC Fight Night: Muniz vs. Allen ,Joe Solecki,Carl Deaton,W/L,0.9870884905013795,W/L
+UFC Fight Night: Andrade vs. Blanchfield ,Jordan Wright,Zac Pauga,W/L,0.48468956678798253,L/W
+UFC Fight Night: Andrade vs. Blanchfield ,Jamall Emmers,Khusein Askhabov,W/L,0.9259773251466239,W/L
+UFC 284: Makhachev vs. Volkanovski ,Shannon Ross,Kleydson Rodrigues,L/W,0.05308965066160406,L/W
+UFC 284: Makhachev vs. Volkanovski ,Loma Lookboonmee,Elise Reed,W/L,0.8768223663739767,W/L
+UFC Fight Night: Lewis vs. Spivac ,Marcin Tybura,Blagoy Ivanov,W/L,0.8381947488286431,W/L
+UFC Fight Night: Lewis vs. Spivac ,Dooho Choi,Kyle Nelson,L/W,0.3885053535980887,D/D
+UFC Fight Night: Lewis vs. Spivac ,Jeka Saragih,Anshul Jubli,L/W,0.0557915277680126,L/W
+UFC Fight Night: Lewis vs. Spivac ,Toshiomi Kazama,Rinya Nakamura,L/W,0.0008202530182571,L/W
+UFC 283: Teixeira vs. Hill ,Glover Teixeira,Jamahal Hill,W/L,0.5056941842504139,L/W
+UFC 283: Teixeira vs. Hill ,Paul Craig,Johnny Walker,W/L,0.5210484505670917,L/W
+UFC 283: Teixeira vs. Hill ,Thiago Moises,Melquizael Costa,W/L,0.8908785023163678,W/L
+UFC 283: Teixeira vs. Hill ,Josiane Nunes,Zarah Fairn,W/L,0.9842052824326112,W/L
+UFC Fight Night: Strickland vs. Imavov ,Sean Strickland,Nassourdine Imavov,W/L,0.564387873920494,W/L
+UFC Fight Night: Strickland vs. Imavov ,Ketlen Vieira,Raquel Pennington,W/L,0.6132338204872919,L/W
+UFC Fight Night: Strickland vs. Imavov ,Umar Nurmagomedov,Raoni Barcelos,W/L,0.9339805769382351,W/L
+UFC Fight Night: Strickland vs. Imavov ,Mateusz Rebecki,Nick Fiore,W/L,0.9971521394860812,W/L
+UFC Fight Night: Cannonier vs. Strickland ,Amir Albazi,Alessandro Costa,W/L,0.9805923189101953,W/L
+UFC Fight Night: Cannonier vs. Strickland ,Rafa Garcia,Maheshate,W/L,0.8358780835625499,W/L
+UFC Fight Night: Cannonier vs. Strickland ,Bryan Battle,Rinat Fakhretdinov,L/W,0.2515080692089707,L/W
+UFC Fight Night: Thompson vs. Holland ,Tai Tuivasa,Sergei Pavlovich,L/W,0.4612407618608008,L/W
+UFC Fight Night: Thompson vs. Holland ,Eryk Anders,Kyle Daukaus,W/L,0.8703401852598946,W/L
+UFC Fight Night: Thompson vs. Holland ,Michael Johnson,Marc Diakiese,W/L,0.5716680607452013,W/L
+UFC Fight Night: Thompson vs. Holland ,Yazmin Jauregui,Istela Nunes,W/L,0.978455821313622,W/L
+UFC Fight Night: Nzechukwu vs. Cutelaba ,Kennedy Nzechukwu,Ion Cutelaba,W/L,0.7221586434130163,W/L
+UFC Fight Night: Nzechukwu vs. Cutelaba ,Chase Sherman,Waldo Cortes-Acosta,L/W,0.039285409965446584,L/W
+UFC Fight Night: Nzechukwu vs. Cutelaba ,Ricky Turcios,Kevin Natividad,W/L,0.9774213993037633,W/L
+UFC 281: Adesanya vs. Pereira ,Dan Hooker,Claudio Puelles,W/L,0.6558738701698156,W/L
+UFC 281: Adesanya vs. Pereira ,Brad Riddell,Renato Moicano,L/W,0.3649742651095115,L/W
+UFC 281: Adesanya vs. Pereira ,Karolina Kowalkiewicz,Silvana Gomez Juarez,W/L,0.9249472763888967,W/L
+UFC Fight Night: Rodriguez vs. Lemos ,Darrick Minner,Shayilan Nuerdanbieke,L/W,0.30464639052329534,L/W
+UFC Fight Night: Strickland vs. Imavov ,Claudio Ribeiro,Abdul Razak Alhassan,L/W,0.11911272005087348,L/W
+UFC Fight Night: Cannonier vs. Strickland ,Cheyanne Vlismas,Cory McKenna,W/L,0.5039881861959584,L/W
+UFC Fight Night: Cannonier vs. Strickland ,Said Nurmagomedov,Saidyokub Kakhramonov,W/L,0.7188926854779805,W/L
+UFC Fight Night: Thompson vs. Holland ,Stephen Thompson,Kevin Holland,W/L,0.6152893599246783,W/L
+UFC Fight Night: Thompson vs. Holland ,Jack Hermansson,Roman Dolidze,W/L,0.6223633446107815,L/W
+UFC Fight Night: Nzechukwu vs. Cutelaba ,Jack Della Maddalena,Danny Roberts,W/L,0.9513488029450814,W/L
+UFC Fight Night: Nzechukwu vs. Cutelaba ,Charles Johnson,Zhalgas Zhumagulov,W/L,0.811383774613248,W/L
+UFC Fight Night: Nzechukwu vs. Cutelaba ,Vince Morales,Miles Johns,L/W,0.0700167902086248,L/W
+UFC Fight Night: Nzechukwu vs. Cutelaba ,Brady Hiestand,Fernie Garcia,W/L,0.9829905032536572,W/L
+UFC 281: Adesanya vs. Pereira ,Israel Adesanya,Alex Pereira,W/L,0.5174280498091137,L/W
+UFC 281: Adesanya vs. Pereira ,Dustin Poirier,Michael Chandler,W/L,0.9552436124141662,W/L
+UFC 281: Adesanya vs. Pereira ,Frankie Edgar,Chris Gutierrez,L/W,0.39606987276583894,L/W
+UFC 281: Adesanya vs. Pereira ,Dominick Reyes,Ryan Spann,W/L,0.5875782207973941,L/W
+UFC 281: Adesanya vs. Pereira ,Erin Blanchfield,Molly McCann,W/L,0.8797571812613793,W/L
+UFC 281: Adesanya vs. Pereira ,Carlos Ulberg,Nicolae Negumereanu,W/L,0.8263159954738167,W/L
+UFC Fight Night: Strickland vs. Imavov ,Javid Basharat,Mateus Mendonca,W/L,0.9863050942976421,W/L
+UFC Fight Night: Strickland vs. Imavov ,Allan Nascimento,Carlos Hernandez,W/L,0.686774676835868,W/L
+UFC Fight Night: Cannonier vs. Strickland ,Alex Caceres,Julian Erosa,W/L,0.7533572398786168,W/L
+UFC Fight Night: Cannonier vs. Strickland ,Jake Matthews,Matthew Semelsberger,W/L,0.7525016932187475,L/W
+UFC Fight Night: Cannonier vs. Strickland ,David Dvorak,Manel Kape,L/W,0.2148824582176145,L/W
+UFC Fight Night: Cannonier vs. Strickland ,Sergey Morozov,Journey Newson,W/L,0.9276592387594857,W/L
+UFC 282: Blachowicz vs. Ankalaev ,Santiago Ponzinibbio,Alex Morono,W/L,0.5006858632010287,W/L
+UFC 282: Blachowicz vs. Ankalaev ,Bryce Mitchell,Ilia Topuria,L/W,0.29615983264875967,L/W
+UFC 282: Blachowicz vs. Ankalaev ,Raul Rosas Jr.,Jay Perrin,W/L,0.9782603363108767,W/L
+UFC 282: Blachowicz vs. Ankalaev ,Jairzinho Rozenstruik,Chris Daukaus,W/L,0.8069091377821113,W/L
+UFC 282: Blachowicz vs. Ankalaev ,Chris Curtis,Joaquin Buckley,W/L,0.5472507575426,W/L
+UFC 282: Blachowicz vs. Ankalaev ,TJ Brown,Erik Silva,W/L,0.9550796654617846,W/L
+UFC Fight Night: Thompson vs. Holland ,Bryan Barberena,Rafael Dos Anjos,L/W,0.22263626459354252,L/W
+UFC Fight Night: Thompson vs. Holland ,Matheus Nicolau,Matt Schnell,W/L,0.9282129472088305,W/L
+UFC Fight Night: Thompson vs. Holland ,Angela Hill,Emily Ducote,L/W,0.39758339180332547,W/L
+UFC Fight Night: Thompson vs. Holland ,Darren Elkins,Jonathan Pearce,W/L,0.6196976246612156,L/W
+UFC Fight Night: Nzechukwu vs. Cutelaba ,Andre Fialho,Muslim Salikhov,L/W,0.13959536055143607,L/W
+UFC Fight Night: Nzechukwu vs. Cutelaba ,Jennifer Maia,Maryna Moroz,W/L,0.515994799085931,W/L
+UFC Fight Night: Nzechukwu vs. Cutelaba ,Natalia Silva,Tereza Bleda,W/L,0.9530739993356313,W/L
+UFC 281: Adesanya vs. Pereira ,Carla Esparza,Zhang Weili,L/W,0.251568871573164,L/W
+UFC 281: Adesanya vs. Pereira ,Matt Frevola,Ottman Azaitar,W/L,0.8292648856169399,W/L
+UFC 281: Adesanya vs. Pereira ,Julio Arce,Montel Jackson,L/W,0.30893237397049683,L/W
+UFC Fight Night: Strickland vs. Imavov ,Charles Johnson,Jimmy Flick,W/L,0.654130260384991,W/L
+UFC Fight Night: Cannonier vs. Strickland ,Jared Cannonier,Sean Strickland,L/W,0.4594642800123541,W/L
+UFC Fight Night: Cannonier vs. Strickland ,Arman Tsarukyan,Damir Ismagulov,W/L,0.6330139864664793,W/L
+UFC Fight Night: Cannonier vs. Strickland ,Drew Dober,Bobby Green,L/W,0.4909744765199385,W/L
+UFC Fight Night: Cannonier vs. Strickland ,Cody Brundage,Michal Oleksiejczuk,L/W,0.40079876131645087,L/W
+UFC 282: Blachowicz vs. Ankalaev ,Jan Blachowicz,Magomed Ankalaev,L/W,0.2063745458226578,D/D
+UFC 282: Blachowicz vs. Ankalaev ,Paddy Pimblett,Jared Gordon,W/L,0.9178297804398345,W/L
+UFC 282: Blachowicz vs. Ankalaev ,Darren Till,Dricus Du Plessis,L/W,0.0684094766479181,L/W
+UFC 282: Blachowicz vs. Ankalaev ,Edmen Shahbazyan,Dalcha Lungiambula,W/L,0.8869329995973175,W/L
+UFC 282: Blachowicz vs. Ankalaev ,Billy Quarantillo,Alexander Hernandez,W/L,0.638524195664031,W/L
+UFC 282: Blachowicz vs. Ankalaev ,Cameron Saaiman,Steven Koslow,W/L,0.9771257625684144,W/L
+UFC Fight Night: Thompson vs. Holland ,Niko Price,Phil Rowe,L/W,0.3442428971731545,L/W
+UFC Fight Night: Thompson vs. Holland ,Clay Guida,Scott Holtzman,W/L,0.6824046426682759,W/L
+UFC Fight Night: Thompson vs. Holland ,Natan Levy,Genaro Valdez,W/L,0.9424650810677236,W/L
+UFC Fight Night: Thompson vs. Holland ,Marcelo Rojo,Francis Marshall,L/W,0.15600709134833068,L/W
+UFC Fight Night: Nzechukwu vs. Cutelaba ,Vanessa Demopoulos,Maria Oliveira,W/L,0.9084891382752721,W/L
+UFC 281: Adesanya vs. Pereira ,Andre Petroski,Wellington Turman,W/L,0.9351835850812836,W/L
+UFC 281: Adesanya vs. Pereira ,Michael Trizano,SeungWoo Choi,W/L,0.8283094844045052,W/L
+UFC Fight Night: Rodriguez vs. Lemos ,Marina Rodriguez,Amanda Lemos,L/W,0.4002637388322795,L/W
+UFC Fight Night: Rodriguez vs. Lemos ,Neil Magny,Daniel Rodriguez,W/L,0.5195912559778876,W/L
+UFC Fight Night: Rodriguez vs. Lemos ,Tagir Ulanbekov,Nate Maness,W/L,0.8460696646671643,W/L
+UFC Fight Night: Rodriguez vs. Lemos ,Polyana Viana,Jinh Yu Frey,W/L,0.6317700063819904,W/L
+UFC Fight Night: Kattar vs. Allen ,Waldo Cortes-Acosta,Jared Vanderaa,W/L,0.9514468877704304,W/L
+UFC Fight Night: Kattar vs. Allen ,Dustin Jacoby,Khalil Rountree Jr.,L/W,0.37895699392755816,L/W
+UFC Fight Night: Kattar vs. Allen ,Andrei Arlovski,Marcos Rogerio de Lima,W/L,0.7858267460402412,L/W
+UFC Fight Night: Kattar vs. Allen ,Christian Rodriguez,Joshua Weems,W/L,0.9965135532024636,W/L
+UFC 280: Oliveira vs. Makhachev ,Charles Oliveira,Islam Makhachev,L/W,0.4129500125240118,L/W
+UFC 280: Oliveira vs. Makhachev ,Petr Yan,Sean O'Malley,L/W,0.2963470842825943,L/W
+UFC 280: Oliveira vs. Makhachev ,Beneil Dariush,Mateusz Gamrot,L/W,0.4219723904235441,W/L
+UFC 280: Oliveira vs. Makhachev ,Volkan Oezdemir,Nikita Krylov,W/L,0.605585131061654,L/W
+UFC 280: Oliveira vs. Makhachev ,Armen Petrosyan,AJ Dobson,W/L,0.8659725988321467,W/L
+UFC Fight Night: Grasso vs. Araujo ,Alexa Grasso,Viviane Araujo,W/L,0.7711448631266611,W/L
+UFC Fight Night: Grasso vs. Araujo ,Raphael Assuncao,Victor Henry,L/W,0.36638061644752173,W/L
+UFC Fight Night: Grasso vs. Araujo ,Piera Rodriguez,Sam Hughes,W/L,0.8347661161038716,W/L
+UFC Fight Night: Grasso vs. Araujo ,Tatsuro Taira,CJ Vergara,W/L,0.9701795003679109,W/L
+UFC Fight Night: Dern vs. Yan ,Mackenzie Dern,Yan Xiaonan,L/W,0.39224546637549157,L/W
+UFC Fight Night: Dern vs. Yan ,Sodiq Yusuff,Don Shainis,W/L,0.9865235446335793,W/L
+UFC Fight Night: Dern vs. Yan ,Guido Cannetti,Randy Costa,W/L,0.6678482237122207,W/L
+UFC Fight Night: Sandhagen vs. Song ,Cory Sandhagen,Song Yadong,W/L,0.5885954509183705,W/L
+UFC Fight Night: Sandhagen vs. Song ,Andre Fili,Bill Algeo,L/W,0.4365538991592259,W/L
+UFC Fight Night: Sandhagen vs. Song ,Tanner Boser,Rodrigo Nascimento,L/W,0.16720032141310423,L/W
+UFC Fight Night: Sandhagen vs. Song ,Damon Jackson,Pat Sabatini,W/L,0.5121122803175652,W/L
+UFC Fight Night: Sandhagen vs. Song ,Tony Gravely,Javid Basharat,L/W,0.1522162878715333,L/W
+UFC 279: Diaz vs. Ferguson ,Nate Diaz,Tony Ferguson,W/L,0.560406055939712,W/L
+UFC 279: Diaz vs. Ferguson ,Khamzat Chimaev,Kevin Holland,W/L,0.9011053145461926,W/L
+UFC 279: Diaz vs. Ferguson ,Denis Tiuliulin,Jamie Pickett,L/W,0.2519329124181547,W/L
+UFC 279: Diaz vs. Ferguson ,Jake Collier,Chris Barnett,L/W,0.33039481626839484,L/W
+UFC Fight Night: Rodriguez vs. Lemos ,Grant Dawson,Mark Madsen,W/L,0.87108364740619,W/L
+UFC Fight Night: Kattar vs. Allen ,Tim Means,Max Griffin,W/L,0.6345165159303419,L/W
+UFC Fight Night: Kattar vs. Allen ,Phil Hawes,Roman Dolidze,L/W,0.3092539971762974,L/W
+UFC Fight Night: Kattar vs. Allen ,Cody Durden,Carlos Mota,W/L,0.974819069763795,W/L
+UFC 280: Oliveira vs. Makhachev ,Belal Muhammad,Sean Brady,W/L,0.5970695755711737,W/L
+UFC 280: Oliveira vs. Makhachev ,Abubakar Nurmagomedov,Gadzhi Omargadzhiev,W/L,0.9288391641332288,W/L
+UFC 280: Oliveira vs. Makhachev ,Karol Rosa,Lina Lansberg,W/L,0.8632279677785646,W/L
+UFC Fight Night: Grasso vs. Araujo ,Misha Cirkunov,Alonzo Menifield,L/W,0.15680076925098665,L/W
+UFC Fight Night: Grasso vs. Araujo ,Nick Maximov,Jacob Malkoun,W/L,0.50771099895348,L/W
+UFC Fight Night: Grasso vs. Araujo ,Joanderson Brito,Lucas Alexander,W/L,0.9451123931926818,W/L
+UFC Fight Night: Dern vs. Yan ,Raoni Barcelos,Trevin Jones,W/L,0.9523378783310698,W/L
+UFC Fight Night: Dern vs. Yan ,Mike Davis,Viacheslav Borshchev,W/L,0.8679548014686036,W/L
+UFC Fight Night: Dern vs. Yan ,Ilir Latifi,Aleksei Oleinik,W/L,0.8071174171931335,W/L
+UFC Fight Night: Dern vs. Yan ,Joaquim Silva,Jesse Ronson,W/L,0.9762524019706595,W/L
+UFC Fight Night: Dern vs. Yan ,Julija Stoliarenko,Chelsea Chandler,L/W,0.07863789679544017,L/W
+UFC Fight Night: Sandhagen vs. Song ,Mariya Agapova,Gillian Robertson,L/W,0.3742278878300972,L/W
+UFC Fight Night: Sandhagen vs. Song ,Nikolas Motta,Cameron VanCamp,W/L,0.978785172635272,W/L
+UFC 279: Diaz vs. Ferguson ,Hakeem Dawodu,Julian Erosa,W/L,0.5785333781777998,L/W
+UFC 279: Diaz vs. Ferguson ,Chad Anheliger,Alatengheili,L/W,0.23635996147444308,L/W
+UFC Fight Night: Rodriguez vs. Lemos ,Miranda Maverick,Shanna Young,W/L,0.9265780062026109,W/L
+UFC Fight Night: Rodriguez vs. Lemos ,Liudvik Sholinian,Johnny Munoz,L/W,0.0835350851164229,L/W
+UFC Fight Night: Rodriguez vs. Lemos ,Carlos Candelario,Jake Hadley,L/W,0.03424296688283509,L/W
+UFC Fight Night: Rodriguez vs. Lemos ,Tamires Vidal,Ramona Pascual,W/L,0.9368821150290876,W/L
+UFC Fight Night: Kattar vs. Allen ,Calvin Kattar,Arnold Allen,L/W,0.19465825985482277,L/W
+UFC Fight Night: Kattar vs. Allen ,Josh Fremd,Tresean Gore,W/L,0.748808214023187,L/W
+UFC 280: Oliveira vs. Makhachev ,Aljamain Sterling,TJ Dillashaw,W/L,0.6640148168453867,W/L
+UFC 280: Oliveira vs. Makhachev ,Makhmud Muradov,Caio Borralho,L/W,0.15156066881745128,L/W
+UFC Fight Night: Grasso vs. Araujo ,Jordan Wright,Dusko Todorovic,L/W,0.2740212329264144,L/W
+UFC Fight Night: Grasso vs. Araujo ,Mana Martinez,Brandon Davis,W/L,0.8357638524345249,W/L
+UFC Fight Night: Dern vs. Yan ,Randy Brown,Francisco Trinaldo,W/L,0.6684126917329563,W/L
+UFC Fight Night: Dern vs. Yan ,Mike Davis,Viacheslav Borshchev,W/L,0.8729456353606891,W/L
+UFC Fight Night: Dern vs. Yan ,Krzysztof Jotko,Brendan Allen,L/W,0.32633160851767107,L/W
+UFC Fight Night: Sandhagen vs. Song ,Joe Pyfer,Alen Amedovski,W/L,0.990687945488148,W/L
+UFC Fight Night: Sandhagen vs. Song ,Denise Gomes,Loma Lookboonmee,L/W,0.17918397579760223,L/W
+UFC 279: Diaz vs. Ferguson ,Irene Aldana,Macy Chiasson,W/L,0.5314200952052219,W/L
+UFC 279: Diaz vs. Ferguson ,Johnny Walker,Ion Cutelaba,W/L,0.8481252913721379,W/L
+UFC 279: Diaz vs. Ferguson ,Jailton Almeida,Anton Turkalj,W/L,0.9946797586343378,W/L
+UFC 279: Diaz vs. Ferguson ,Norma Dumont,Danyelle Wolf,W/L,0.9932637130744335,W/L
+UFC Fight Night: Rodriguez vs. Lemos ,Mario Bautista,Benito Lopez,W/L,0.8337644946752899,W/L
+UFC Fight Night: Kattar vs. Allen ,Chase Hooper,Steve Garcia,W/L,0.5467087640660294,L/W
+UFC 280: Oliveira vs. Makhachev ,Muhammad Mokaev,Malcolm Gordon,W/L,0.9930639355168157,W/L
+UFC Fight Night: Grasso vs. Araujo ,Cub Swanson,Jonathan Martinez,L/W,0.4135655212246118,L/W
+UFC Fight Night: Grasso vs. Araujo ,Mike Jackson,Pete Rodriguez,W/L,0.7001468651572075,L/W
+UFC Fight Night: Dern vs. Yan ,John Castaneda,Daniel Santos,W/L,0.5489567300784249,L/W
+UFC Fight Night: Sandhagen vs. Song ,Chidi Njokuani,Gregory Rodrigues,L/W,0.2464560857201355,L/W
+UFC Fight Night: Sandhagen vs. Song ,Anthony Hernandez,Marc-Andre Barriault,W/L,0.8519864194016921,W/L
+UFC Fight Night: Sandhagen vs. Song ,Trevin Giles,Louis Cosce,W/L,0.9751930089361032,W/L
+UFC Fight Night: Sandhagen vs. Song ,Trey Ogden,Daniel Zellhuber,L/W,0.10273641629288015,W/L
+UFC 279: Diaz vs. Ferguson ,Li Jingliang,Daniel Rodriguez,L/W,0.3999949903166492,L/W
+UFC 279: Diaz vs. Ferguson ,Melissa Martinez,Elise Reed,L/W,0.05075698213228104,L/W
+UFC Fight Night: Gane vs. Tuivasa ,Nassourdine Imavov,Joaquin Buckley,W/L,0.7202290134326635,W/L
+UFC Fight Night: Gane vs. Tuivasa ,William Gomis,Jarno Errens,W/L,0.9453388794695122,W/L
+UFC Fight Night: Gane vs. Tuivasa ,John Makdessi,Nasrat Haqparast,L/W,0.2831820475781765,L/W
+UFC 278: Usman vs. Edwards ,Wu Yanan,Lucie Pudilova,L/W,0.24623761138325656,L/W
+UFC 278: Usman vs. Edwards ,AJ Fletcher,Ange Loosa,L/W,0.03622896606194324,L/W
+UFC Fight Night: Vera vs. Cruz ,Priscila Cachoeira,Ariane Lipski,L/W,0.28784560596106606,W/L
+UFC Fight Night: Santos vs. Hill ,Brogan Walker,Juliana Miller,L/W,0.12848112545284165,L/W
+UFC Fight Night: Santos vs. Hill ,Cory McKenna,Miranda Granger,W/L,0.8830772656259922,W/L
+UFC 277: Pena vs. Nunes 2 ,Derrick Lewis,Sergei Pavlovich,W/L,0.7111405245716084,L/W
+UFC 277: Pena vs. Nunes 2 ,Magomed Ankalaev,Anthony Smith,W/L,0.8772588580784182,W/L
+UFC 277: Pena vs. Nunes 2 ,Drew Dober,Rafael Alves,W/L,0.9211681823454214,W/L
+UFC 277: Pena vs. Nunes 2 ,Nicolae Negumereanu,Ihor Potieria,W/L,0.8035796908071554,W/L
+UFC Fight Night: Blaydes vs. Aspinall ,Nathaniel Wood,Charles Rosa,W/L,0.9098308192816789,W/L
+UFC Fight Night: Blaydes vs. Aspinall ,Makwan Amirkhani,Jonathan Pearce,L/W,0.35911388363600183,L/W
+UFC Fight Night: Blaydes vs. Aspinall ,Mandy Bohm,Victoria Leonardo,W/L,0.7053277828023781,L/W
+UFC Fight Night: Gane vs. Tuivasa ,Ciryl Gane,Tai Tuivasa,W/L,0.913069092326459,W/L
+UFC Fight Night: Gane vs. Tuivasa ,Fares Ziam,Michal Figlak,W/L,0.9764034315086825,W/L
+UFC Fight Night: Gane vs. Tuivasa ,Stephanie Egger,Ailin Perez,L/W,0.19036887582149103,W/L
+UFC on FOX: Dos Anjos vs. Cowboy 2 ,Kamaru Usman,Leon Edwards,W/L,0.6218814751493558,W/L
+UFC 278: Usman vs. Edwards ,Kamaru Usman,Leon Edwards,W/L,0.6218814751493558,L/W
+UFC 278: Usman vs. Edwards ,Tyson Pedro,Harry Hunsucker,W/L,0.9872684801127071,W/L
+UFC Fight Night: Vera vs. Cruz ,Marlon Vera,Dominick Cruz,L/W,0.31175511689421903,W/L
+UFC Fight Night: Vera vs. Cruz ,Nate Landwehr,David Onama,L/W,0.46589507236067873,W/L
+UFC Fight Night: Vera vs. Cruz ,Bruno Silva,Gerald Meerschaert,W/L,0.5292905074804144,L/W
+UFC Fight Night: Vera vs. Cruz ,Bruno Silva,Gerald Meerschaert,W/L,0.5776171574013703,L/W
+UFC Fight Night: Vera vs. Cruz ,Angela Hill,Loopy Godinez,L/W,0.41816463830349965,W/L
+UFC Fight Night: Vera vs. Cruz ,Youssef Zalal,Da'Mon Blackshear,W/L,0.6912316214936574,D/D
+UFC Fight Night: Santos vs. Hill ,Thiago Santos,Jamahal Hill,L/W,0.34303806175174734,L/W
+UFC Fight Night: Santos vs. Hill ,Augusto Sakai,Serghei Spivac,W/L,0.6438795068381858,L/W
+UFC 277: Pena vs. Nunes 2 ,Brandon Moreno,Kai Kara-France,W/L,0.6062557193040702,W/L
+UFC Fight Night: Blaydes vs. Aspinall ,Curtis Blaydes,Tom Aspinall,W/L,0.7730801550266445,W/L
+UFC Fight Night: Blaydes vs. Aspinall ,Molly McCann,Hannah Goldy,W/L,0.9257238911680278,W/L
+UFC Fight Night: Blaydes vs. Aspinall ,Marc Diakiese,Damir Hadzovic,W/L,0.6411575395898956,W/L
+UFC Fight Night: Blaydes vs. Aspinall ,Jai Herbert,Kyle Nelson,L/W,0.18845845519289908,W/L
+UFC 279: Diaz vs. Ferguson ,Darian Weeks,Yohan Lainesse,L/W,0.23792846916560073,L/W
+UFC Fight Night: Gane vs. Tuivasa ,Alessio Di Chirico,Roman Kopylov,L/W,0.21993181536801235,L/W
+UFC Fight Night: Gane vs. Tuivasa ,Charles Jourdain,Nathaniel Wood,L/W,0.17895918986135068,L/W
+UFC 278: Usman vs. Edwards ,Jose Aldo,Merab Dvalishvili,W/L,0.48131469386853715,L/W
+UFC 278: Usman vs. Edwards ,Leonardo Santos,Jared Gordon,W/L,0.6106288627570344,L/W
+UFC 278: Usman vs. Edwards ,Sean Woodson,Luis Saldana,W/L,0.6506711408532176,D/D
+UFC 278: Usman vs. Edwards ,Amir Albazi,Francisco Figueiredo,W/L,0.976881397227028,W/L
+UFC 278: Usman vs. Edwards ,Aoriqileng,Jay Perrin,W/L,0.9513157284362421,W/L
+UFC Fight Night: Vera vs. Cruz ,Devin Clark,Azamat Murzakanov,L/W,0.02335176358879845,L/W
+UFC Fight Night: Vera vs. Cruz ,Ode Osbourne,Tyson Nam,L/W,0.4699068780230283,L/W
+UFC Fight Night: Vera vs. Cruz ,Jason Witt,Josh Quinlan,L/W,0.42441874661055434,L/W
+UFC Fight Night: Santos vs. Hill ,Vicente Luque,Geoff Neal,W/L,0.6779488118098161,L/W
+UFC Fight Night: Santos vs. Hill ,Mohammed Usman,Zac Pauga,W/L,0.9555006342969617,W/L
+UFC Fight Night: Santos vs. Hill ,Terrance McKinney,Erick Gonzalez,W/L,0.9820561577682626,W/L
+UFC Fight Night: Santos vs. Hill ,Sam Alvey,Michal Oleksiejczuk,L/W,0.46418743058819245,L/W
+UFC Fight Night: Santos vs. Hill ,Mayra Bueno Silva,Stephanie Egger,W/L,0.9053554991547216,W/L
+UFC 277: Pena vs. Nunes 2 ,Julianna Pena,Amanda Nunes,L/W,0.28458225255458025,L/W
+UFC 277: Pena vs. Nunes 2 ,Alex Morono,Matthew Semelsberger,W/L,0.7452571639367253,W/L
+UFC 277: Pena vs. Nunes 2 ,Don'Tale Mayes,Hamdy Abdelwahab,L/W,0.018286245593338565,NC/NC
+UFC 277: Pena vs. Nunes 2 ,Michael Morales,Adam Fugitt,W/L,0.983992127776131,W/L
+UFC Fight Night: Blaydes vs. Aspinall ,Paul Craig,Volkan Oezdemir,W/L,0.5779222014180003,L/W
+UFC Fight Night: Blaydes vs. Aspinall ,Muhammad Mokaev,Charles Johnson,W/L,0.9664983928346843,W/L
+UFC Fight Night: Gane vs. Tuivasa ,Robert Whittaker,Marvin Vettori,W/L,0.6981538848695983,W/L
+UFC Fight Night: Gane vs. Tuivasa ,Abus Magomedov,Dustin Stoltzfus,L/W,0.43475851579319286,W/L
+UFC Fight Night: Gane vs. Tuivasa ,Benoit Saint Denis,Gabriel Miranda,W/L,0.9079741673181113,W/L
+UFC 278: Usman vs. Edwards ,Paulo Costa,Luke Rockhold,W/L,0.8020482933201963,W/L
+UFC 278: Usman vs. Edwards ,Marcin Tybura,Alexandr Romanov,W/L,0.6094165620477782,W/L
+UFC Fight Night: Vera vs. Cruz ,Yazmin Jauregui,Iasmin Lucindo,W/L,0.6280441909029953,W/L
+UFC Fight Night: Vera vs. Cruz ,Martin Buday,Lukasz Brzeski,W/L,0.9244536376244346,W/L
+UFC Fight Night: Vera vs. Cruz ,Cynthia Calvillo,Nina Nunes,L/W,0.43790808165187767,L/W
+UFC Fight Night: Vera vs. Cruz ,Gabriel Benitez,Charlie Ontiveros,W/L,0.967655432264859,W/L
+UFC Fight Night: Santos vs. Hill ,Bryan Battle,Takashi Sato,W/L,0.9590121109799438,W/L
+UFC 245: Usman vs. Covington ,Brandon Moreno,Kai Kara-France,W/L,0.6062557193040702,W/L
+UFC 277: Pena vs. Nunes 2 ,Alexandre Pantoja,Alex Perez,W/L,0.8982471674429225,W/L
+UFC 277: Pena vs. Nunes 2 ,Drakkar Klose,Rafa Garcia,W/L,0.8141580042583173,W/L
+UFC 277: Pena vs. Nunes 2 ,Joselyne Edwards,Ji Yeon Kim,W/L,0.7284795537968194,W/L
+UFC 277: Pena vs. Nunes 2 ,Orion Cosce,Blood Diamond,W/L,0.8081885767509216,W/L
+UFC Fight Night: Blaydes vs. Aspinall ,Jack Hermansson,Chris Curtis,W/L,0.5250111356326633,W/L
+UFC Fight Night: Blaydes vs. Aspinall ,Paddy Pimblett,Jordan Leavitt,W/L,0.946182502628305,W/L
+UFC Fight Night: Blaydes vs. Aspinall ,Nikita Krylov,Alexander Gustafsson,L/W,0.4945735722987891,W/L
+UFC Fight Night: Blaydes vs. Aspinall ,Mason Jones,Ludovit Klein,L/W,0.07294316167170599,L/W
+UFC Fight Night: Ortega vs. Rodriguez ,Matt Schnell,Sumudaerji,W/L,0.6043170657356641,W/L
+UFC Fight Night: Ortega vs. Rodriguez ,Dwight Grant,Dustin Stoltzfus,W/L,0.6372777077334137,L/W
+UFC Fight Night: Dos Anjos vs. Fiziev ,Rafael Dos Anjos,Rafael Fiziev,W/L,0.6032655299712282,L/W
+UFC Fight Night: Dos Anjos vs. Fiziev ,Aiemann Zahabi,Ricky Turcios,L/W,0.44979382257419165,W/L
+UFC 276: Adesanya vs. Cannonier ,Israel Adesanya,Jared Cannonier,W/L,0.7659826919210159,W/L
+UFC 276: Adesanya vs. Cannonier ,Brad Tavares,Dricus Du Plessis,L/W,0.09291418825330709,L/W
+UFC 276: Adesanya vs. Cannonier ,Uriah Hall,Andre Muniz,L/W,0.4296485748106158,L/W
+UFC 276: Adesanya vs. Cannonier ,Jessica-Rose Clark,Julija Stoliarenko,W/L,0.818182462340119,L/W
+UFC Fight Night: Tsarukyan vs. Gamrot ,Raulian Paiva,Sergey Morozov,L/W,0.27485658702724375,L/W
+UFC Fight Night: Kattar vs. Emmett ,Calvin Kattar,Josh Emmett,L/W,0.2750359065158282,L/W
+UFC Fight Night: Kattar vs. Emmett ,Damir Ismagulov,Guram Kutateladze,W/L,0.8592765265961491,W/L
+UFC Fight Night: Kattar vs. Emmett ,Julian Marquez,Gregory Rodrigues,L/W,0.14923206455272908,L/W
+UFC 275: Teixeira vs. Prochazka ,Glover Teixeira,Jiri Prochazka,L/W,0.4317838934250832,L/W
+UFC 275: Teixeira vs. Prochazka ,Valentina Shevchenko,Taila Santos,W/L,0.8753428662521089,W/L
+UFC 275: Teixeira vs. Prochazka ,Zhang Weili,Joanna Jedrzejczyk,W/L,0.6440846174494526,W/L
+UFC 275: Teixeira vs. Prochazka ,Brendan Allen,Jacob Malkoun,W/L,0.917521975445527,W/L
+UFC Fight Night: Volkov vs. Rozenstruik ,Michael Trizano,Lucas Almeida,W/L,0.888165062855475,L/W
+UFC Fight Night: Volkov vs. Rozenstruik ,Alonzo Menifield,Askar Mozharov,W/L,0.9930933750420199,W/L
+UFC Fight Night: Volkov vs. Rozenstruik ,Felice Herrig,Karolina Kowalkiewicz,L/W,0.3205721128563194,L/W
+UFC Fight Night: Ortega vs. Rodriguez ,Li Jingliang,Muslim Salikhov,W/L,0.6563586029644647,W/L
+UFC Fight Night: Ortega vs. Rodriguez ,Punahele Soriano,Dalcha Lungiambula,W/L,0.7191622272249597,W/L
+UFC Fight Night: Dos Anjos vs. Fiziev ,Douglas Silva de Andrade,Said Nurmagomedov,L/W,0.31701297657280736,L/W
+UFC Fight Night: Dos Anjos vs. Fiziev ,Jared Vanderaa,Chase Sherman,L/W,0.16201072699950103,L/W
+UFC 251: Usman vs. Masvidal ,Alexander Volkanovski,Max Holloway,W/L,0.7204313965533393,W/L
+UFC 276: Adesanya vs. Cannonier ,Pedro Munhoz,Sean O'Malley,L/W,0.07588361441465807,NC/NC
+UFC 276: Adesanya vs. Cannonier ,Brad Riddell,Jalin Turner,W/L,0.5297789022775987,L/W
+UFC 276: Adesanya vs. Cannonier ,Jessica Eye,Maycee Barber,L/W,0.08279201832108628,L/W
+UFC Fight Night: Tsarukyan vs. Gamrot ,JP Buys,Cody Durden,L/W,0.014775138384018642,L/W
+UFC Fight Night: Tsarukyan vs. Gamrot ,Vanessa Demopoulos,Jinh Yu Frey,W/L,0.9013801785367077,W/L
+UFC Fight Night: Kattar vs. Emmett ,Tim Means,Kevin Holland,L/W,0.44418970311690914,L/W
+UFC Fight Night: Kattar vs. Emmett ,Adrian Yanez,Tony Kelley,W/L,0.7704091916181739,W/L
+UFC Fight Night: Kattar vs. Emmett ,Maria Oliveira,Gloria de Paula,L/W,0.442273035236706,W/L
+UFC Fight Night: Kattar vs. Emmett ,Eddie Wineland,Cody Stamann,L/W,0.19700600120744902,L/W
+UFC 248: Adesanya vs. Romero ,Zhang Weili,Joanna Jedrzejczyk,W/L,0.6440846174494526,W/L
+UFC 275: Teixeira vs. Prochazka ,Andre Fialho,Jake Matthews,L/W,0.14125301499444148,L/W
+UFC Fight Night: Volkov vs. Rozenstruik ,Ode Osbourne,Zarrukh Adashev,W/L,0.7268128878937048,W/L
+UFC Fight Night: Ortega vs. Rodriguez ,Brian Ortega,Yair Rodriguez,W/L,0.5249242801157245,L/W
+UFC Fight Night: Ortega vs. Rodriguez ,Shane Burgos,Charles Jourdain,W/L,0.7859644299339584,W/L
+UFC Fight Night: Dos Anjos vs. Fiziev ,Cody Brundage,Tresean Gore,W/L,0.8186635037143807,W/L
+UFC Fight Night: Dos Anjos vs. Fiziev ,Antonina Shevchenko,Cortney Casey,L/W,0.4654773980985578,W/L
+UFC Fight Night: Dos Anjos vs. Fiziev ,David Onama,Garrett Armfield,W/L,0.5463517245408687,W/L
+UFC Fight Night: Dos Anjos vs. Fiziev ,Ronnie Lawrence,Saidyokub Kakhramonov,W/L,0.7572407422434444,L/W
+UFC 276: Adesanya vs. Cannonier ,Alexander Volkanovski,Max Holloway,W/L,0.7204313965533393,W/L
+UFC 276: Adesanya vs. Cannonier ,Jim Miller,Donald Cerrone,W/L,0.669951810473048,W/L
+UFC Fight Night: Tsarukyan vs. Gamrot ,Josh Parisian,Alan Baudot,W/L,0.8778820169110969,W/L
+UFC Fight Night: Tsarukyan vs. Gamrot ,Thiago Moises,Christos Giagos,W/L,0.8142614075214167,W/L
+UFC Fight Night: Tsarukyan vs. Gamrot ,Nate Maness,Umar Nurmagomedov,L/W,0.16945962995513356,L/W
+UFC Fight Night: Tsarukyan vs. Gamrot ,Brian Kelleher,Mario Bautista,L/W,0.22570537576902197,L/W
+UFC Fight Night: Kattar vs. Emmett ,Joaquin Buckley,Albert Duraev,W/L,0.7781456553275556,W/L
+UFC Fight Night: Kattar vs. Emmett ,Court McGee,Jeremiah Wells,L/W,0.42132066692740533,L/W
+UFC Fight Night: Kattar vs. Emmett ,Ricardo Ramos,Danny Chavez,W/L,0.8666604190911239,W/L
+UFC Fight Night: Volkov vs. Rozenstruik ,Alexander Volkov,Jairzinho Rozenstruik,W/L,0.6316491991036225,W/L
+UFC Fight Night: Volkov vs. Rozenstruik ,Dan Ige,Movsar Evloev,L/W,0.14498004614208845,L/W
+UFC Fight Night: Volkov vs. Rozenstruik ,Karine Silva,Poliana Botelho,W/L,0.9745427215560475,W/L
+UFC Fight Night: Blaydes vs. Aspinall ,Claudio Silva,Nicolas Dalby,L/W,0.3884441402956077,L/W
+UFC Fight Night: Ortega vs. Rodriguez ,Lauren Murphy,Miesha Tate,W/L,0.5055116541426466,W/L
+UFC Fight Night: Ortega vs. Rodriguez ,Ricky Simon,Jack Shore,L/W,0.3575790538635843,W/L
+UFC Fight Night: Ortega vs. Rodriguez ,Bill Algeo,Herbert Burns,W/L,0.8816165966050807,W/L
+UFC Fight Night: Ortega vs. Rodriguez ,Jessica Penne,Emily Ducote,L/W,0.151987781285588,L/W
+UFC Fight Night: Dos Anjos vs. Fiziev ,Caio Borralho,Armen Petrosyan,W/L,0.9011594870905659,W/L
+UFC Fight Night: Dos Anjos vs. Fiziev ,Michael Johnson,Jamie Mullarkey,W/L,0.614431856968278,L/W
+UFC Fight Night: Dos Anjos vs. Fiziev ,Kennedy Nzechukwu,Karl Roberson,W/L,0.7745671823553009,W/L
+UFC 276: Adesanya vs. Cannonier ,Sean Strickland,Alex Pereira,L/W,0.3811690260962567,L/W
+UFC 276: Adesanya vs. Cannonier ,Robbie Lawler,Bryan Barberena,W/L,0.774442731190306,L/W
+UFC Fight Night: Tsarukyan vs. Gamrot ,Arman Tsarukyan,Mateusz Gamrot,W/L,0.5707294723536291,L/W
+UFC Fight Night: Tsarukyan vs. Gamrot ,Neil Magny,Shavkat Rakhmonov,L/W,0.3508023479993749,L/W
+UFC Fight Night: Tsarukyan vs. Gamrot ,Chris Curtis,Rodolfo Vieira,W/L,0.5779760839308663,W/L
+UFC Fight Night: Tsarukyan vs. Gamrot ,Carlos Ulberg,Tafon Nchukwi,W/L,0.9578952547983811,W/L
+UFC Fight Night: Tsarukyan vs. Gamrot ,Shayilan Nuerdanbieke,TJ Brown,W/L,0.8749465874326932,W/L
+UFC Fight Night: Kattar vs. Emmett ,Jasmine Jasudavicius,Natalia Silva,L/W,0.09154353791839841,L/W
+UFC Fight Night: Kattar vs. Emmett ,Phil Hawes,Deron Winn,W/L,0.6770749822456701,W/L
+UFC Fight Night: Kattar vs. Emmett ,Roman Dolidze,Kyle Daukaus,W/L,0.9545279555081208,W/L
+UFC 275: Teixeira vs. Prochazka ,Jack Della Maddalena,Ramazan Emeev,W/L,0.9274084913432845,W/L
+UFC 275: Teixeira vs. Prochazka ,SeungWoo Choi,Josh Culibao,L/W,0.26094796276369775,L/W
+UFC 275: Teixeira vs. Prochazka ,Maheshate,Steve Garcia,L/W,0.1328631523818356,W/L
+UFC 275: Teixeira vs. Prochazka ,Ramona Pascual,Joselyne Edwards,L/W,0.012509988954102293,L/W
+UFC Fight Night: Volkov vs. Rozenstruik ,Joe Solecki,Alex Da Silva,W/L,0.9631986259596375,W/L
+UFC Fight Night: Volkov vs. Rozenstruik ,Johnny Munoz,Tony Gravely,L/W,0.3183893288879657,L/W
+UFC Fight Night: Holm vs. Vieira ,Chidi Njokuani,Dusko Todorovic,W/L,0.7208471673865027,W/L
+UFC Fight Night: Holm vs. Vieira ,Joseph Holmes,Alen Amedovski,W/L,0.8534250814212156,W/L
+UFC Fight Night: Holm vs. Vieira ,Omar Morales,Uros Medic,L/W,0.4326922075220743,L/W
+UFC Fight Night: Blachowicz vs. Rakic ,Davey Grant,Louis Smolka,W/L,0.614576714213824,W/L
+UFC 274: Oliveira vs. Gaethje ,Macy Chiasson,Norma Dumont,L/W,0.40020142054477803,W/L
+UFC 274: Oliveira vs. Gaethje ,Andre Fialho,Cameron VanCamp,W/L,0.9532610497200886,W/L
+UFC 274: Oliveira vs. Gaethje ,Ariane Carnelossi,Loopy Godinez,L/W,0.3194276631512452,L/W
+UFC 274: Oliveira vs. Gaethje ,Journey Newson,Fernie Garcia,W/L,0.7610871564412935,W/L
+UFC Fight Night: Font vs. Vera ,Rob Font,Marlon Vera,W/L,0.5061576761602027,L/W
+UFC Fight Night: Font vs. Vera ,Gabe Green,Yohan Lainesse,W/L,0.8215454624265403,W/L
+UFC Fight Night: Font vs. Vera ,Natan Levy,Mike Breeden,W/L,0.9645496323219099,W/L
+UFC Fight Night: Lemos vs. Andrade ,Maycee Barber,Montana De La Rosa,W/L,0.902989606014986,W/L
+UFC Fight Night: Lemos vs. Andrade ,Lando Vannata,Charles Jourdain,L/W,0.24324728927873007,L/W
+UFC Fight Night: Luque vs. Muhammad ,Vicente Luque,Belal Muhammad,W/L,0.4934580936501366,L/W
+UFC Fight Night: Luque vs. Muhammad ,Lina Lansberg,Pannie Kianzad,L/W,0.28952116961602586,L/W
+UFC Fight Night: Luque vs. Muhammad ,Chris Barnett,Martin Buday,L/W,0.1173694882298005,L/W
+UFC Fight Night: Luque vs. Muhammad ,Istela Nunes,Sam Hughes,L/W,0.05060440468214753,L/W
+UFC Fight Night: Luque vs. Muhammad ,Alatengheili,Kevin Croom,W/L,0.972788288355591,W/L
+UFC Fight Night: Volkov vs. Rozenstruik ,Rinat Fakhretdinov,Andreas Michailidis,W/L,0.9928011534922593,W/L
+UFC Fight Night: Volkov vs. Rozenstruik ,Erin Blanchfield,JJ Aldrich,W/L,0.8121722851256284,W/L
+UFC Fight Night: Holm vs. Vieira ,Polyana Viana,Tabatha Ricci,L/W,0.19706839437390852,L/W
+UFC Fight Night: Blachowicz vs. Rakic ,Jan Blachowicz,Aleksandar Rakic,W/L,0.563287371800538,W/L
+UFC Fight Night: Blachowicz vs. Rakic ,Ryan Spann,Ion Cutelaba,W/L,0.8724610509181635,W/L
+UFC Fight Night: Blachowicz vs. Rakic ,Frank Camacho,Manuel Torres,L/W,0.016858430564032943,L/W
+UFC Fight Night: Blachowicz vs. Rakic ,Virna Jandiroba,Angela Hill,W/L,0.6477074931894683,W/L
+UFC Fight Night 56: Shogun vs Saint Preux ,Mauricio Rua,Ovince Saint Preux,W/L,0.5483976347539712,L/W
+UFC 274: Oliveira vs. Gaethje ,Mauricio Rua,Ovince Saint Preux,W/L,0.5483976347539712,L/W
+UFC 274: Oliveira vs. Gaethje ,Francisco Trinaldo,Danny Roberts,W/L,0.8058402205317687,W/L
+UFC 274: Oliveira vs. Gaethje ,Kleydson Rodrigues,CJ Vergara,L/W,0.1599536777163033,L/W
+UFC Fight Night: Font vs. Vera ,Jared Gordon,Grant Dawson,L/W,0.2419017354755451,L/W
+UFC Fight Night: Font vs. Vera ,Darren Elkins,Tristan Connelly,W/L,0.8998218477672152,W/L
+UFC Fight Night: Font vs. Vera ,Alexandr Romanov,Chase Sherman,W/L,0.929674961265338,W/L
+UFC Fight Night: Font vs. Vera ,Gina Mazany,Shanna Young,L/W,0.4774788008808286,L/W
+UFC Fight Night: Lemos vs. Andrade ,Aoriqileng,Cameron Else,W/L,0.9688509082065325,W/L
+UFC 205: Alvarez vs McGregor ,Vicente Luque,Belal Muhammad,W/L,0.4934580936501366,W/L
+UFC Fight Night: Luque vs. Muhammad ,Caio Borralho,Gadzhi Omargadzhiev,W/L,0.9962751363280917,W/L
+UFC Fight Night: Luque vs. Muhammad ,Miguel Baeza,Andre Fialho,W/L,0.8387084960013726,L/W
+UFC Fight Night: Luque vs. Muhammad ,Mounir Lazzez,Ange Loosa,L/W,0.16806601001001045,W/L
+UFC Fight Night: Luque vs. Muhammad ,Drakkar Klose,Brandon Jenkins,W/L,0.9886914104773538,W/L
+UFC Fight Night: Luque vs. Muhammad ,Rafa Garcia,Jesse Ronson,W/L,0.9699207789995112,W/L
+UFC Fight Night: Volkov vs. Rozenstruik ,Niklas Stolze,Benoit Saint Denis,L/W,0.018036085123845687,L/W
+UFC Fight Night: Holm vs. Vieira ,Santiago Ponzinibbio,Michel Pereira,L/W,0.3690970642292244,L/W
+UFC Fight Night: Holm vs. Vieira ,Jailton Almeida,Parker Porter,W/L,0.9168247017331465,W/L
+UFC Fight Night: Blachowicz vs. Rakic ,Jake Hadley,Allan Nascimento,L/W,0.2439880840444013,L/W
+UFC 274: Oliveira vs. Gaethje ,Charles Oliveira,Justin Gaethje,W/L,0.5076261587447315,W/L
+UFC 274: Oliveira vs. Gaethje ,Brandon Royval,Matt Schnell,W/L,0.8511316424889585,W/L
+UFC 274: Oliveira vs. Gaethje ,Blagoy Ivanov,Marcos Rogerio de Lima,L/W,0.438330709508011,W/L
+UFC 274: Oliveira vs. Gaethje ,Tracy Cortez,Melissa Gatto,W/L,0.9554091500398384,W/L
+UFC Fight Night: Font vs. Vera ,Andrei Arlovski,Jake Collier,W/L,0.8660469913792266,W/L
+UFC Fight Night: Font vs. Vera ,Krzysztof Jotko,Gerald Meerschaert,W/L,0.7486631880521302,W/L
+UFC Fight Night: Lemos vs. Andrade ,Amanda Lemos,Jessica Andrade,W/L,0.8112205907578693,L/W
+UFC Fight Night: Lemos vs. Andrade ,Clay Guida,Claudio Puelles,W/L,0.6053460295029367,L/W
+UFC Fight Night: Lemos vs. Andrade ,Jordan Wright,Marc-Andre Barriault,L/W,0.1476548038940462,L/W
+UFC Fight Night: Lemos vs. Andrade ,Dwight Grant,Sergey Khandozhko,L/W,0.13990578105798043,L/W
+UFC Fight Night: Lemos vs. Andrade ,Tyson Pedro,Ike Villanueva,W/L,0.9587578201302032,W/L
+UFC Fight Night: Lemos vs. Andrade ,Preston Parsons,Evan Elder,W/L,0.7539791181401891,W/L
+UFC Fight Night: Lemos vs. Andrade ,Marcin Prachnio,Philipe Lins,L/W,0.18069512396728601,L/W
+UFC Fight Night: Luque vs. Muhammad ,Devin Clark,William Knight,W/L,0.6635881679316812,W/L
+UFC Fight Night: Luque vs. Muhammad ,Jordan Leavitt,Trey Ogden,W/L,0.5461315080347328,W/L
+UFC Fight Night: Volkov vs. Rozenstruik ,Jeff Molina,Zhalgas Zhumagulov,W/L,0.9877305757813382,W/L
+UFC Fight Night: Holm vs. Vieira ,Holly Holm,Ketlen Vieira,L/W,0.2880567657103533,L/W
+UFC Fight Night: Holm vs. Vieira ,Jonathan Martinez,Vince Morales,W/L,0.92536489236393,W/L
+UFC Fight Night: Holm vs. Vieira ,Chase Hooper,Felipe Colares,W/L,0.7966351835951664,W/L
+UFC Fight Night: Holm vs. Vieira ,Elise Reed,Sam Hughes,W/L,0.490620139460892,L/W
+UFC Fight Night: Blachowicz vs. Rakic ,Viviane Araujo,Andrea Lee,W/L,0.7354554658971467,W/L
+UFC Fight Night: Blachowicz vs. Rakic ,Michael Johnson,Alan Patrick,W/L,0.5432346392382882,W/L
+UFC Fight Night: Blachowicz vs. Rakic ,Tatsuro Taira,Carlos Candelario,W/L,0.9983038896178875,W/L
+UFC Fight Night: Blachowicz vs. Rakic ,Nick Maximov,Andre Petroski,L/W,0.34055803488318626,L/W
+UFC 274: Oliveira vs. Gaethje ,Rose Namajunas,Carla Esparza,W/L,0.6963079736486212,L/W
+UFC 274: Oliveira vs. Gaethje ,Michael Chandler,Tony Ferguson,L/W,0.16687733532492766,W/L
+UFC 274: Oliveira vs. Gaethje ,Randy Brown,Khaos Williams,L/W,0.45387235256611025,W/L
+UFC Fight Night: Font vs. Vera ,Andre Fili,Joanderson Brito,L/W,0.3959789360463679,L/W
+UFC Fight Night: Lemos vs. Andrade ,Dean Barry,Mike Jackson,L/W,0.12267110287321085,L/W
+UFC Fight Night: Luque vs. Muhammad ,Mayra Bueno Silva,Wu Yanan,W/L,0.95741324253162,W/L
+UFC Fight Night: Luque vs. Muhammad ,Pat Sabatini,TJ Laramie,W/L,0.9905359437243444,W/L
+UFC 273: Volkanovski vs. The Korean Zombie ,Aljamain Sterling,Petr Yan,W/L,0.5441884757542405,W/L
+UFC 273: Volkanovski vs. The Korean Zombie ,Gilbert Burns,Khamzat Chimaev,L/W,0.38656929711399707,L/W
+UFC 273: Volkanovski vs. The Korean Zombie ,Mackenzie Dern,Tecia Torres,W/L,0.6295185005735248,W/L
+UFC Fight Night: Blaydes vs. Daukaus ,Curtis Blaydes,Chris Daukaus,W/L,0.9176875590406748,W/L
+UFC Fight Night: Blaydes vs. Daukaus ,Marc Diakiese,Viacheslav Borshchev,W/L,0.5690195809364744,W/L
+UFC Fight Night: Blaydes vs. Daukaus ,Sara McMann,Karol Rosa,L/W,0.3477093533815188,W/L
+UFC Fight Night: Blaydes vs. Daukaus ,Aliaskhab Khizriev,Denis Tiuliulin,W/L,0.9900130185129936,W/L
+UFC Fight Night: Volkov vs. Aspinall ,Arnold Allen,Dan Hooker,W/L,0.7789917388547016,W/L
+UFC Fight Night: Volkov vs. Aspinall ,Paddy Pimblett,Kazula Vargas,W/L,0.9887909937915752,W/L
+UFC Fight Night: Volkov vs. Aspinall ,Molly McCann,Luana Carolina,L/W,0.444426582116061,W/L
+UFC Fight Night: Volkov vs. Aspinall ,Nikita Krylov,Paul Craig,W/L,0.7389485832205512,L/W
+UFC Fight Night: Volkov vs. Aspinall ,Jack Shore,Timur Valiev,W/L,0.7911910849470161,W/L
+UFC Fight Night: Volkov vs. Aspinall ,Muhammad Mokaev,Cody Durden,W/L,0.9457335653782958,W/L
+UFC Fight Night: Santos vs. Ankalaev ,Alex Pereira,Bruno Silva,W/L,0.9212251934855408,W/L
+UFC 272: Covington vs. Masvidal ,Jalin Turner,Jamie Mullarkey,W/L,0.6291527878433986,W/L
+UFC 272: Covington vs. Masvidal ,Devonte Smith,Ludovit Klein,L/W,0.17002884517991193,L/W
+UFC 272: Covington vs. Masvidal ,Dustin Jacoby,Michal Oleksiejczuk,W/L,0.6189481051811966,W/L
+UFC Fight Night: Makhachev vs. Green ,Alejandro Perez,Jonathan Martinez,L/W,0.27391458629098175,L/W
+UFC Fight Night: Walker vs. Hill ,Johnny Walker,Jamahal Hill,L/W,0.2881057239677794,L/W
+UFC 273: Volkanovski vs. The Korean Zombie ,Alexander Volkanovski,Chan Sung Jung,W/L,0.7735860241737874,W/L
+UFC 273: Volkanovski vs. The Korean Zombie ,Aspen Ladd,Raquel Pennington,L/W,0.33251391166965255,L/W
+UFC Fight Night: Blaydes vs. Daukaus ,Matt Brown,Bryan Barberena,W/L,0.6729040040492734,L/W
+UFC Fight Night: Volkov vs. Aspinall ,Shamil Abdurakhimov,Sergei Pavlovich,L/W,0.31728523108580275,L/W
+UFC Fight Night: Volkov vs. Aspinall ,Cory McKenna,Elise Reed,W/L,0.7199462993426431,L/W
+UFC Fight Night: Santos vs. Ankalaev ,Khalil Rountree Jr.,Karl Roberson,W/L,0.8743672398057093,W/L
+UFC Fight Night: Santos vs. Ankalaev ,JJ Aldrich,Gillian Robertson,W/L,0.6524243136110792,W/L
+UFC Fight Night: Santos vs. Ankalaev ,Sabina Mazo,Miranda Maverick,L/W,0.24951404974347702,L/W
+UFC Fight Night: Santos vs. Ankalaev ,Kris Moutinho,Guido Cannetti,L/W,0.047739177375174253,L/W
+UFC 272: Covington vs. Masvidal ,Colby Covington,Jorge Masvidal,W/L,0.813410158923336,W/L
+UFC 272: Covington vs. Masvidal ,Kevin Holland,Alex Oliveira,W/L,0.7300494000611831,W/L
+UFC 272: Covington vs. Masvidal ,Marina Rodriguez,Yan Xiaonan,L/W,0.3575623744134753,W/L
+UFC 272: Covington vs. Masvidal ,Nicolae Negumereanu,Kennedy Nzechukwu,W/L,0.6108033014098475,W/L
+UFC Fight Night: Makhachev vs. Green ,Islam Makhachev,Bobby Green,W/L,0.9217630948905615,W/L
+UFC Fight Night: Makhachev vs. Green ,Misha Cirkunov,Wellington Turman,W/L,0.667709708288,L/W
+UFC Fight Night: Makhachev vs. Green ,Josiane Nunes,Ramona Pascual,W/L,0.9869265396920354,W/L
+UFC Fight Night: Makhachev vs. Green ,Ramiz Brahimaj,Micheal Gillmore,W/L,0.9650697565187129,W/L
+UFC Fight Night: Blaydes vs. Daukaus ,Joanne Wood,Alexa Grasso,L/W,0.17154088443769244,L/W
+UFC Fight Night: Blaydes vs. Daukaus ,Askar Askarov,Kai Kara-France,W/L,0.5871997325394881,L/W
+UFC Fight Night: Blaydes vs. Daukaus ,Neil Magny,Max Griffin,W/L,0.7997420777751337,W/L
+UFC Fight Night: Blaydes vs. Daukaus ,Jennifer Maia,Manon Fiorot,L/W,0.0302605366025762,L/W
+UFC Fight Night: Volkov vs. Aspinall ,Alexander Volkov,Tom Aspinall,W/L,0.7507419587030526,L/W
+UFC Fight Night: Volkov vs. Aspinall ,Gunnar Nelson,Takashi Sato,W/L,0.9491208059418005,W/L
+UFC Fight Night: Volkov vs. Aspinall ,Mike Grundy,Makwan Amirkhani,L/W,0.23076017907659827,L/W
+UFC Fight Night: Santos vs. Ankalaev ,Sodiq Yusuff,Alex Caceres,W/L,0.6345824843506273,W/L
+UFC Fight Night: Santos vs. Ankalaev ,Drew Dober,Terrance McKinney,W/L,0.7342259637383908,W/L
+UFC Fight Night: Santos vs. Ankalaev ,Alex Pereira,Bruno Silva,W/L,0.9362325309698927,W/L
+UFC Fight Night: Santos vs. Ankalaev ,Matthew Semelsberger,AJ Fletcher,W/L,0.9086747238839078,W/L
+UFC Fight Night: Santos vs. Ankalaev ,Trevin Jones,Javid Basharat,L/W,0.016661508623126656,L/W
+UFC Fight Night: Santos vs. Ankalaev ,Tafon Nchukwi,Azamat Murzakanov,L/W,0.008381940634290557,L/W
+UFC 272: Covington vs. Masvidal ,Rafael Dos Anjos,Renato Moicano,W/L,0.7203711872115037,W/L
+UFC 272: Covington vs. Masvidal ,Edson Barboza,Bryce Mitchell,W/L,0.525839527379286,L/W
+UFC 272: Covington vs. Masvidal ,Maryna Moroz,Mariya Agapova,W/L,0.7995646955059824,W/L
+UFC 272: Covington vs. Masvidal ,Tim Elliott,Tagir Ulanbekov,L/W,0.34289650652158316,W/L
+UFC Fight Night: Makhachev vs. Green ,Arman Tsarukyan,Joel Alvarez,W/L,0.6972046236133927,W/L
+UFC Fight Night: Makhachev vs. Green ,Armen Petrosyan,Gregory Rodrigues,L/W,0.2415636685856628,W/L
+UFC Fight Night: Makhachev vs. Green ,Victor Altamirano,Carlos Hernandez,L/W,0.307611694539592,L/W
+UFC Fight Night: Walker vs. Hill ,Parker Porter,Alan Baudot,W/L,0.9713173776699303,W/L
+UFC 273: Volkanovski vs. The Korean Zombie ,Vinc Pichel,Mark Madsen,W/L,0.661494215889338,L/W
+UFC 273: Volkanovski vs. The Korean Zombie ,Anthony Hernandez,Josh Fremd,W/L,0.9416209150538724,W/L
+UFC 273: Volkanovski vs. The Korean Zombie ,Mickey Gall,Mike Malott,L/W,0.3628455994217736,L/W
+UFC 273: Volkanovski vs. The Korean Zombie ,Aleksei Oleinik,Jared Vanderaa,W/L,0.9070271134047126,W/L
+UFC 273: Volkanovski vs. The Korean Zombie ,Piera Rodriguez,Kay Hansen,W/L,0.9298107651825117,W/L
+UFC 273: Volkanovski vs. The Korean Zombie ,Julio Arce,Daniel Santos,L/W,0.4083074306559061,W/L
+UFC Fight Night: Blaydes vs. Daukaus ,Matheus Nicolau,David Dvorak,W/L,0.8834657748642931,W/L
+UFC Fight Night: Blaydes vs. Daukaus ,Luis Saldana,Bruno Souza,W/L,0.9731774701134045,W/L
+UFC Fight Night: Volkov vs. Aspinall ,Jai Herbert,Ilia Topuria,L/W,0.01506097146169326,L/W
+UFC Fight Night: Santos vs. Ankalaev ,Thiago Santos,Magomed Ankalaev,L/W,0.17805416702415644,L/W
+UFC Fight Night: Santos vs. Ankalaev ,Marlon Moraes,Song Yadong,L/W,0.11738748845404395,L/W
+UFC Fight Night: Santos vs. Ankalaev ,Damon Jackson,Kamuela Kirk,W/L,0.8747537166504971,W/L
+UFC Fight Night: Santos vs. Ankalaev ,Dalcha Lungiambula,Cody Brundage,L/W,0.42586207637542267,L/W
+UFC 272: Covington vs. Masvidal ,Serghei Spivac,Greg Hardy,W/L,0.8086581089653692,W/L
+UFC 272: Covington vs. Masvidal ,Brian Kelleher,Umar Nurmagomedov,L/W,0.07650330642832372,L/W
+UFC Fight Night: Makhachev vs. Green ,Ji Yeon Kim,Priscila Cachoeira,L/W,0.287298955849087,L/W
+UFC Fight Night: Makhachev vs. Green ,Terrance McKinney,Fares Ziam,L/W,0.22961858472683305,W/L
+UFC Fight Night: Walker vs. Hill ,Kyle Daukaus,Jamie Pickett,W/L,0.5950407838462791,W/L
+UFC Fight Night: Walker vs. Hill ,Gabriel Benitez,David Onama,L/W,0.3603562700927714,L/W
+UFC Fight Night: Walker vs. Hill ,Mario Bautista,Jay Perrin,W/L,0.9896589697766475,W/L
+UFC 271: Adesanya vs. Whittaker 2 ,Andrei Arlovski,Jared Vanderaa,W/L,0.9522443871004899,W/L
+UFC Fight Night: Hermansson vs. Strickland ,Jack Hermansson,Sean Strickland,L/W,0.43234016119873014,L/W
+UFC Fight Night: Hermansson vs. Strickland ,Hakeem Dawodu,Michael Trizano,W/L,0.5002835201034079,W/L
+UFC 270: Ngannou vs. Gane ,Cody Stamann,Said Nurmagomedov,L/W,0.30088540435225564,L/W
+UFC 270: Ngannou vs. Gane ,Jack Della Maddalena,Pete Rodriguez,W/L,0.9895061363955362,W/L
+UFC Fight Night: Kattar vs. Chikadze ,Brandon Royval,Rogerio Bontorin,W/L,0.9220859418448639,W/L
+UFC Fight Night: Kattar vs. Chikadze ,Bill Algeo,Joanderson Brito,L/W,0.37497530952908115,W/L
+UFC Fight Night: Kattar vs. Chikadze ,Jamie Pickett,Joseph Holmes,W/L,0.5317997142094145,W/L
+UFC Fight Night: Kattar vs. Chikadze ,Brian Kelleher,Kevin Croom,W/L,0.9613752266144427,W/L
+UFC Fight Night: Kattar vs. Chikadze ,TJ Brown,Charles Rosa,L/W,0.472171651451354,W/L
+UFC Fight Night: Lewis vs. Daukaus ,Cub Swanson,Darren Elkins,W/L,0.6939916668177262,W/L
+UFC Fight Night: Lewis vs. Daukaus ,Dustin Stoltzfus,Gerald Meerschaert,L/W,0.2453614656477982,L/W
+UFC Fight Night: Lewis vs. Daukaus ,Justin Tafa,Harry Hunsucker,W/L,0.978010308022593,W/L
+UFC Fight Night: Lewis vs. Daukaus ,Charles Jourdain,Andre Ewell,W/L,0.5470895757072293,W/L
+UFC Fight Night: Lewis vs. Daukaus ,Raquel Pennington,Macy Chiasson,W/L,0.697951841248613,W/L
+UFC 269: Oliveira vs. Poirier ,Amanda Nunes,Julianna Pena,W/L,0.8941599411992396,L/W
+UFC 269: Oliveira vs. Poirier ,Josh Emmett,Dan Ige,W/L,0.6398672090363139,W/L
+UFC Fight Night: Walker vs. Hill ,Jessica-Rose Clark,Stephanie Egger,W/L,0.7206687204185421,L/W
+UFC Fight Night: Walker vs. Hill ,Chad Anheliger,Jesse Strader,W/L,0.9573222466088781,W/L
+UFC 271: Adesanya vs. Whittaker 2 ,Israel Adesanya,Robert Whittaker,W/L,0.710753825527582,W/L
+UFC 271: Adesanya vs. Whittaker 2 ,Bobby Green,Nasrat Haqparast,L/W,0.3549477255466421,W/L
+UFC 271: Adesanya vs. Whittaker 2 ,Roxanne Modafferi,Casey O'Neill,L/W,0.12070747931380808,L/W
+UFC 271: Adesanya vs. Whittaker 2 ,Mana Martinez,Ronnie Lawrence,L/W,0.3732343290345474,L/W
+UFC 271: Adesanya vs. Whittaker 2 ,AJ Dobson,Jacob Malkoun,L/W,0.1590907758053914,L/W
+UFC 271: Adesanya vs. Whittaker 2 ,William Knight,Maxim Grishin,W/L,0.5162231392155074,L/W
+UFC Fight Night: Hermansson vs. Strickland ,Punahele Soriano,Nick Maximov,W/L,0.4872054542414298,L/W
+UFC Fight Night: Hermansson vs. Strickland ,Shavkat Rakhmonov,Carlston Harris,W/L,0.8058025327246668,W/L
+UFC Fight Night: Hermansson vs. Strickland ,Tresean Gore,Bryan Battle,L/W,0.05122730739321809,L/W
+UFC Fight Night: Hermansson vs. Strickland ,Julian Erosa,Steven Peterson,W/L,0.6749249509549529,W/L
+UFC Fight Night: Hermansson vs. Strickland ,Miles Johns,John Castaneda,W/L,0.5931925707159779,L/W
+UFC 270: Ngannou vs. Gane ,Brandon Moreno,Deiveson Figueiredo,L/W,0.4784931116220348,L/W
+UFC 270: Ngannou vs. Gane ,Matt Frevola,Genaro Valdez,W/L,0.9607246968839357,W/L
+UFC Fight Night: Kattar vs. Chikadze ,Calvin Kattar,Giga Chikadze,L/W,0.08875437860188737,W/L
+UFC Fight Night: Kattar vs. Chikadze ,Dakota Bush,Viacheslav Borshchev,L/W,0.019568178387857404,L/W
+UFC Fight Night: Kattar vs. Chikadze ,Court McGee,Ramiz Brahimaj,W/L,0.7276034408828304,W/L
+UFC Fight Night: Lewis vs. Daukaus ,Don'Tale Mayes,Josh Parisian,W/L,0.6416605865406055,W/L
+UFC 269: Oliveira vs. Poirier ,Kai Kara-France,Cody Garbrandt,W/L,0.5315363846617391,W/L
+UFC 269: Oliveira vs. Poirier ,Raulian Paiva,Sean O'Malley,L/W,0.02624896779766068,L/W
+UFC Fight Night: Walker vs. Hill ,Chas Skelly,Mark Striegl,W/L,0.9900147834638492,W/L
+UFC 271: Adesanya vs. Whittaker 2 ,Derrick Lewis,Tai Tuivasa,W/L,0.8152827378340035,L/W
+UFC 271: Adesanya vs. Whittaker 2 ,Jared Cannonier,Derek Brunson,W/L,0.6683365069489252,W/L
+UFC 271: Adesanya vs. Whittaker 2 ,Kyler Phillips,Marcelo Rojo,W/L,0.9923666617407026,W/L
+UFC 271: Adesanya vs. Whittaker 2 ,Jeremiah Wells,Blood Diamond,W/L,0.9788858979423957,W/L
+UFC Fight Night: Hermansson vs. Strickland ,Sam Alvey,Brendan Allen,L/W,0.11888354400158849,L/W
+UFC Fight Night: Hermansson vs. Strickland ,Alexis Davis,Julija Stoliarenko,W/L,0.9119208388271083,W/L
+UFC Fight Night: Hermansson vs. Strickland ,Jailton Almeida,Danilo Marques,W/L,0.9463074239004902,W/L
+UFC Fight Night: Hermansson vs. Strickland ,Malcolm Gordon,Denys Bondar,W/L,0.8777183737719881,W/L
+UFC 270: Ngannou vs. Gane ,Michael Morales,Trevin Giles,W/L,0.9528289235273678,W/L
+UFC 270: Ngannou vs. Gane ,Kay Hansen,Jasmine Jasudavicius,L/W,0.06213727028185252,L/W
+UFC Fight Night: Kattar vs. Chikadze ,Jake Collier,Chase Sherman,W/L,0.5293964680457564,W/L
+UFC Fight Night: Lewis vs. Daukaus ,Amanda Lemos,Angela Hill,W/L,0.7686880988732894,W/L
+UFC Fight Night: Lewis vs. Daukaus ,Diego Ferreira,Mateusz Gamrot,L/W,0.22446736858579083,L/W
+UFC Fight Night: Lewis vs. Daukaus ,Sijara Eubanks,Melissa Gatto,W/L,0.5550352618775816,L/W
+UFC Fight Night: Lewis vs. Daukaus ,Jordan Leavitt,Matt Sayles,W/L,0.8843287994623761,W/L
+UFC 269: Oliveira vs. Poirier ,Charles Oliveira,Dustin Poirier,W/L,0.653628924609053,W/L
+UFC 269: Oliveira vs. Poirier ,Geoff Neal,Santiago Ponzinibbio,W/L,0.5557208984331784,W/L
+UFC Fight Night: Walker vs. Hill ,Jim Miller,Nikolas Motta,W/L,0.9188992692022186,W/L
+UFC Fight Night: Walker vs. Hill ,Joaquin Buckley,Abdul Razak Alhassan,W/L,0.7437326001300316,W/L
+UFC Fight Night: Walker vs. Hill ,Diana Belbita,Gloria de Paula,W/L,0.5178338809173799,L/W
+UFC Fight Night: Walker vs. Hill ,Jonathan Pearce,Christian Rodriguez,L/W,0.4170074044067506,W/L
+UFC 271: Adesanya vs. Whittaker 2 ,Alexander Hernandez,Renato Moicano,L/W,0.23010610727883332,L/W
+UFC 271: Adesanya vs. Whittaker 2 ,Carlos Ulberg,Fabio Cherant,W/L,0.9932326845259452,W/L
+UFC 271: Adesanya vs. Whittaker 2 ,Douglas Silva de Andrade,Sergey Morozov,W/L,0.5923812347560752,W/L
+UFC Fight Night: Hermansson vs. Strickland ,Chidi Njokuani,Marc-Andre Barriault,W/L,0.5509514237764849,W/L
+UFC Fight Night: Hermansson vs. Strickland ,Jason Witt,Phil Rowe,L/W,0.14397867174699977,L/W
+UFC 270: Ngannou vs. Gane ,Francis Ngannou,Ciryl Gane,W/L,0.4973026157135244,W/L
+UFC 270: Ngannou vs. Gane ,Michel Pereira,Andre Fialho,W/L,0.9728579920128057,W/L
+UFC 270: Ngannou vs. Gane ,Raoni Barcelos,Victor Henry,L/W,0.38409376704341464,L/W
+UFC 270: Ngannou vs. Gane ,Tony Gravely,Saimon Oliveira,W/L,0.9764403199937627,W/L
+UFC 270: Ngannou vs. Gane ,Silvana Gomez Juarez,Vanessa Demopoulos,L/W,0.04791585789106769,L/W
+UFC Fight Night: Lewis vs. Daukaus ,Derrick Lewis,Chris Daukaus,W/L,0.8631066279590776,W/L
+UFC Fight Night: Lewis vs. Daukaus ,Stephen Thompson,Belal Muhammad,L/W,0.37952967641317337,L/W
+UFC Fight Night: Lewis vs. Daukaus ,Raphael Assuncao,Ricky Simon,W/L,0.5532686906405888,L/W
+UFC 269: Oliveira vs. Poirier ,Augusto Sakai,Tai Tuivasa,W/L,0.6605374234723005,L/W
+UFC 269: Oliveira vs. Poirier ,Andre Muniz,Eryk Anders,W/L,0.7714045781034505,W/L
+UFC Fight Night: Font vs. Aldo ,Brad Riddell,Rafael Fiziev,L/W,0.2521958374054518,L/W
+UFC Fight Night: Font vs. Aldo ,Maki Pitolo,Dusko Todorovic,L/W,0.1976261857762039,L/W
+UFC Fight Night: Font vs. Aldo ,Cheyanne Vlismas,Mallory Martin,W/L,0.9108439211741606,W/L
+UFC Fight Night: Vieira vs. Tate ,Michael Chiesa,Sean Brady,L/W,0.34372808134823213,L/W
+UFC Fight Night: Vieira vs. Tate ,Rani Yahya,Kyung Ho Kang,W/L,0.7325229010191193,W/L
+UFC Fight Night: Vieira vs. Tate ,Loma Lookboonmee,Loopy Godinez,W/L,0.7315137183332431,L/W
+UFC Fight Night: Vieira vs. Tate ,Cody Durden,Aoriqileng,W/L,0.6554746767172462,W/L
+UFC Fight Night: Holloway vs. Rodriguez ,Thiago Moises,Joel Alvarez,L/W,0.38352909345855923,L/W
+UFC Fight Night: Holloway vs. Rodriguez ,Cortney Casey,Liana Jojua,W/L,0.8402173091895707,W/L
+UFC 268: Usman vs. Covington 2 ,Rose Namajunas,Zhang Weili,L/W,0.3553811247582846,W/L
+UFC 268: Usman vs. Covington 2 ,Shane Burgos,Billy Quarantillo,W/L,0.7483503982654761,W/L
+UFC 268: Usman vs. Covington 2 ,Alex Pereira,Andreas Michailidis,W/L,0.9858658612608189,W/L
+UFC 268: Usman vs. Covington 2 ,CJ Vergara,Ode Osbourne,W/L,0.6104298045466808,L/W
+UFC 267: Blachowicz vs. Teixeira ,Islam Makhachev,Dan Hooker,W/L,0.8953638267054761,W/L
+UFC 267: Blachowicz vs. Teixeira ,Makwan Amirkhani,Lerone Murphy,L/W,0.05773893971760612,L/W
+UFC 267: Blachowicz vs. Teixeira ,Hu Yaozong,Andre Petroski,L/W,0.011260785228011003,L/W
+UFC 269: Oliveira vs. Poirier ,Pedro Munhoz,Dominick Cruz,L/W,0.11000681043491747,L/W
+UFC 269: Oliveira vs. Poirier ,Jordan Wright,Bruno Silva,L/W,0.11305026838767818,L/W
+UFC 269: Oliveira vs. Poirier ,Randy Costa,Tony Kelley,L/W,0.1848235945279447,L/W
+UFC 269: Oliveira vs. Poirier ,Gillian Robertson,Priscila Cachoeira,W/L,0.8229848961119797,W/L
+UFC Fight Night: Font vs. Aldo ,Rob Font,Jose Aldo,L/W,0.3579299359420548,L/W
+UFC Fight Night: Font vs. Aldo ,Jimmy Crute,Jamahal Hill,L/W,0.1386260521249082,L/W
+UFC Fight Night: Font vs. Aldo ,Clay Guida,Leonardo Santos,L/W,0.4123740708392232,W/L
+UFC Fight Night: Font vs. Aldo ,Alex Morono,Mickey Gall,W/L,0.7967997454458117,W/L
+UFC Fight Night: Font vs. Aldo ,Manel Kape,Zhalgas Zhumagulov,W/L,0.9605031032565144,W/L
+UFC Fight Night: Font vs. Aldo ,Claudio Puelles,Chris Gruetzemacher,W/L,0.7371313968512059,W/L
+UFC Fight Night: Vieira vs. Tate ,Ketlen Vieira,Miesha Tate,W/L,0.7908232077814166,W/L
+UFC Fight Night: Vieira vs. Tate ,Davey Grant,Adrian Yanez,L/W,0.22676823492308146,L/W
+UFC Fight Night: Vieira vs. Tate ,Pat Sabatini,Tucker Lutz,W/L,0.9624676752416136,W/L
+UFC Fight Night: Vieira vs. Tate ,Rafa Garcia,Natan Levy,W/L,0.6145055638573355,W/L
+UFC Fight Night: Vieira vs. Tate ,Shayilan Nuerdanbieke,Sean Soriano,W/L,0.9759818132121807,W/L
+UFC Fight Night: Holloway vs. Rodriguez ,Max Holloway,Yair Rodriguez,W/L,0.6600212770078389,W/L
+UFC 268: Usman vs. Covington 2 ,Phil Hawes,Chris Curtis,L/W,0.22679899888375263,L/W
+UFC 268: Usman vs. Covington 2 ,Gian Villante,Chris Barnett,L/W,0.39805556711664003,L/W
+UFC 268: Usman vs. Covington 2 ,Dustin Jacoby,John Allan,W/L,0.9728106209865004,W/L
+UFC 267: Blachowicz vs. Teixeira ,Alexander Volkov,Marcin Tybura,W/L,0.7792439388326124,W/L
+UFC 267: Blachowicz vs. Teixeira ,Li Jingliang,Khamzat Chimaev,L/W,0.29803510302658337,L/W
+UFC 267: Blachowicz vs. Teixeira ,Magomed Ankalaev,Volkan Oezdemir,W/L,0.9385743851687328,W/L
+UFC 267: Blachowicz vs. Teixeira ,Elizeu Zaleski dos Santos,Benoit Saint Denis,W/L,0.6910162475056987,W/L
+UFC 267: Blachowicz vs. Teixeira ,Tagir Ulanbekov,Allan Nascimento,W/L,0.8117348458527476,W/L
+UFC Fight Night: Costa vs. Vettori ,Jessica-Rose Clark,Joselyne Edwards,L/W,0.2537888968789225,W/L
+UFC Fight Night: Font vs. Aldo ,Louis Smolka,Vince Morales,W/L,0.6661500906949511,L/W
+UFC Fight Night: Vieira vs. Tate ,Luana Pinheiro,Sam Hughes,W/L,0.8805462392475267,W/L
+UFC Fight Night: Holloway vs. Rodriguez ,Song Yadong,Julio Arce,W/L,0.8290871446940871,W/L
+UFC Fight Night: Holloway vs. Rodriguez ,Cynthia Calvillo,Andrea Lee,W/L,0.6105447425861976,L/W
+UFC Fight Night: Holloway vs. Rodriguez ,Sean Woodson,Collin Anglin,W/L,0.9950559940594916,W/L
+UFC 245: Usman vs. Covington ,Kamaru Usman,Colby Covington,W/L,0.7539931711310974,W/L
+UFC 268: Usman vs. Covington 2 ,Frankie Edgar,Marlon Vera,W/L,0.632765829398946,L/W
+UFC 268: Usman vs. Covington 2 ,Justin Gaethje,Michael Chandler,W/L,0.8589876336321893,W/L
+UFC 268: Usman vs. Covington 2 ,Edmen Shahbazyan,Nassourdine Imavov,L/W,0.23773890451526206,L/W
+UFC 268: Usman vs. Covington 2 ,Melsik Baghdasaryan,Bruno Souza,W/L,0.9766154087869766,W/L
+UFC 267: Blachowicz vs. Teixeira ,Jan Blachowicz,Glover Teixeira,W/L,0.5399072774253828,L/W
+UFC 267: Blachowicz vs. Teixeira ,Petr Yan,Cory Sandhagen,L/W,0.4048873537341059,W/L
+UFC 267: Blachowicz vs. Teixeira ,Amanda Ribas,Virna Jandiroba,W/L,0.6902888031777409,W/L
+UFC 267: Blachowicz vs. Teixeira ,Albert Duraev,Roman Kopylov,L/W,0.3119183742464725,W/L
+UFC Fight Night: Costa vs. Vettori ,Paulo Costa,Marvin Vettori,W/L,0.5328178854364487,L/W
+UFC Fight Night: Costa vs. Vettori ,Francisco Trinaldo,Dwight Grant,W/L,0.92931676015377,W/L
+UFC Fight Night: Costa vs. Vettori ,Nicolae Negumereanu,Ike Villanueva,W/L,0.9675468212923464,W/L
+UFC 269: Oliveira vs. Poirier ,Jordan Wright,Bruno Silva,L/W,0.13962085280347794,L/W
+UFC 269: Oliveira vs. Poirier ,Miranda Maverick,Erin Blanchfield,L/W,0.2707879901154173,L/W
+UFC 269: Oliveira vs. Poirier ,Ryan Hall,Darrick Minner,W/L,0.9818981024617951,W/L
+UFC Fight Night: Font vs. Aldo ,Bryan Barberena,Darian Weeks,W/L,0.9403059902916342,W/L
+UFC Fight Night: Font vs. Aldo ,Alonzo Menifield,William Knight,W/L,0.8893828533665885,L/W
+UFC Fight Night: Vieira vs. Tate ,Joanne Wood,Taila Santos,L/W,0.4348049647716767,L/W
+UFC Fight Night: Holloway vs. Rodriguez ,Ben Rothwell,Marcos Rogerio de Lima,W/L,0.6727609185922806,L/W
+UFC Fight Night: Holloway vs. Rodriguez ,Felicia Spencer,Leah Letson,W/L,0.4753716010445013,W/L
+UFC Fight Night: Holloway vs. Rodriguez ,Miguel Baeza,Khaos Williams,L/W,0.16497419767789107,L/W
+UFC Fight Night: Holloway vs. Rodriguez ,Marc Diakiese,Rafael Alves,W/L,0.899497452574165,L/W
+UFC 268: Usman vs. Covington 2 ,Kamaru Usman,Colby Covington,W/L,0.7539931711310974,W/L
+UFC 268: Usman vs. Covington 2 ,Al Iaquinta,Bobby Green,W/L,0.5519040513622584,L/W
+UFC 267: Blachowicz vs. Teixeira ,Ricardo Ramos,Zubaira Tukhugov,W/L,0.5129233361789443,L/W
+UFC 267: Blachowicz vs. Teixeira ,Shamil Gamzatov,Michal Oleksiejczuk,L/W,0.36526674896361766,L/W
+UFC Fight Night: Costa vs. Vettori ,Grant Dawson,Ricky Glenn,W/L,0.9374756862769049,D/D
+UFC Fight Night: Costa vs. Vettori ,Alex Caceres,SeungWoo Choi,W/L,0.8814229381186347,W/L
+UFC Fight Night: Costa vs. Vettori ,Tabatha Ricci,Maria Oliveira,W/L,0.9109706562208011,W/L
+UFC Fight Night: Ladd vs. Dumont ,Aspen Ladd,Norma Dumont,L/W,0.26781018414968566,L/W
+UFC Fight Night: Ladd vs. Dumont ,Nate Landwehr,Ludovit Klein,L/W,0.3398303791873458,W/L
+UFC Fight Night: Ladd vs. Dumont ,Andrew Sanchez,Bruno Silva,L/W,0.4242074976369859,L/W
+UFC Fight Night: Ladd vs. Dumont ,Loopy Godinez,Luana Carolina,W/L,0.5454979321017802,L/W
+UFC Fight Night: Dern vs. Rodriguez ,Sabina Mazo,Mariya Agapova,W/L,0.7670128941338955,L/W
+UFC Fight Night: Dern vs. Rodriguez ,Loopy Godinez,Silvana Gomez Juarez,W/L,0.9521707033496521,W/L
+UFC Fight Night: Santos vs. Walker ,Thiago Santos,Johnny Walker,W/L,0.7193185494441995,W/L
+UFC Fight Night: Santos vs. Walker ,Alex Oliveira,Niko Price,W/L,0.6630163227132233,L/W
+UFC Fight Night: Santos vs. Walker ,Misha Cirkunov,Krzysztof Jotko,L/W,0.2093254617411589,L/W
+UFC Fight Night: Santos vs. Walker ,Bethe Correia,Karol Rosa,L/W,0.15531097041721953,L/W
+UFC Fight Night: Santos vs. Walker ,Alejandro Perez,Johnny Eduardo,W/L,0.844530777741079,W/L
+UFC 266: Volkanovski vs. Ortega ,Valentina Shevchenko,Lauren Murphy,W/L,0.8848004300493961,W/L
+UFC 266: Volkanovski vs. Ortega ,Cody Brundage,Nick Maximov,W/L,0.4978398834573156,L/W
+UFC Fight Night: Smith vs. Spann ,Ion Cutelaba,Devin Clark,L/W,0.36602551775684117,W/L
+UFC Fight Night: Smith vs. Spann ,Ariane Lipski,Mandy Bohm,W/L,0.7590494992892843,W/L
+UFC Fight Night: Smith vs. Spann ,Nate Maness,Tony Gravely,W/L,0.7944820124393228,W/L
+UFC Fight Night: Smith vs. Spann ,Joaquin Buckley,Antonio Arroyo,W/L,0.9823553798311642,W/L
+UFC Fight Night: Smith vs. Spann ,Erin Blanchfield,Sarah Alpar,W/L,0.9923490545531117,W/L
+UFC Fight Night: Smith vs. Spann ,Emily Whitmire,Hannah Goldy,W/L,0.6191864913466706,L/W
+UFC Fight Night: Brunson vs. Till ,Derek Brunson,Darren Till,W/L,0.6377535613940605,W/L
+UFC Fight Night: Brunson vs. Till ,Alex Morono,David Zawada,W/L,0.9500981654169779,W/L
+UFC Fight Night: Brunson vs. Till ,Paddy Pimblett,Luigi Vendramini,W/L,0.9908895752333998,W/L
+UFC Fight Night: Brunson vs. Till ,Molly McCann,Ji Yeon Kim,W/L,0.7789099153199971,W/L
+UFC Fight Night: Brunson vs. Till ,Julian Erosa,Charles Jourdain,L/W,0.3638715772738418,W/L
+UFC Fight Night: Brunson vs. Till ,Dalcha Lungiambula,Marc-Andre Barriault,L/W,0.2064237007840087,L/W
+UFC Fight Night: Barboza vs. Chikadze ,Ricky Turcios,Brady Hiestand,W/L,0.4954903861479462,W/L
+UFC Fight Night: Costa vs. Vettori ,Livinha Souza,Randa Markos,W/L,0.5985311873367114,L/W
+UFC Fight Night: Santos vs. Walker ,Kevin Holland,Kyle Daukaus,W/L,0.9344093079174572,NC/NC
+UFC Fight Night: Santos vs. Walker ,Devonte Smith,Jamie Mullarkey,L/W,0.4106070629024493,L/W
+UFC Fight Night: Santos vs. Walker ,Douglas Silva de Andrade,Gaetano Pirrello,W/L,0.9837552969083024,W/L
+UFC 266: Volkanovski vs. Ortega ,Curtis Blaydes,Jairzinho Rozenstruik,W/L,0.6606502310392203,W/L
+UFC 266: Volkanovski vs. Ortega ,Dan Hooker,Nasrat Haqparast,L/W,0.4452363803927217,W/L
+UFC 266: Volkanovski vs. Ortega ,Roxanne Modafferi,Taila Santos,L/W,0.17723129537176088,L/W
+UFC 266: Volkanovski vs. Ortega ,Uros Medic,Jalin Turner,W/L,0.673319137683592,L/W
+UFC Fight Night: Smith vs. Spann ,Arman Tsarukyan,Christos Giagos,W/L,0.9428675101527758,W/L
+UFC Fight Night: Smith vs. Spann ,Montel Jackson,JP Buys,W/L,0.9957602469855097,W/L
+UFC Fight Night: Smith vs. Spann ,Impa Kasanganay,Carlston Harris,L/W,0.09294842458952732,L/W
+UFC Fight Night: Brunson vs. Till ,Jack Shore,Liudvik Sholinian,W/L,0.9898450131512686,W/L
+UFC Fight Night: Barboza vs. Chikadze ,Bryan Battle,Gilbert Urbina,W/L,0.9666799127283663,W/L
+UFC Fight Night: Costa vs. Vettori ,Jamie Pickett,Laureano Staropoli,L/W,0.2842780523347448,W/L
+UFC Fight Night: Ladd vs. Dumont ,Jim Miller,Erick Gonzalez,W/L,0.9952612895547727,W/L
+UFC Fight Night: Ladd vs. Dumont ,Danny Roberts,Ramazan Emeev,L/W,0.2962060255688587,W/L
+UFC Fight Night: Ladd vs. Dumont ,Istela Nunes,Ariane Carnelossi,L/W,0.027692253860585457,L/W
+UFC Fight Night: Dern vs. Rodriguez ,Mackenzie Dern,Marina Rodriguez,L/W,0.4324867696885178,L/W
+UFC Fight Night: Dern vs. Rodriguez ,Randy Brown,Jared Gooden,W/L,0.9304291008512171,W/L
+UFC Fight Night: Dern vs. Rodriguez ,Alexandr Romanov,Jared Vanderaa,W/L,0.9645177156493625,W/L
+UFC Fight Night: Dern vs. Rodriguez ,Steve Garcia,Charlie Ontiveros,W/L,0.9859660913213342,W/L
+UFC Fight Night: Santos vs. Walker ,Joe Solecki,Jared Gordon,W/L,0.6837991506709094,L/W
+UFC Fight Night: Santos vs. Walker ,Antonina Shevchenko,Casey O'Neill,L/W,0.20278679528375987,L/W
+UFC Fight Night: Santos vs. Walker ,Stephanie Egger,Shanna Young,W/L,0.7347641724346494,W/L
+UFC 47: It's On! ,Nick Diaz,Robbie Lawler,L/W,0.3219323179385053,W/L
+UFC 266: Volkanovski vs. Ortega ,Nick Diaz,Robbie Lawler,L/W,0.3219323179385053,L/W
+UFC 266: Volkanovski vs. Ortega ,Jessica Andrade,Cynthia Calvillo,W/L,0.7685261025196871,W/L
+UFC 266: Volkanovski vs. Ortega ,Marlon Moraes,Merab Dvalishvili,L/W,0.11074907840280362,L/W
+UFC 266: Volkanovski vs. Ortega ,Matthew Semelsberger,Martin Sano,W/L,0.9870342408174552,W/L
+UFC Fight Night: Smith vs. Spann ,Mike Rodriguez,Tafon Nchukwi,L/W,0.3963955575098373,L/W
+UFC Fight Night: Smith vs. Spann ,Pannie Kianzad,Raquel Pennington,L/W,0.18666731083839747,L/W
+UFC Fight Night: Brunson vs. Till ,Tom Aspinall,Serghei Spivac,W/L,0.9367571680874545,W/L
+UFC Fight Night: Brunson vs. Till ,Modestas Bukauskas,Khalil Rountree Jr.,L/W,0.13312233022360298,L/W
+UFC Fight Night: Barboza vs. Chikadze ,Edson Barboza,Giga Chikadze,L/W,0.17499938241756,L/W
+UFC Fight Night: Costa vs. Vettori ,Mason Jones,David Onama,L/W,0.11818576901096725,W/L
+UFC Fight Night: Costa vs. Vettori ,Khama Worthy,Jai Herbert,L/W,0.4204737509104407,L/W
+UFC Fight Night: Costa vs. Vettori ,Jonathan Martinez,Zviad Lazishvili,W/L,0.9853928225253338,W/L
+UFC Fight Night: Ladd vs. Dumont ,Andrei Arlovski,Carlos Felipe,W/L,0.5212228725373911,W/L
+UFC Fight Night: Ladd vs. Dumont ,Manon Fiorot,Mayra Bueno Silva,W/L,0.8846824438512801,W/L
+UFC Fight Night: Ladd vs. Dumont ,Andrew Sanchez,Bruno Silva,L/W,0.4847723452349537,L/W
+UFC Fight Night: Dern vs. Rodriguez ,Tim Elliott,Matheus Nicolau,L/W,0.24162128067251626,L/W
+UFC Fight Night: Dern vs. Rodriguez ,Chris Gutierrez,Felipe Colares,W/L,0.9039949389343654,W/L
+UFC Fight Night: Dern vs. Rodriguez ,Charles Rosa,Damon Jackson,L/W,0.3099375028308685,L/W
+UFC Fight Night: Santos vs. Walker ,Alexander Hernandez,Mike Breeden,W/L,0.95507333713239,W/L
+UFC 266: Volkanovski vs. Ortega ,Alexander Volkanovski,Brian Ortega,W/L,0.7302987664154013,W/L
+UFC 266: Volkanovski vs. Ortega ,Shamil Abdurakhimov,Chris Daukaus,W/L,0.5368431127932682,L/W
+UFC 266: Volkanovski vs. Ortega ,Jonathan Pearce,Omar Morales,W/L,0.8727843752243917,W/L
+UFC Fight Night: Smith vs. Spann ,Gustavo Lopez,Alatengheili,L/W,0.07976260874343977,D/D
+UFC Fight Night: Barboza vs. Chikadze ,JJ Aldrich,Vanessa Demopoulos,L/W,0.42396201407675427,W/L
+UFC Fight Night: Barboza vs. Chikadze ,Jamall Emmers,Pat Sabatini,L/W,0.2482815011297725,L/W
+UFC Fight Night: Cannonier vs. Gastelum ,Brian Kelleher,Domingo Pilarte,W/L,0.9681174075686844,W/L
+UFC Fight Night: Cannonier vs. Gastelum ,Bea Malecki,Josiane Nunes,L/W,0.23721831182881367,L/W
+UFC Fight Night: Cannonier vs. Gastelum ,William Knight,Fabio Cherant,W/L,0.9610175897345271,W/L
+UFC 265: Lewis vs. Gane ,Derrick Lewis,Ciryl Gane,L/W,0.19859597934289783,L/W
+UFC 265: Lewis vs. Gane ,Jose Aldo,Pedro Munhoz,W/L,0.7945996432825928,W/L
+UFC 265: Lewis vs. Gane ,Michael Chiesa,Vicente Luque,W/L,0.5193449506551309,L/W
+UFC 265: Lewis vs. Gane ,Tecia Torres,Angela Hill,W/L,0.520490981850722,W/L
+UFC 265: Lewis vs. Gane ,Song Yadong,Casey Kenney,W/L,0.7582156920000691,W/L
+UFC 265: Lewis vs. Gane ,Bobby Green,Rafael Fiziev,L/W,0.3224638355785927,L/W
+UFC 265: Lewis vs. Gane ,Karolina Kowalkiewicz,Jessica Penne,W/L,0.7802806044291682,L/W
+UFC 265: Lewis vs. Gane ,Victoria Leonardo,Melissa Gatto,L/W,0.09929963258954855,L/W
+UFC Fight Night: Hall vs. Strickland ,Uriah Hall,Sean Strickland,L/W,0.30367827081485926,L/W
+UFC Fight Night: Hall vs. Strickland ,Danny Chavez,Kai Kamaka,L/W,0.46960837453097676,D/D
+UFC Fight Night: Makhachev vs. Moises ,Rodolfo Vieira,Dustin Stoltzfus,W/L,0.9156949100939341,W/L
+UFC 264: Poirier vs. McGregor 3 ,Trevin Giles,Dricus Du Plessis,L/W,0.058555584468022163,L/W
+UFC 264: Poirier vs. McGregor 3 ,Omari Akhmedov,Brad Tavares,W/L,0.5086402601424801,L/W
+UFC 264: Poirier vs. McGregor 3 ,Zhalgas Zhumagulov,Jerome Rivera,W/L,0.7091134608973558,W/L
+UFC Fight Night: Barboza vs. Chikadze ,Kevin Lee,Daniel Rodriguez,L/W,0.3853563705691956,L/W
+UFC Fight Night: Barboza vs. Chikadze ,Andre Petroski,Micheal Gillmore,W/L,0.9881059475301182,W/L
+UFC Fight Night: Barboza vs. Chikadze ,Makhmud Muradov,Gerald Meerschaert,W/L,0.766157080664942,L/W
+UFC Fight Night: Barboza vs. Chikadze ,Mana Martinez,Guido Cannetti,W/L,0.7720544006147547,W/L
+UFC Fight Night: Cannonier vs. Gastelum ,Clay Guida,Mark Madsen,W/L,0.5356030256075152,L/W
+UFC Fight Night: Cannonier vs. Gastelum ,Roosevelt Roberts,Ignacio Bahamondes,L/W,0.11709245953588464,L/W
+UFC 265: Lewis vs. Gane ,Vince Morales,Drako Rodriguez,W/L,0.9344404156579682,W/L
+UFC Fight Night: Hall vs. Strickland ,Cheyanne Vlismas,Gloria de Paula,W/L,0.8388245376787778,W/L
+UFC Fight Night: Hall vs. Strickland ,Niklas Stolze,Jared Gooden,L/W,0.11339717256624954,L/W
+UFC Fight Night: Hall vs. Strickland ,Bryan Barberena,Jason Witt,W/L,0.8552881103107621,L/W
+UFC Fight Night: Hall vs. Strickland ,Phil Rowe,Orion Cosce,W/L,0.9049079771035878,W/L
+UFC Fight Night: Sandhagen vs. Dillashaw ,Cory Sandhagen,TJ Dillashaw,W/L,0.6636325355130148,L/W
+UFC Fight Night: Sandhagen vs. Dillashaw ,Punahele Soriano,Brendan Allen,L/W,0.0926037633193078,L/W
+UFC Fight Night: Sandhagen vs. Dillashaw ,Diana Belbita,Hannah Goldy,W/L,0.6342139908138906,W/L
+UFC Fight Night: Makhachev vs. Moises ,Jeremy Stephens,Mateusz Gamrot,L/W,0.2035254465179517,L/W
+UFC 178: Johnson vs Cariaso ,Dustin Poirier,Conor McGregor,W/L,0.699416636627122,L/W
+UFC 264: Poirier vs. McGregor 3 ,Dustin Poirier,Conor McGregor,W/L,0.699416636627122,W/L
+UFC 264: Poirier vs. McGregor 3 ,Gilbert Burns,Stephen Thompson,W/L,0.5328043485302612,W/L
+UFC 264: Poirier vs. McGregor 3 ,Carlos Condit,Max Griffin,W/L,0.5002585386984086,L/W
+UFC 264: Poirier vs. McGregor 3 ,Jennifer Maia,Jessica Eye,W/L,0.6339345347826741,W/L
+UFC Fight Night: Barboza vs. Chikadze ,Sam Alvey,Wellington Turman,W/L,0.7342948487133871,L/W
+UFC Fight Night: Barboza vs. Chikadze ,Dustin Jacoby,Darren Stewart,W/L,0.7177153311665736,W/L
+UFC Fight Night: Cannonier vs. Gastelum ,Parker Porter,Chase Sherman,W/L,0.7913736261692471,W/L
+UFC Fight Night: Cannonier vs. Gastelum ,Trevin Jones,Saidyokub Kakhramonov,L/W,0.08577908763880164,L/W
+UFC Fight Night: Cannonier vs. Gastelum ,Austin Lingo,Luis Saldana,L/W,0.10814974613162227,W/L
+UFC 265: Lewis vs. Gane ,Manel Kape,Ode Osbourne,W/L,0.874030261339023,W/L
+UFC 265: Lewis vs. Gane ,Miles Johns,Anderson Dos Santos,W/L,0.945520424849652,W/L
+UFC 265: Lewis vs. Gane ,Johnny Munoz,Jamey Simmons,W/L,0.9356122607183287,W/L
+UFC Fight Night: Hall vs. Strickland ,Collin Anglin,Melsik Baghdasaryan,L/W,0.0022362919137152116,L/W
+UFC Fight Night: Hall vs. Strickland ,Chris Gruetzemacher,Rafa Garcia,L/W,0.27414296910397856,W/L
+UFC Fight Night: Hall vs. Strickland ,Jinh Yu Frey,Ashley Yoder,L/W,0.3936986344833062,W/L
+UFC Fight Night: Sandhagen vs. Dillashaw ,Kyler Phillips,Raulian Paiva,W/L,0.9423080096712678,L/W
+UFC Fight Night: Sandhagen vs. Dillashaw ,Darren Elkins,Darrick Minner,W/L,0.9646126355991793,W/L
+UFC Fight Night: Sandhagen vs. Dillashaw ,Miranda Maverick,Maycee Barber,L/W,0.373320150580684,L/W
+UFC Fight Night: Sandhagen vs. Dillashaw ,Adrian Yanez,Randy Costa,W/L,0.9113459138552755,W/L
+UFC Fight Night: Makhachev vs. Moises ,Marion Reneau,Miesha Tate,L/W,0.32034720666476924,L/W
+UFC Fight Night: Makhachev vs. Moises ,Gabriel Benitez,Billy Quarantillo,L/W,0.37846689529780214,L/W
+UFC Fight Night: Makhachev vs. Moises ,Daniel Rodriguez,Preston Parsons,W/L,0.8487563641127008,W/L
+UFC Fight Night: Makhachev vs. Moises ,Khalid Taha,Sergey Morozov,L/W,0.07861308023382271,L/W
+UFC Fight Night: Makhachev vs. Moises ,Francisco Figueiredo,Malcolm Gordon,W/L,0.8944164601248209,L/W
+UFC Fight Night: Makhachev vs. Moises ,Alan Baudot,Rodrigo Nascimento,L/W,0.005867095865860845,NC/NC
+UFC 264: Poirier vs. McGregor 3 ,Tai Tuivasa,Greg Hardy,W/L,0.6917997749013801,W/L
+UFC 264: Poirier vs. McGregor 3 ,Sean O'Malley,Kris Moutinho,W/L,0.9927500961906319,W/L
+UFC 264: Poirier vs. McGregor 3 ,Niko Price,Michel Pereira,L/W,0.1420584418885398,L/W
+UFC 264: Poirier vs. McGregor 3 ,Ryan Hall,Ilia Topuria,L/W,0.3272237540942557,L/W
+UFC Fight Night: Barboza vs. Chikadze ,Alessio Di Chirico,Abdul Razak Alhassan,L/W,0.30094492701175557,L/W
+UFC Fight Night: Cannonier vs. Gastelum ,Jared Cannonier,Kelvin Gastelum,W/L,0.6077062530544305,W/L
+UFC Fight Night: Cannonier vs. Gastelum ,Vinc Pichel,Austin Hubbard,W/L,0.8832794074708573,W/L
+UFC Fight Night: Cannonier vs. Gastelum ,Sasha Palatnikov,Ramiz Brahimaj,L/W,0.4455194584877119,L/W
+UFC 188: Velasquez vs Werdum ,Tecia Torres,Angela Hill,W/L,0.520490981850722,W/L
+UFC 265: Lewis vs. Gane ,Alonzo Menifield,Ed Herman,W/L,0.8260641872445983,W/L
+UFC Fight Night: Hall vs. Strickland ,Ryan Benoit,Zarrukh Adashev,W/L,0.7010989415079135,L/W
+UFC Fight Night: Sandhagen vs. Dillashaw ,Nassourdine Imavov,Ian Heinisch,W/L,0.877739686750658,W/L
+UFC Fight Night: Sandhagen vs. Dillashaw ,Mickey Gall,Jordan Williams,W/L,0.9727946113907119,W/L
+UFC Fight Night: Sandhagen vs. Dillashaw ,Julio Arce,Andre Ewell,W/L,0.6890529609668848,W/L
+UFC Fight Night: Sandhagen vs. Dillashaw ,Sijara Eubanks,Elise Reed,W/L,0.6843127086470983,W/L
+UFC Fight Night: Makhachev vs. Moises ,Islam Makhachev,Thiago Moises,W/L,0.9509704245264945,W/L
+UFC 257: Poirier vs. McGregor ,Dustin Poirier,Conor McGregor,W/L,0.699416636627122,W/L
+UFC Fight Night: Gane vs. Volkov ,Tanner Boser,Ovince Saint Preux,L/W,0.40038737048801704,W/L
+UFC Fight Night: Gane vs. Volkov ,Kennedy Nzechukwu,Danilo Marques,W/L,0.6293858519543907,W/L
+UFC Fight Night: Gane vs. Volkov ,Shavkat Rakhmonov,Michel Prazeres,W/L,0.907977062869199,W/L
+UFC Fight Night: Jung vs. Ige ,Chan Sung Jung,Dan Ige,W/L,0.5936456726644218,W/L
+UFC Fight Night: Jung vs. Ige ,Wellington Turman,Bruno Silva,L/W,0.25293435704821493,L/W
+UFC 263: Adesanya vs. Vettori 2 ,Drew Dober,Brad Riddell,W/L,0.49246601694004877,L/W
+UFC Fight Night: Edwards vs. Muhammad ,Eryk Anders,Darren Stewart,W/L,0.6961719940615441,NC/NC
+UFC 263: Adesanya vs. Vettori 2 ,Matt Frevola,Terrance McKinney,W/L,0.6945890587755488,L/W
+UFC Fight Night: Rozenstruik vs. Sakai ,Alan Patrick,Mason Jones,W/L,0.791767551939672,NC/NC
+UFC Fight Night: Rozenstruik vs. Sakai ,Manon Fiorot,Tabatha Ricci,W/L,0.9202022581843713,W/L
+UFC Fight Night: Font vs. Garbrandt ,Felicia Spencer,Norma Dumont,L/W,0.1588861665712718,L/W
+UFC Fight Night: Font vs. Garbrandt ,Ben Rothwell,Chris Barnett,W/L,0.6575829979354294,W/L
+UFC Fight Night: Font vs. Garbrandt ,Court McGee,Claudio Silva,L/W,0.3750991101765214,W/L
+UFC Fight Night: Font vs. Garbrandt ,Bruno Silva,Victor Rodriguez,W/L,0.9806031102086181,W/L
+UFC Fight Night: Font vs. Garbrandt ,Bruno Silva,Victor Rodriguez,W/L,0.9810941147014378,W/L
+UFC 262: Oliveira vs. Chandler ,Tony Ferguson,Beneil Dariush,W/L,0.6539242431584882,L/W
+UFC 262: Oliveira vs. Chandler ,Matt Schnell,Rogerio Bontorin,W/L,0.7232820535104798,NC/NC
+UFC 262: Oliveira vs. Chandler ,Shane Burgos,Edson Barboza,W/L,0.6653160258087913,L/W
+UFC 262: Oliveira vs. Chandler ,Jordan Wright,Jamie Pickett,L/W,0.4687300758361666,W/L
+UFC 262: Oliveira vs. Chandler ,Gina Mazany,Priscila Cachoeira,L/W,0.2631431841559192,L/W
+UFC Fight Night: Gane vs. Volkov ,Ciryl Gane,Alexander Volkov,W/L,0.6217870218438999,W/L
+UFC Fight Night: Gane vs. Volkov ,Raoni Barcelos,Timur Valiev,W/L,0.535413220938175,L/W
+UFC Fight Night: Gane vs. Volkov ,Marcin Prachnio,Ike Villanueva,W/L,0.8997782582330148,W/L
+UFC Fight Night: Gane vs. Volkov ,Charles Rosa,Justin Jaynes,W/L,0.847243852716061,W/L
+UFC Fight Night: Jung vs. Ige ,Marlon Vera,Davey Grant,W/L,0.8053991582060541,W/L
+UFC Fight Night: Jung vs. Ige ,Wellington Turman,Bruno Silva,L/W,0.20920493394947792,L/W
+UFC Fight Night: Jung vs. Ige ,Matt Brown,Dhiego Lima,W/L,0.8689173600646688,W/L
+UFC Fight Night: Jung vs. Ige ,Kanako Murata,Virna Jandiroba,L/W,0.22587566814859206,L/W
+UFC Fight Night: Jung vs. Ige ,Khaos Williams,Matthew Semelsberger,W/L,0.7521063890622603,W/L
+UFC 263: Adesanya vs. Vettori 2 ,Leon Edwards,Nate Diaz,W/L,0.8952058332518201,W/L
+UFC 263: Adesanya vs. Vettori 2 ,Demian Maia,Belal Muhammad,L/W,0.4356603146456913,L/W
+UFC 263: Adesanya vs. Vettori 2 ,Paul Craig,Jamahal Hill,L/W,0.18146007979971301,W/L
+UFC 263: Adesanya vs. Vettori 2 ,Eryk Anders,Darren Stewart,W/L,0.6961719940615441,W/L
+UFC 263: Adesanya vs. Vettori 2 ,Movsar Evloev,Hakeem Dawodu,W/L,0.8869802676877049,W/L
+UFC 263: Adesanya vs. Vettori 2 ,Pannie Kianzad,Alexis Davis,L/W,0.3953591947349269,W/L
+UFC Fight Night: Rozenstruik vs. Sakai ,Roman Dolidze,Laureano Staropoli,W/L,0.9148071109697925,W/L
+UFC Fight Night: Rozenstruik vs. Sakai ,Montana De La Rosa,Ariane Lipski,L/W,0.4629040639937041,W/L
+UFC Fight Night: Rozenstruik vs. Sakai ,Makwan Amirkhani,Kamuela Kirk,W/L,0.8314236156801604,L/W
+UFC Fight Night: Font vs. Garbrandt ,Yan Xiaonan,Carla Esparza,W/L,0.7283814841827644,L/W
+UFC Fight Night: Font vs. Garbrandt ,Justin Tafa,Jared Vanderaa,W/L,0.8467193086136762,L/W
+UFC Fight Night: Font vs. Garbrandt ,Ricardo Ramos,Bill Algeo,W/L,0.5092247020345004,W/L
+UFC Fight Night: Gane vs. Volkov ,Tim Means,Nicolas Dalby,L/W,0.4124208255396166,W/L
+UFC Fight Night: Jung vs. Ige ,Josh Parisian,Roque Martinez,W/L,0.8899235141235047,W/L
+UFC Fight Night: Jung vs. Ige ,Casey O'Neill,Lara Procopio,W/L,0.8401510973979944,W/L
+UFC 263: Adesanya vs. Vettori 2 ,Lauren Murphy,Joanne Wood,W/L,0.5827048532261526,W/L
+UFC 263: Adesanya vs. Vettori 2 ,Chase Hooper,Steven Peterson,W/L,0.7881269080810748,L/W
+UFC 263: Adesanya vs. Vettori 2 ,Carlos Felipe,Jake Collier,W/L,0.7305400058830844,W/L
+UFC Fight Night: Rozenstruik vs. Sakai ,Jairzinho Rozenstruik,Augusto Sakai,W/L,0.584106520325224,W/L
+UFC Fight Night: Rozenstruik vs. Sakai ,Walt Harris,Marcin Tybura,L/W,0.2502273398544333,L/W
+UFC Fight Night: Rozenstruik vs. Sakai ,Santiago Ponzinibbio,Miguel Baeza,W/L,0.8168874604946061,W/L
+UFC Fight Night: Rozenstruik vs. Sakai ,Sean Woodson,Youssef Zalal,W/L,0.8798759229741403,W/L
+UFC Fight Night: Rozenstruik vs. Sakai ,Claudio Puelles,Jordan Leavitt,W/L,0.6413282073588802,W/L
+UFC Fight Night: Font vs. Garbrandt ,Josh Culibao,Shayilan Nuerdanbieke,L/W,0.3795500827578298,W/L
+UFC 262: Oliveira vs. Chandler ,Charles Oliveira,Michael Chandler,W/L,0.9287659119617901,W/L
+UFC 262: Oliveira vs. Chandler ,Andrea Lee,Antonina Shevchenko,L/W,0.39376406117387924,W/L
+UFC Fight Night: Gane vs. Volkov ,Andre Fili,Daniel Pineda,W/L,0.7302745111427241,NC/NC
+UFC Fight Night: Gane vs. Volkov ,Renato Moicano,Jai Herbert,W/L,0.8888335537728963,W/L
+UFC Fight Night: Gane vs. Volkov ,Warlley Alves,Jeremiah Wells,W/L,0.6071326163140219,L/W
+UFC Fight Night: Gane vs. Volkov ,Julia Avila,Julija Stoliarenko,W/L,0.9030403184933162,W/L
+UFC Fight Night: Gane vs. Volkov ,Yancy Medeiros,Damir Hadzovic,W/L,0.5028514762662217,L/W
+UFC Fight Night: Jung vs. Ige ,Aleksei Oleinik,Serghei Spivac,W/L,0.6122707830103685,L/W
+UFC Fight Night: Jung vs. Ige ,Julian Erosa,SeungWoo Choi,W/L,0.6869007903724021,L/W
+UFC Fight Night: Jung vs. Ige ,Aleksa Camur,Nicolae Negumereanu,L/W,0.06994713025008463,L/W
+UFC Fight Night: Jung vs. Ige ,Joaquim Silva,Ricky Glenn,W/L,0.7156095311902356,L/W
+UFC Fight Night: Poirier vs. Gaethje ,Israel Adesanya,Marvin Vettori,W/L,0.7667850129295809,W/L
+UFC 263: Adesanya vs. Vettori 2 ,Israel Adesanya,Marvin Vettori,W/L,0.7667850129295809,W/L
+UFC 263: Adesanya vs. Vettori 2 ,Fares Ziam,Luigi Vendramini,W/L,0.9556158112442315,W/L
+UFC Fight Night: Rozenstruik vs. Sakai ,Dusko Todorovic,Gregory Rodrigues,L/W,0.07588229023715064,L/W
+UFC Fight Night: Rozenstruik vs. Sakai ,Tanner Boser,Ilir Latifi,W/L,0.538785631191422,L/W
+UFC Fight Night: Rozenstruik vs. Sakai ,Francisco Trinaldo,Muslim Salikhov,W/L,0.7486600301454497,L/W
+UFC Fight Night: Font vs. Garbrandt ,Rob Font,Cody Garbrandt,W/L,0.5270545530311131,W/L
+UFC Fight Night: Font vs. Garbrandt ,Jack Hermansson,Edmen Shahbazyan,W/L,0.7011997271657672,W/L
+UFC Fight Night: Font vs. Garbrandt ,David Dvorak,Juancamilo Ronderos,W/L,0.972622260469876,W/L
+UFC Fight Night: Font vs. Garbrandt ,Rafael Alves,Damir Ismagulov,L/W,0.03719347823743171,L/W
+UFC 262: Oliveira vs. Chandler ,Jacare Souza,Andre Muniz,L/W,0.4302179898195614,L/W
+UFC 262: Oliveira vs. Chandler ,Lando Vannata,Mike Grundy,W/L,0.7980471655492508,W/L
+UFC 262: Oliveira vs. Chandler ,Kevin Aguilar,Tucker Lutz,W/L,0.6623637569412212,L/W
+UFC Fight Night: Rodriguez vs. Waterson ,Phil Hawes,Kyle Daukaus,W/L,0.8263225006188903,W/L
+UFC Fight Night: Reyes vs. Prochazka ,Ion Cutelaba,Dustin Jacoby,L/W,0.2010918343573803,D/D
+UFC Fight Night: Reyes vs. Prochazka ,Loma Lookboonmee,Sam Hughes,W/L,0.8883527130759905,W/L
+UFC 251: Usman vs. Masvidal ,Kamaru Usman,Jorge Masvidal,W/L,0.9277764181528205,W/L
+UFC 261: Usman vs. Masvidal 2 ,Kamaru Usman,Jorge Masvidal,W/L,0.9277764181528205,W/L
+UFC 261: Usman vs. Masvidal 2 ,Zhang Weili,Rose Namajunas,W/L,0.7776032293576615,L/W
+UFC 261: Usman vs. Masvidal 2 ,Anthony Smith,Jimmy Crute,W/L,0.8417751923304058,W/L
+UFC 261: Usman vs. Masvidal 2 ,Alex Oliveira,Randy Brown,L/W,0.40029208739495203,L/W
+UFC 261: Usman vs. Masvidal 2 ,Karl Roberson,Brendan Allen,L/W,0.07897093522599315,L/W
+UFC 261: Usman vs. Masvidal 2 ,Aoriqileng,Jeff Molina,L/W,0.01729166458919584,L/W
+UFC Fight Night: Whittaker vs. Gastelum ,Andrei Arlovski,Chase Sherman,W/L,0.8866394852606178,W/L
+UFC Fight Night: Whittaker vs. Gastelum ,Tracy Cortez,Justine Kish,W/L,0.969310380579149,W/L
+UFC Fight Night: Vettori vs. Holland ,Sam Alvey,Julian Marquez,W/L,0.5333802271037279,L/W
+UFC Fight Night: Vettori vs. Holland ,Jim Miller,Joe Solecki,W/L,0.6772463620369066,L/W
+UFC Fight Night: Vettori vs. Holland ,John Makdessi,Ignacio Bahamondes,L/W,0.19874051212021382,W/L
+UFC Fight Night: Vettori vs. Holland ,Hunter Azure,Jack Shore,L/W,0.10439828829370934,L/W
+UFC 260: Miocic vs. Ngannou ,Tyron Woodley,Vicente Luque,W/L,0.6553169083984309,L/W
+UFC 260: Miocic vs. Ngannou ,Modestas Bukauskas,Michal Oleksiejczuk,L/W,0.29311186173719694,L/W
+UFC Fight Night: Brunson vs. Holland ,Derek Brunson,Kevin Holland,W/L,0.5901051163799608,W/L
+UFC Fight Night: Brunson vs. Holland ,Tai Tuivasa,Harry Hunsucker,W/L,0.9861330329180756,W/L
+UFC Fight Night: Edwards vs. Muhammad ,Dan Ige,Gavin Tucker,W/L,0.7250240352310778,W/L
+The Ultimate Fighter: Redemption Finale ,Angela Hill,Ashley Yoder,W/L,0.764285567144992,W/L
+UFC Fight Night: Edwards vs. Muhammad ,Angela Hill,Ashley Yoder,W/L,0.764285567144992,W/L
+UFC Fight Night: Edwards vs. Muhammad ,Charles Jourdain,Marcelo Rojo,W/L,0.9498482923738879,W/L
+UFC Fight Night: Edwards vs. Muhammad ,Rani Yahya,Ray Rodriguez,W/L,0.9937603727420528,W/L
+UFC Fight Night: Edwards vs. Muhammad ,Gloria de Paula,Jinh Yu Frey,L/W,0.3736378277486574,L/W
+UFC 262: Oliveira vs. Chandler ,Christos Giagos,Sean Soriano,W/L,0.9264244686839542,W/L
+UFC Fight Night: Rodriguez vs. Waterson ,Donald Cerrone,Alex Morono,W/L,0.5590152908362157,L/W
+UFC Fight Night: Rodriguez vs. Waterson ,Diego Ferreira,Gregor Gillespie,L/W,0.39455140898527336,L/W
+UFC Fight Night: Rodriguez vs. Waterson ,Ludovit Klein,Michael Trizano,W/L,0.7615209410170874,L/W
+UFC Fight Night: Reyes vs. Prochazka ,Randa Markos,Luana Pinheiro,L/W,0.13478778632653243,L/W
+UFC Fight Night: Reyes vs. Prochazka ,Kai Kamaka,TJ Brown,W/L,0.5339748922224603,L/W
+UFC 261: Usman vs. Masvidal 2 ,Uriah Hall,Chris Weidman,W/L,0.5011638676588772,W/L
+UFC Fight Night: Whittaker vs. Gastelum ,Luis Pena,Alexander Munoz,W/L,0.8442787890109337,W/L
+UFC Fight Night: Whittaker vs. Gastelum ,Alexandr Romanov,Juan Espino,W/L,0.8271237898801688,W/L
+UFC Fight Night: Whittaker vs. Gastelum ,Jessica Penne,Loopy Godinez,L/W,0.16172935657131873,W/L
+UFC Fight Night: Vettori vs. Holland ,Arnold Allen,Sodiq Yusuff,W/L,0.7289021300965258,W/L
+UFC Fight Night: Vettori vs. Holland ,Nina Nunes,Mackenzie Dern,L/W,0.3329524746308451,L/W
+UFC 260: Miocic vs. Ngannou ,Alonzo Menifield,Fabio Cherant,W/L,0.9887454004235368,W/L
+UFC 260: Miocic vs. Ngannou ,Shane Young,Omar Morales,L/W,0.2975528706673753,L/W
+UFC Fight Night: Brunson vs. Holland ,Bruno Silva,JP Buys,W/L,0.9788866869659882,W/L
+UFC Fight Night: Edwards vs. Muhammad ,Leon Edwards,Belal Muhammad,W/L,0.7013712722488212,NC/NC
+UFC Fight Night: Edwards vs. Muhammad ,Misha Cirkunov,Ryan Spann,L/W,0.2788588072171907,L/W
+UFC Fight Night: Edwards vs. Muhammad ,Cortney Casey,JJ Aldrich,L/W,0.16980696306641999,L/W
+UFC Fight Night: Rodriguez vs. Waterson ,Neil Magny,Geoff Neal,W/L,0.6064490212181539,W/L
+UFC Fight Night: Rodriguez vs. Waterson ,Maurice Greene,Marcos Rogerio de Lima,W/L,0.49308423407150725,L/W
+UFC Fight Night: Reyes vs. Prochazka ,Merab Dvalishvili,Cody Stamann,W/L,0.8418466292298773,W/L
+UFC Fight Night: Reyes vs. Prochazka ,Poliana Botelho,Luana Carolina,L/W,0.21000570518747108,L/W
+UFC Fight Night: Reyes vs. Prochazka ,Andreas Michailidis,KB Bhullar,W/L,0.7694672063804117,W/L
+UFC Fight Night: Reyes vs. Prochazka ,Luke Sanders,Felipe Colares,L/W,0.47335894793195377,L/W
+UFC 261: Usman vs. Masvidal 2 ,Pat Sabatini,Tristan Connelly,W/L,0.9147739614025662,W/L
+UFC Fight Night: Whittaker vs. Gastelum ,Robert Whittaker,Kelvin Gastelum,W/L,0.7932463544486817,W/L
+UFC Fight Night: Whittaker vs. Gastelum ,Abdul Razak Alhassan,Jacob Malkoun,W/L,0.5402260783370554,L/W
+UFC Fight Night: Whittaker vs. Gastelum ,Austin Hubbard,Dakota Bush,W/L,0.924642288297461,W/L
+UFC Fight Night: Vettori vs. Holland ,Marvin Vettori,Kevin Holland,W/L,0.6648361806380761,W/L
+UFC 260: Miocic vs. Ngannou ,Stipe Miocic,Francis Ngannou,W/L,0.658504793146826,L/W
+UFC 260: Miocic vs. Ngannou ,Sean O'Malley,Thomas Almeida,W/L,0.9268449957760985,W/L
+UFC 260: Miocic vs. Ngannou ,Gillian Robertson,Miranda Maverick,W/L,0.5218641689659991,L/W
+UFC Fight Night: Brunson vs. Holland ,Song Kenan,Max Griffin,L/W,0.4205374899206523,L/W
+UFC Fight Night: Brunson vs. Holland ,Adrian Yanez,Gustavo Lopez,W/L,0.9096528081981368,W/L
+UFC Fight Night: Brunson vs. Holland ,Leonardo Santos,Grant Dawson,L/W,0.34043444600579953,L/W
+UFC Fight Night: Brunson vs. Holland ,Trevin Giles,Roman Dolidze,L/W,0.44818784163928027,W/L
+UFC Fight Night: Brunson vs. Holland ,Bruno Silva,JP Buys,W/L,0.9761842781024035,W/L
+UFC Fight Night: Edwards vs. Muhammad ,Jonathan Martinez,Davey Grant,W/L,0.8385368671237632,L/W
+UFC Fight Night: Edwards vs. Muhammad ,Nasrat Haqparast,Rafa Garcia,W/L,0.6831368167774847,W/L
+UFC Fight Night: Rodriguez vs. Waterson ,Christian Aguilera,Carlston Harris,L/W,0.019503867683670035,L/W
+UFC Fight Night: Reyes vs. Prochazka ,Dominick Reyes,Jiri Prochazka,L/W,0.18636862128604414,L/W
+UFC Fight Night: Reyes vs. Prochazka ,Giga Chikadze,Cub Swanson,W/L,0.8209710819520879,W/L
+UFC Fight Night: Reyes vs. Prochazka ,Sean Strickland,Krzysztof Jotko,W/L,0.7871539757224801,W/L
+UFC 261: Usman vs. Masvidal 2 ,Valentina Shevchenko,Jessica Andrade,W/L,0.9181672983578378,W/L
+UFC 261: Usman vs. Masvidal 2 ,Dwight Grant,Stefan Sekulic,W/L,0.9370785423946991,W/L
+UFC Fight Night: Whittaker vs. Gastelum ,Bartosz Fabinski,Gerald Meerschaert,W/L,0.5189442309926992,L/W
+UFC Fight Night: Whittaker vs. Gastelum ,Tony Gravely,Anthony Birchak,W/L,0.8610157367233168,W/L
+UFC Fight Night: Vettori vs. Holland ,Mike Perry,Daniel Rodriguez,L/W,0.19711130892607207,L/W
+UFC Fight Night: Vettori vs. Holland ,Scott Holtzman,Mateusz Gamrot,L/W,0.20721631831320395,L/W
+UFC Fight Night: Vettori vs. Holland ,Yorgan De Castro,Jarjis Danho,L/W,0.1325140293501159,L/W
+UFC Fight Night: Vettori vs. Holland ,Luis Saldana,Jordan Griffin,W/L,0.9521149655645307,W/L
+UFC Fight Night: Vettori vs. Holland ,Impa Kasanganay,Sasha Palatnikov,W/L,0.7392937781203677,W/L
+UFC 220: Miocic vs. Ngannou ,Stipe Miocic,Francis Ngannou,W/L,0.658504793146826,W/L
+UFC 260: Miocic vs. Ngannou ,Jamie Mullarkey,Khama Worthy,W/L,0.7314283759354228,W/L
+UFC 260: Miocic vs. Ngannou ,Jared Gooden,Abubakar Nurmagomedov,L/W,0.28826859060438387,L/W
+UFC 260: Miocic vs. Ngannou ,Marc-Andre Barriault,Abu Azaitar,L/W,0.3620485094665503,W/L
+UFC Fight Night: Brunson vs. Holland ,Marion Reneau,Macy Chiasson,L/W,0.2552084555777368,L/W
+UFC Fight Night: Brunson vs. Holland ,Montel Jackson,Jesse Strader,W/L,0.9941944213982447,W/L
+UFC Fight Night: Edwards vs. Muhammad ,Manel Kape,Matheus Nicolau,L/W,0.4519154210051215,L/W

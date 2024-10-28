@@ -1,0 +1,465 @@
+@import "../../themesource/atlas_core/web/_variables.scss";
+//big homepage
+.home-image{
+  z-index: 0;
+  background-repeat: no-repeat;
+  background-size:cover;
+  width: 100%;
+  opacity: 0.3;
+  background-image: url('./img/homepage_final.jpg');
+  height: 100%;
+  overflow: hidden;
+}
+
+.position-absolute-bottom-home-title-Big {
+  position: absolute;
+  left: calc(50%);
+  transform:translateX(-50%);
+  color: burlywood;
+  font-size: 250%;
+  top: 25%;
+  opacity: 1;
+}
+
+
+//about page 
+
+.about-title{
+  left: calc(50%);
+  text-align: center;
+  font-size: 45px;
+}
+
+.about-title-text{
+  left: calc(30%);
+  font-weight: bold;
+  padding-left: 10%;
+  font-size: 35px;
+}
+
+
+.about-img{
+  width:fit-content;
+  height: fit-content;
+  background-size: cover;
+}
+
+
+.about-text-column{
+  padding: 6%;
+}
+.about-text{
+  font-size: 25px;
+}
+
+
+
+//UFC HOME
+
+
+.position-absolute-bottom-home-title {
+  position: absolute;
+  left: calc(50%);
+  transform:translateX(-50%);
+  color: brown;
+  font-size: 200%;
+  top: 25%;
+  opacity: 1;
+}
+
+.position-absolute-bottom-home-text {
+  position: absolute;
+  left: calc(50%);
+  transform:translateX(-50%);
+  color: black;
+  top: 30%;
+}
+
+.position-absolute-bottom-home-grid {
+  position: absolute;
+  left: calc(50%);
+  transform:translateX(-50%);
+  width: 100%;
+  top: 35%;
+}
+
+.home-container {
+  z-index: 1;
+  top: 35%;
+  position: relative;
+}
+
+.home-image-UFC{
+  z-index: 0;
+  background-repeat: no-repeat;
+  background-size:cover;
+  width: 100%;
+  opacity: 0.3;
+  background-image: url('./img/octagon2.jpg');
+  height: 100%;
+  overflow: hidden;
+}
+
+
+.homepage-card{
+  opacity: 0.7;
+} 
+
+//Tennis home
+.home-image-Tennis{
+  z-index: 0;
+  background-repeat: no-repeat;
+  background-size:cover;
+  width: 100%;
+  opacity: 0.3;
+  background-image: url('./img/tennisbackground.jpg');
+  height: 100%;
+  overflow: hidden;
+}
+
+.position-absolute-bottom-home-title-Tennis {
+  position: absolute;
+  left: calc(50%);
+  transform:translateX(-50%);
+  color: green;
+  font-size: 250%;
+  top: 25%;
+  opacity: 1;
+}
+//user page
+
+.user-title-text{
+  font-weight: bold;
+  font-size: 25px;
+  margin: auto;
+
+}
+
+.user-subtitle-text{
+  padding-left: 8%;
+  left: calc(40%);
+  font-weight: bold;
+  font-size: 25px;
+  margin: auto;
+}
+
+.extra-padding{
+  margin: auto;
+  margin-top: 10%;
+  
+}
+
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.profile-pic{
+  text-align: center;
+  max-width: 300px !important;
+  max-height: auto !important;
+  aspect-ratio: 1/1;
+  margin: auto;
+}
+container-profile-pic{
+  padding-left: 30% !important;
+  }
+
+.browse-box{
+  display: block;
+  margin-right: auto;
+  width: 40%;
+}
+
+
+
+//fantasy
+
+.fantasy-label{
+  font-size: x-large;
+}
+
+@keyframes glow-win {
+  from {
+    text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #00ff00, 0 0 40px #00ff00, 0 0 50px #00ff00, 0 0 60px #00ff00, 0 0 70px #00ff00;
+  }
+  to {
+    text-shadow: 0 0 20px #fff, 0 0 30px #009900, 0 0 40px #009900, 0 0 50px #009900, 0 0 60px #009900, 0 0 70px #009900, 0 0 80px #009900;
+  }
+}
+
+
+
+.fantasy-text {
+  font-size: xx-large;
+  
+}
+
+.glow-winner {
+    font-size: 20px;
+    text-align: center;
+    animation: glow-win 1s ease-in-out infinite alternate;
+  }
+
+.glow-loser {
+    font-size: 20px;
+    text-align: center;
+    animation: glow-loss 1s ease-in-out infinite alternate;
+}
+
+@keyframes glow-loss {
+from {
+    text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #ff0000, 0 0 40px #ff0000, 0 0 50px #ff0000, 0 0 60px #ff0000, 0 0 70px #ff0000;
+  }
+  to {
+    text-shadow: 0 0 20px #fff, 0 0 30px #990000, 0 0 40px #990000, 0 0 50px #990000, 0 0 60px #990000, 0 0 70px #990000, 0 0 80px #990000;
+  }
+}
+.rmv-ldmr .btn.mx-listview-loadMore {
+
+  display: none;
+
+}
+
+//comments
+
+.listview {
+  .mx-listview-loadMore{
+    display:none;
+  }
+}
+
+.listview-comments{
+  .mx-image{
+    height: 40px !important;
+    width: 40px !important;
+  }
+}
+.comment-image{
+  vertical-align: middle;
+  display: inline;
+  align-items: center;
+  overflow: hidden;
+  border-radius: 90%;
+}
+.comment-button{
+  text-align: center;
+  .text{
+    vertical-align:middle;
+  }
+}
+
+
+//admin overview
+
+.intro_text{
+  padding-left: 1%;
+  width: 70%;
+}
+
+
+
+//navbar changes
+
+.icon-user {
+  width: 65px !important;
+}
+
+.container-icon {
+  vertical-align: middle;
+  align-items: center;
+}
+
+.main {
+  overflow: hidden !important;
+}
+
+.region-sidebar {
+  width: 4% !important;
+  .mx-navigationtree {
+    justify-content: center;
+    position: absolute; /* Ensure the navigation tree has a relative position */
+    .navbar-inner > ul {
+      z-index: 1;
+      & > li {
+        position: relative; /* Keep the parent li position relative */
+        & > a {
+          color: $navsidebar-color;
+          border-color: $navsidebar-border-color;
+          background-color: $navsidebar-bg;
+          font-size: xx-large;
+
+          .caret {
+            border-top-color: $navsidebar-color;
+            border-bottom-color: $navsidebar-color;
+          }
+
+          .glyphicon,
+          .mx-icon-lined,
+          .mx-icon-filled {
+            font-size: $navsidebar-glyph-size;
+          }
+        }
+        a:hover,
+        a:focus,
+        a.active {
+          color: $navsidebar-color-hover;
+          background-color: $navsidebar-bg-hover;
+
+          .caret {
+            border-top-color: $navsidebar-color-active;
+            border-bottom-color: $navsidebar-color-active;
+          }
+        }
+
+        a.active {
+          color: $navsidebar-color-active;
+          border-left-color: $navsidebar-color-active;
+          background-color: $navsidebar-bg-active;
+        }
+      }
+    }
+
+    /* Sub navigation item specific */
+    li.mx-navigationtree-has-items {
+      z-index: 2;
+      display: flex;
+      justify-content: center;
+      & > ul {
+        position:absolute; /* Position the sub-menu items absolutely */
+        top: 0; /* Align with the parent item vertically */
+        left: 100%; /* Align to the right of the parent item */
+        background-color: $navsidebar-sub-bg;
+        li {
+          a {
+            color: $navsidebar-sub-color;
+            background-color: $navsidebar-sub-bg;
+            font-size: medium;
+            &:hover {
+              color: $navsidebar-sub-color-hover;
+              background-color: $navsidebar-sub-bg-hover;
+            }
+          }
+        }
+      }
+      &:hover > ul {
+        display: block; /* Keep submenu visible on hover */
+      }
+
+      & > ul {
+        display: none; /* Initially hide submenus */
+      }
+
+      &:hover > ul,
+      & > ul:hover {
+        display: block; /* Keep submenu visible when hovered */
+      }
+    }
+  }
+}
+
+
+
+
+// center text
+
+.centered_text{
+  text-align: center;
+}
+.vertical_align{
+  vertical-align: middle;
+  margin-top: auto;
+  margin-bottom: auto;
+}
+.fit_content{
+  width:96%;
+}
+//login-page
+
+.login_image{
+  background-image: url(./img/login_background.jpg);
+  z-index: 0;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  opacity: 0.7;
+  height: 100%;
+}
+
+.column_login{
+  background-size: cover;
+  width: 100%;
+  height: 100%;
+}
+
+.width-login{
+  text-align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+  }
+
+
+  //Random variables
+
+
+.background-white {
+  background-color: white;
+}
+
+.margins-fighter-details {
+  margin: 20px 40px;
+
+}
+
+.background-black {
+  background-color: #222222;
+}
+
+.color-black {
+  color: black;
+}
+
+.color-red {
+  color: red;
+}
+
+.color-white {
+  color: white;
+}
+
+.title {
+ color: white;
+ padding-bottom: 20px;
+}
+
+.red-under {
+  color: red;
+  text-decoration: underline;
+  padding-left: 40px;
+}
+
+.grey-color {
+  color: #555555;
+}
+.align{
+  text-align: center;
+  vertical-align: middle;
+}
+
+
+//contact
+
+.contact-container{
+  display: block;
+  max-width: 65%;
+  left: calc(35%);
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center !important;
+}
+
+
+

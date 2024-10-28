@@ -1,0 +1,117 @@
+### test upcoming events
+GET http://localhost:5001/service/getUpEvents
+
+### get past events
+GET http://0.0.0.0:5001/service/getPastEvents
+
+
+### get all fighters
+GET http://0.0.0.0:5000/service/getFighters
+Accept: application/json
+Content-Type: application/json
+
+### get fights predictions
+GET http://127.0.0.1:5000/service/getUpFights
+Accept: application/json
+Content-Type: application/json
+
+### get past fights
+GET http://0.0.0.0:5001/service/getUpFights
+Accept: application/json
+Content-Type: application/json
+
+### add event_data
+GET http://localhost:5001/data/addAllPastEvents
+Accept: application/json
+Content-Type: application/json
+
+### add upcoming events
+GET http://127.0.0.1:5005/data/addAllEvents
+Accept: application/json
+Content-Type: application/json
+
+### delete all events
+GET http://localhost:5001/data/deleteAllEvents
+Accept: application/json
+Content-Type: application/json
+
+### refresh all past fights
+GET http://localhost:5001/data/refreshAllFighters
+Accept: application/json
+Content-Type: application/json
+
+
+### add all fighters
+GET http://localhost:5001/data/deleteAllUpcomingFights
+Accept: application/json
+Content-Type: application/json
+
+### add all upcoming fights
+GET http://localhost:5000/data/addAllPastFights
+Accept: application/json
+Content-Type: application/json
+
+### delete all fighters
+GET http://localhost:5000/data/addAllUpcomingEvents
+Accept: application/json
+Content-Type: application/json
+
+### get fighter by name
+GET http://localhost:5000/service/getFighterByName?name=Jon%20Jones
+Accept: application/json
+Content-Type: application/json
+
+### Add all fighters images
+GET http://localhost:5001/service/addImages
+Accept: application/json
+Content-Type: application/json
+
+### refresh all fighters images
+GET http://localhost:5000/data/refreshAllImages
+Accept: application/json
+Content-Type: application/json
+
+### add all players
+GET http://localhost:5000/data/deleteAllPlayers
+Accept: application/json
+Content-Type: application/json
+
+### add all matches
+GET http://localhost:5000/data/deleteAllMatches
+Accept: application/json
+Content-Type: application/json
+
+### add all tournaments
+GET http://localhost:5000/data/deleteAllTournaments
+Accept: application/json
+Content-Type: application/json
+
+### get all players
+GET http://localhost:5000/service/getPastFights
+Accept: application/json
+Content-Type: application/json
+
+### get all matches
+GET http://localhost:5000/service/getAllMatches
+Accept: application/json
+Content-Type: application/json
+
+### get all tournaments
+GET http://127.0.0.1:5000/service/getAllTournaments
+Accept: application/json
+Content-Type: application/json
+
+### update all personal info
+GET http://localhost:5000/data/refreshAllPersonalInfo
+Accept: application/json
+Content-Type: application/json
+
+### get matches from event
+GET http://localhost:5000/service/getAllMatchesFromEvent?tournament_name=2024Zadar_CH
+Accept: application/json
+Content-Type: application/json
+
+### do predictions on past matches
+GET http://localhost:5000/data/predictPastMatches
+Accept: application/json
+Content-Type: application/json

@@ -1,0 +1,501 @@
+rank,name,nationality,date_of_birth,player_id
+1,Novak Djokovic,SRB,1987-05-22,1
+2,Jannik Sinner,ITA,2001-08-16,2
+3,Carlos Alcaraz,ESP,2003-05-05,3
+4,Alexander Zverev,GER,1997-04-20,4
+5,Daniil Medvedev,RUS,1996-02-11,5
+6,Andrey Rublev,RUS,1997-10-20,6
+7,Casper Ruud,NOR,1998-12-22,7
+8,Hubert Hurkacz,POL,1997-02-11,8
+9,Stefanos Tsitsipas,GRE,1998-08-12,9
+10,Grigor Dimitrov,BUL,1991-05-16,10
+11,Alex De Minaur,AUS,1999-02-17,11
+12,Taylor Fritz,USA,1997-10-28,12
+13,Holger Rune,DEN,2003-04-29,13
+14,Tommy Paul,USA,1997-05-17,14
+15,Ben Shelton,USA,2002-10-09,15
+16,Ugo Humbert,FRA,1998-06-26,16
+17,Alexander Bublik,KAZ,1997-06-17,17
+18,Karen Khachanov,RUS,1996-05-21,18
+19,Nicolas Jarry,CHI,1995-10-11,19
+20,Sebastian Baez,ARG,2000-12-28,20
+21,Felix Auger Aliassime,CAN,2000-08-08,21
+22,Adrian Mannarino,FRA,1988-06-29,22
+23,Jiri Lehecka,CZE,2001-11-08,23
+24,Alejandro Tabilo,CHI,1997-06-02,24
+25,Tallon Griekspoor,NED,1996-07-02,25
+26,Frances Tiafoe,USA,1998-01-20,26
+27,Francisco Cerundolo,ARG,1998-08-13,27
+28,Sebastian Korda,USA,2000-07-05,28
+29,Tomas Martin Etcheverry,ARG,1999-07-18,29
+30,Lorenzo Musetti,ITA,2002-03-03,30
+31,Mariano Navone,ARG,2001-02-27,31
+32,Alejandro Davidovich Fokina,ESP,1999-06-05,32
+33,Cameron Norrie,GBR,1995-08-23,33
+34,Tomas Machac,CZE,2000-10-13,34
+35,Matteo Arnaldi,ITA,2001-02-22,35
+36,Jordan Thompson,AUS,1994-04-20,36
+37,Gael Monfils,FRA,1986-09-01,37
+38,Arthur Fils,FRA,2004-06-12,38
+39,Jack Draper,GBR,2001-12-22,39
+40,Luciano Darderi,ITA,2002-02-14,40
+41,Jan Lennard Struff,GER,1990-04-25,41
+42,Roman Safiullin,RUS,1997-08-07,42
+43,Fabian Marozsan,HUN,1999-10-08,43
+44,Zhizhen Zhang,CHN,1996-10-16,44
+45,Sebastian Ofner,AUT,1996-05-12,45
+46,Christopher Eubanks,USA,1996-05-05,46
+47,Nuno Borges,POR,1997-02-19,47
+48,Pedro Martinez,ESP,1997-04-26,48
+49,Lorenzo Sonego,ITA,1995-05-11,49
+50,Marcos Giron,USA,1993-07-24,50
+51,Alexei Popyrin,AUS,1999-08-05,51
+52,Laslo Djere,SRB,1995-06-02,52
+53,Flavio Cobolli,ITA,2002-05-06,53
+54,Marton Fucsovics,HUN,1992-02-08,54
+55,Facundo Diaz Acosta,ARG,2000-12-15,55
+56,Pavel Kotov,RUS,1998-11-18,56
+57,Miomir Kecmanovic,SRB,1999-08-31,57
+58,Thiago Seyboth Wild,BRA,2000-03-10,58
+59,Alexander Shevchenko,KAZ,2000-11-29,59
+60,Alex Michelsen,USA,2004-08-25,60
+61,Dusan Lajovic,SRB,1990-06-30,61
+62,Daniel Evans,GBR,1990-05-23,62
+63,Roberto Carballes Baena,ESP,1993-03-23,63
+64,Jaume Munar,ESP,1997-05-05,64
+65,Dominik Koepfer,GER,1994-04-29,65
+66,Giovanni Mpetshi Perricard,FRA,2003-07-08,66
+67,Emil Ruusuvuori,FIN,1999-04-02,67
+68,Christopher Oconnell,AUS,1994-06-03,68
+69,Arthur Rinderknech,FRA,1995-07-23,69
+70,Yoshihito Nishioka,JPN,1995-09-27,70
+71,Federico Coria,ARG,1992-03-09,71
+72,Luca Nardi,ITA,2003-08-06,72
+73,Borna Coric,CRO,1996-11-14,73
+74,Mackenzie Mcdonald,USA,1995-04-16,74
+75,Andy Murray,GBR,1987-05-15,75
+76,Jakub Mensik,CZE,2005-09-01,76
+77,Arthur Cazaux,FRA,2002-08-23,77
+78,Rinky Hijikata,AUS,2001-02-23,78
+79,Corentin Moutet,FRA,1999-04-19,79
+80,Taro Daniel,JPN,1993-01-27,80
+81,Roberto Bautista Agut,ESP,1988-04-14,81
+82,Aslan Karatsev,RUS,1993-09-04,82
+83,Daniel Altmaier,GER,1998-09-12,83
+84,Brandon Nakashima,USA,2001-08-03,84
+85,Yannick Hanfmann,GER,1991-11-13,85
+86,Thiago Monteiro,BRA,1994-05-31,86
+87,Aleksandar Kovacevic,USA,1998-08-29,87
+88,Hugo Gaston,FRA,2000-09-26,88
+89,Aleksandar Vukic,AUS,1996-04-06,89
+90,Alexandre Muller,FRA,1997-02-01,90
+91,Constant Lestienne,FRA,1992-05-23,91
+92,Juncheng Shang,CHN,2005-02-02,92
+93,Fabio Fognini,ITA,1987-05-24,93
+94,Max Purcell,AUS,1998-04-03,94
+95,Sumit Nagal,IND,1997-08-16,95
+96,Adam Walton,AUS,1999-04-17,96
+97,Matteo Berrettini,ITA,1996-04-12,97
+98,Stan Wawrinka,SUI,1985-03-28,98
+99,Francisco Comesana,ARG,2000-10-06,99
+100,Thanasi Kokkinakis,AUS,1996-04-10,100
+101,Maximilian Marterer,GER,1995-06-15,101
+102,Botic Van De Zandschulp,NED,1995-10-04,102
+103,Luca Van Assche,FRA,2004-05-11,103
+104,Zizou Bergs,BEL,1999-06-03,104
+105,James Duckworth,AUS,1992-01-21,105
+106,Daniel Elahi Galan,COL,1996-06-18,106
+107,J J Wolf,USA,1998-12-21,107
+108,Pedro Cachin,ARG,1995-04-12,108
+109,Thiago Agustin Tirante,ARG,2001-04-10,109
+110,Camilo Ugo Carabelli,ARG,1999-06-17,110
+111,Albert Ramos,ESP,1988-01-17,111
+112,Gregoire Barrere,FRA,1994-02-16,112
+113,Cristian Garin,CHI,1996-05-30,113
+114,Michael Mmoh,USA,1998-01-10,114
+115,David Goffin,BEL,1990-12-07,115
+116,Valentin Vacherot,FRA,1998-11-16,116
+117,Juan Pablo Varillas,PER,1995-10-06,117
+118,Denis Shapovalov,CAN,1999-04-15,118
+119,Lukas Klein,SVK,1998-03-22,119
+120,Facundo Bagnis,ARG,1990-02-27,120
+121,Terence Atmane,FRA,2002-01-09,121
+122,Harold Mayot,FRA,2002-02-04,122
+123,Zachary Svajda,USA,2002-11-29,123
+124,Richard Gasquet,FRA,1986-06-18,124
+125,Stefano Napolitano,ITA,1995-04-11,125
+126,Emilio Nava,USA,2001-12-02,126
+127,Vit Kopriva,CZE,1997-06-15,127
+128,Damir Dzumhur,BIH,1992-05-20,128
+129,Duje Ajdukovic,CRO,2001-02-05,129
+130,Nicolas Moreno De Alboran,USA,1997-07-14,130
+131,Dominic Thiem,AUT,1993-09-03,131
+132,Lloyd Harris,RSA,1997-02-24,132
+133,Titouan Droguet,FRA,2001-06-15,133
+134,Francesco Passaro,ITA,2001-01-07,134
+135,Hamad Medjedovic,SRB,2003-07-18,135
+136,Mikhail Kukushkin,KAZ,1987-12-26,136
+137,Felipe Meligeni Alves,BRA,1998-02-19,137
+138,Matteo Gigante,ITA,2002-01-04,138
+139,Jurij Rodionov,AUT,1999-05-16,139
+140,Radu Albot,MDA,1989-11-11,140
+141,Diego Schwartzman,ARG,1992-08-16,141
+142,Pierre Hugues Herbert,FRA,1991-03-18,142
+143,Dominic Stricker,SUI,2002-08-16,143
+144,Roman Andres Burruchaga,ARG,2002-01-23,144
+145,Jozef Kovalik,SVK,1992-11-04,145
+146,Pablo Llamas Ruiz,ESP,2002-10-13,146
+147,Liam Broady,GBR,1994-01-04,147
+148,Giulio Zeppieri,ITA,2001-12-07,148
+149,Benjamin Hassan,GER,1995-02-04,149
+150,Patrick Kypson,USA,1999-10-28,150
+151,Leandro Riedi,SUI,2002-01-27,151
+152,Yosuke Watanuki,JPN,1998-04-12,152
+153,Alexis Galarneau,CAN,1999-03-02,153
+154,Zsombor Piros,HUN,1999-10-13,154
+155,Benoit Paire,FRA,1989-05-08,155
+156,Otto Virtanen,FIN,2001-06-21,156
+157,Tomas Barrios Vera,CHI,1997-12-10,157
+158,Borna Gojo,CRO,1998-02-27,158
+159,Andrea Pellegrino,ITA,1997-03-23,159
+160,Ugo Blanchet,FRA,1999-01-05,160
+161,Denis Kudla,USA,1992-08-17,161
+162,Shintaro Mochizuki,JPN,2003-06-02,162
+163,Rudolf Molleker,GER,2000-10-26,163
+164,Oriol Roca Batalla,ESP,1993-04-30,164
+165,Lucas Pouille,FRA,1994-02-23,165
+166,Gabriel Diallo,CAN,2001-09-24,166
+167,Denis Yevseyev,KAZ,1993-05-22,167
+168,Hugo Dellien,BOL,1993-06-16,168
+169,Marco Trungelliti,ARG,1990-01-31,169
+170,Andrea Vavassori,ITA,1995-05-05,170
+171,Beibit Zhukayev,KAZ,2000-10-12,171
+172,Benjamin Bonzi,FRA,1996-06-09,172
+173,Mattia Bellucci,ITA,2001-06-01,173
+174,Gustavo Heide,BRA,2002-02-28,174
+175,Maxime Cressy,USA,1997-05-08,175
+176,Jesper De Jong,NED,2000-05-31,176
+177,Matteo Martineau,FRA,1999-01-16,177
+178,Juan Manuel Cerundolo,ARG,2001-11-15,178
+179,Martin Damm,USA,2003-09-30,179
+180,Jan Choinski,GBR,1996-06-10,180
+181,Coleman Wong,HKG,2004-06-06,181
+182,Elias Ymer,SWE,1996-04-10,182
+183,Jaime Faria,POR,2003-08-06,183
+184,Alexander Ritschard,SUI,1994-03-24,184
+185,Hugo Grenier,FRA,1996-03-23,185
+186,Tristan Schoolkate,AUS,2001-02-26,186
+187,Quentin Halys,FRA,1996-10-26,187
+188,Genaro Alberto Olivieri,ARG,1998-08-04,188
+189,Bu Yunchaokete,CHN,2002-01-19,189
+190,Alejandro Moro Canas,ESP,2000-12-07,190
+191,Seong Chan Hong,KOR,1997-06-30,191
+192,Dalibor Svrcina,CZE,2002-10-02,192
+193,Nick Hardt,DOM,2000-09-20,193
+194,Marc Andrea Huesler,SUI,1996-06-24,194
+195,Vitaliy Sachko,UKR,1997-07-14,195
+196,Milos Raonic,CAN,1990-12-27,196
+197,Joris De Loore,BEL,1993-04-21,197
+198,Valentin Royer,FRA,2001-05-29,198
+199,Timofey Skatov,RUS,2001-01-21,199
+200,Marc Polmans,AUS,1997-05-02,200
+201,Billy Harris,GBR,1995-01-25,201
+202,Stefano Travaglia,ITA,1991-12-28,202
+203,Henrique Rocha,POR,2004-04-06,203
+204,Dino Prizmic,CRO,2005-08-05,204
+205,Francesco Maestrelli,ITA,2002-12-21,205
+206,Omar Jasika,AUS,1997-05-18,206
+207,Dennis Novak,AUT,1993-08-28,207
+208,Enzo Couacaud,FRA,1995-03-01,208
+209,Jason Kubler,AUS,1993-05-19,209
+210,Yasutaka Uchiyama,JPN,1992-08-05,210
+211,Li Tu,AUS,1996-05-27,211
+212,Alex Molcan,SVK,1997-12-01,212
+213,Mark Lajal,EST,2003-05-12,213
+214,Calvin Hemery,FRA,1995-01-28,214
+215,Ryan Peniston,GBR,1995-11-10,215
+216,Illya Marchenko,UKR,1987-09-08,216
+217,Maxime Janvier,FRA,1996-10-18,217
+218,Oliver Crawford,GBR,1999-04-30,218
+219,Bernabe Zapata Miralles,ESP,1997-01-12,219
+220,Nerman Fatic,BIH,1994-10-24,220
+221,Henri Squire,GER,2000-09-27,221
+222,Murkel Alejandro Dellien Velasco,BOL,1997-09-16,222
+223,Sho Shimabukuro,JPN,1997-07-30,223
+224,Tristan Boyer,USA,2001-04-21,224
+225,Manuel Guinard,FRA,1995-11-15,225
+226,Juan Pablo Ficovich,ARG,1997-01-24,226
+227,Franco Agamenone,ITA,1993-04-15,227
+228,Lukas Neumayer,AUT,2002-09-06,228
+229,Yu Hsiou Hsu,TPE,1999-04-02,229
+230,Joao Fonseca,BRA,2006-08-21,230
+231,Antoine Escoffier,FRA,1992-02-29,231
+232,Kyrian Jacquet,FRA,2001-05-11,232
+233,Aziz Dougaz,TUN,1997-03-26,233
+234,Clement Tabur,FRA,2000-01-24,234
+235,Adrian Andreev,BUL,2001-05-12,235
+236,Daniel Rincon,ESP,2003-01-07,236
+237,Dane Sweeny,AUS,2001-02-12,237
+238,Philip Sekulic,AUS,2003-09-05,238
+239,Jiri Vesely,CZE,1993-07-10,239
+240,Alex Bolt,AUS,1993-01-05,240
+241,Gijs Brouwer,NED,1996-03-14,241
+242,Jules Marie,FRA,1991-09-01,242
+243,Filip Misolic,AUT,2001-08-08,243
+244,Dmitry Popko,KAZ,1996-10-24,244
+245,Santiago Fa Rodriguez Taverna,ARG,1999-07-16,245
+246,Arthur Fery,GBR,2002-07-12,246
+247,Bernard Tomic,AUS,1992-10-21,247
+248,Abedallah Shelbayh,JOR,2003-11-16,248
+249,Dimitar Kuzmanov,BUL,1993-07-28,249
+250,Javier Barranco Cosano,ESP,1998-11-17,250
+251,Mitchell Krueger,USA,1994-01-12,251
+252,Ethan Quinn,USA,2004-03-12,252
+253,Chun Hsin Tseng,TPE,2001-08-08,253
+254,Enrico Dalla Valle,ITA,1998-03-21,254
+255,Goncalo Oliveira,POR,1995-02-17,255
+256,Tennys Sandgren,USA,1991-07-22,256
+257,Alibek Kachmazov,RUS,2002-08-17,257
+258,Nikolas Sanchez Izquierdo,ESP,1999-03-15,258
+259,Hady Habib,LBN,1998-08-21,259
+260,Ergi Kirkin,TUR,1999-01-27,260
+261,Gauthier Onclin,BEL,2001-02-26,261
+262,Steve Johnson,USA,1989-12-24,262
+263,Liam Draxl,CAN,2001-12-05,263
+264,Maks Kasnikowski,POL,2003-07-06,264
+265,Yuta Shimizu,JPN,1999-06-09,265
+266,Nicolas Mejia,COL,2000-02-11,266
+267,Ivan Gakhov,RUS,1996-11-04,267
+268,Egor Gerasimov,BLR,1992-11-11,268
+269,Guido Pella,ARG,1990-05-17,269
+270,Elmer Moller,DEN,2003-07-09,270
+271,Thai Son Kwiatkowski,USA,1995-02-13,271
+272,Kimmer Coppejans,BEL,1994-02-07,272
+273,Tung Lin Wu,TPE,1998-05-12,273
+274,Renzo Olivo,ARG,1992-03-15,274
+275,Rafael Nadal,ESP,1986-06-03,275
+276,Gonzalo Bueno,PER,2004-04-03,276
+277,Geoffrey Blancaneaux,FRA,1998-08-08,277
+278,Vilius Gaubas,LTU,2004-12-29,278
+279,Alvaro Guillen Meza,ECU,2003-01-02,279
+280,Clement Chidekh,FRA,2001-06-13,280
+281,Samuel Vincent Ruggeri,ITA,2002-05-22,281
+282,Tristan Lamasine,FRA,1993-03-05,282
+283,Edoardo Lavagno,ITA,1998-07-27,283
+284,Charles Broom,GBR,1998-04-24,284
+285,Aidan Mayo,USA,2003-05-14,285
+286,Filip Cristian Jianu,ROU,2001-09-18,286
+287,Marvin Moeller,GER,1999-01-18,287
+288,Joao Sousa,POR,1989-03-30,288
+289,Zdenek Kolar,CZE,1996-10-09,289
+290,Kamil Majchrzak,POL,1996-01-13,290
+291,Adolfo Daniel Vallejo,PAR,2004-04-28,291
+292,Andrea Collarini,ARG,1992-01-31,292
+293,Mathias Bourgue,FRA,1994-01-18,293
+294,Gianluca Mager,ITA,1994-12-01,294
+295,Daniel Masur,GER,1994-11-06,295
+296,Michael Vrbensky,CZE,1999-12-26,296
+297,Giovanni Fonio,ITA,1998-05-07,297
+298,Alexander Blockx,BEL,2005-04-08,298
+299,Brandon Holt,USA,1998-04-06,299
+300,Jason Jung,TPE,1989-06-15,300
+301,Guido Andreozzi,ARG,1991-08-05,301
+302,Pedro Sakamoto,BRA,1993-06-29,302
+303,Robin Bertrand,FRA,2003-03-15,303
+304,John Isner,USA,1985-04-26,304
+305,August Holmgren,DEN,1998-04-22,305
+306,Blaise Bicknell,USA,2001-11-26,306
+307,Ricardas Berankis,LTU,1990-06-21,307
+308,Paul Jubb,GBR,1999-10-31,308
+309,Carlos Taberner,ESP,1997-08-08,309
+310,Remy Bertola,SUI,1998-08-31,310
+311,Felix Gill,GBR,2002-06-01,311
+312,Federico Agustin Gomez,ARG,1996-11-26,312
+313,Sebastian Fanselow,GER,1991-12-30,313
+314,Martin Landaluce,ESP,2006-01-08,314
+315,Joao Lucas Reis Da Silva,BRA,2000-03-26,315
+316,Yan Bai,CHN,1989-05-21,316
+317,Alexander Weis,ITA,1997-04-24,317
+318,Andrew Paulson,CZE,2001-11-16,318
+319,Rio Noguchi,JPN,1998-12-28,319
+320,Toby Alex Kodat,USA,2003-01-13,320
+321,Raul Brancaccio,ITA,1997-05-04,321
+322,Luke Saville,AUS,1994-02-01,322
+323,Andres Andrade,ECU,1998-12-14,323
+324,David Jorda Sanchis,ESP,1994-06-14,324
+325,Timo Stodder,GER,1996-05-17,325
+326,Lucas Poullain,FRA,1995-12-05,326
+327,Michael Geerts,BEL,1995-01-17,327
+328,Khumoyun Sultanov,UZB,1998-10-27,328
+329,Ramkumar Ramanathan,IND,1994-11-08,329
+330,Matheus Pucinelli De Almeida,BRA,2001-04-01,330
+331,Jakub Nicod,CZE,2004-07-21,331
+332,Hernan Casanova,ARG,1994-02-06,332
+333,Facundo Mena,ARG,1992-09-22,333
+334,Hiroki Moriya,JPN,1990-10-16,334
+335,Moez Echargui,TUN,1993-01-10,335
+336,Ignacio Buse,PER,2004-03-25,336
+337,Sandro Kopp,AUT,2000-05-26,337
+338,Antoine Bellier,SUI,1996-10-18,338
+339,Vadym Ursu,UKR,1997-01-01,339
+340,Gabriel Debru,FRA,2005-12-21,340
+341,Gerard Campana Lee,KOR,2004-10-01,341
+342,James Mccabe,AUS,2003-07-05,342
+343,Hazem Naw,,2000-01-01,343
+344,Alexis Gautier,FRA,1997-04-07,344
+345,Mikael Ymer,SWE,1998-09-09,345
+346,Carlos Sanchez Jover,ESP,2000-07-21,346
+347,Riccardo Bonadio,ITA,1993-07-13,347
+348,Jonas Forejtek,CZE,2001-03-10,348
+349,Mathys Erhard,FRA,2001-10-26,349
+350,Kei Nishikori,JPN,1989-12-29,350
+351,Orlando Luz,BRA,1998-02-08,351
+352,Aidan Mchugh,GBR,2000-07-09,352
+353,Giles Hussey,GBR,1997-05-26,353
+354,Benjamin Lock,ZIM,1993-03-04,354
+355,Blake Mott,AUS,1996-04-21,355
+356,Jay Clarke,GBR,1998-07-27,356
+357,Gilbert Soares Klier Junior,BRA,2000-05-16,357
+358,Nino Serdarusic,CRO,1996-12-13,358
+359,Matej Dodig,CRO,2005-07-19,359
+360,Gastao Elias,POR,1990-11-24,360
+361,Corentin Denolly,FRA,1997-06-06,361
+362,Tim Handel,GER,1996-10-18,362
+363,Daniel Michalski,POL,2000-01-11,363
+364,Cezar Cretu,ROU,2001-04-24,364
+365,Fajing Sun,CHN,1996-10-03,365
+366,Guy Den Ouden,NED,2002-04-08,366
+367,Alessandro Giannessi,ITA,1990-05-30,367
+368,Yshai Oliel,ISR,2000-01-05,368
+369,Martin Krumich,CZE,2002-12-26,369
+370,Mohamed Safwat,EGY,1990-09-19,370
+371,James Trotter,JPN,1999-07-29,371
+372,Blake Ellis,AUS,1999-01-06,372
+373,Federico Delbonis,ARG,1990-10-05,373
+374,Lorenzo Giustino,ITA,1991-09-10,374
+375,Matias Soto,CHI,1999-04-27,375
+376,Omni Kumar,USA,2001-10-10,376
+377,Marcello Serafini,ITA,2002-08-25,377
+378,Alberto Barroso Campos,ESP,1996-06-04,378
+379,Daniel Merida Aguilar,ESP,2004-09-26,379
+380,Mikalai Haliak,BLR,1998-08-14,380
+381,Carlos Lopez Montagud,ESP,2000-07-06,381
+382,Arthur Gea,FRA,2005-01-02,382
+383,Louis Wessels,GER,1998-08-27,383
+384,Arthur Weber,FRA,1992-05-09,384
+385,Daniel Dutra Da Silva,BRA,1988-07-05,385
+386,Nicholas David Ionel,ROU,2002-10-12,386
+387,Joel Schwaerzler,AUT,2006-01-27,387
+388,Marius Copil,ROU,1990-10-17,388
+389,Frederico Ferreira Silva,POR,1995-03-18,389
+390,Yanki Erel,TUR,2000-09-25,390
+391,Dan Added,FRA,1999-04-13,391
+392,Stefanos Sakellaridis,GRE,2004-09-13,392
+393,Ilya Ivashka,BLR,1994-02-24,393
+394,Mate Valkusz,HUN,1998-08-13,394
+395,Jie Cui,CHN,1998-01-24,395
+396,Lucas Gerch,GER,1994-12-20,396
+397,Dominik Palan,CZE,2000-09-30,397
+398,Altug Celikbilek,TUR,1996-09-07,398
+399,Jelle Sels,NED,1995-08-10,399
+400,Damien Wenger,SUI,2000-03-17,400
+401,Yibing Wu,CHN,1999-10-14,401
+402,Robert Strombachs,GER,1999-09-15,402
+403,Marco Cecchinato,ITA,1992-09-30,403
+404,Nicola Kuhn,ESP,2000-03-20,404
+405,Andrea Picchione,ITA,1998-06-07,405
+406,Laurent Lokoli,FRA,1994-10-18,406
+407,Alejo Lorenzo Lingua Lavallen,ARG,2001-03-09,407
+408,Francesco Forti,ITA,1999-07-26,408
+409,Giovanni Oradini,ITA,1997-09-14,409
+410,Valerio Aboian,ARG,2002-06-14,410
+411,Nishesh Basavareddy,USA,2005-05-02,411
+412,Cem Ilkel,TUR,1995-08-21,412
+413,Cannon Kingsley,USA,2001-05-06,413
+414,Federico Gaio,ITA,1992-03-05,414
+415,Bogdan Bobrov,RUS,1997-09-16,415
+416,Max Houkes,NED,2000-07-03,416
+417,Stefan Popovic,SRB,2003-05-25,417
+418,Kalin Ivanovski,MKD,2004-05-11,418
+419,Daniil Glinka,EST,2000-05-12,419
+420,Gonzalo Villanueva,ARG,1995-01-13,420
+421,Kris Van Wyk,RSA,1996-09-29,421
+422,Lautaro Midon,ARG,2004-03-29,422
+423,Marko Topo,SRB,2003-09-13,423
+424,Juan Bautista Torres,ARG,2002-04-02,424
+425,Evgeny Donskoy,RUS,1990-05-09,425
+426,Salvatore Caruso,ITA,1992-12-15,426
+427,Gabi Adrian Boitan,ROU,1999-07-11,427
+428,Roberto Cid,DOM,1993-08-30,428
+429,Matthew Dellavedova,AUS,2000-05-30,429
+430,Mateus Alves,BRA,2001-01-23,430
+431,Evgeny Tyurnev,RUS,1997-04-08,431
+432,Mats Rosenkranz,GER,1998-08-23,432
+433,Ryan Nijboer,NED,1999-07-28,433
+434,Svyatoslav Gulin,RUS,2002-12-04,434
+435,Max Hans Rehberg,GER,2003-09-13,435
+436,Bruno Kuzuhara,USA,2004-04-01,436
+437,Pol Martin Tiffon,ESP,1999-07-30,437
+438,Naoki Nakagawa,JPN,1996-11-19,438
+439,Learner Tien,USA,2005-12-02,439
+440,Steven Diez,CAN,1991-03-17,440
+441,Nick Chappell,USA,1992-09-19,441
+442,Kilian Feldbausch,SUI,2005-09-07,442
+443,Oscar Otte,GER,1993-07-16,443
+444,Jerome Kym,SUI,2003-02-12,444
+445,Hynek Barton,CZE,2004-04-05,445
+446,Anton Matusevich,GBR,2001-05-30,446
+447,Skander Mansouri,TUN,1995-07-23,447
+448,Marat Sharipov,KAZ,1987-03-31,448
+449,Garrett Johns,USA,2000-12-17,449
+450,Juan Carlos Prado Angelo,BOL,2005-03-06,450
+451,Oleksii Krutykh,UKR,2000-03-10,451
+452,Daniel Cukierman,ISR,1995-07-09,452
+453,Karl Friberg,SWE,1999-03-25,453
+454,Stefan Kozlov,USA,1998-02-01,454
+455,Rodrigo Pacheco Mendez,MEX,2005-04-25,455
+456,Alex Barrena,ARG,2002-10-10,456
+457,Peter Gojowczyk,GER,1989-07-15,457
+458,Raphael Collignon,BEL,2002-01-13,458
+459,Tibo Colson,BEL,2000-07-12,459
+460,Bor Artnak,SLO,2004-06-04,460
+461,Sasi Kumar Mukund,IND,1997-01-14,461
+462,Eric Vanshelboim,UKR,2001-07-15,462
+463,Ryan Seggerman,USA,1999-08-06,463
+464,Leo Borg,SWE,2003-05-15,464
+465,San Hui Sin,KOR,1997-03-18,465
+466,Orel Kimhi,ISR,2003-08-19,466
+467,Yusuke Takahashi,JPN,1997-10-17,467
+468,Filip Peliwo,CAN,1994-01-30,468
+469,Gerald Melzer,AUT,1990-07-13,469
+470,Andre Ilagan,USA,2000-11-16,470
+471,Miguel Damas,ESP,1999-12-21,471
+472,Evgeny Karlovskiy,RUS,1994-08-07,472
+473,Lorenzo Joaquin Rodriguez,ARG,1999-09-29,473
+474,Nicolas Zanellato,BRA,2002-01-22,474
+475,Toby Samuel,GBR,2002-09-06,475
+476,Colin Sinclair,AUS,1994-12-19,476
+477,Makoto Ochi,JPN,1996-05-03,477
+478,Sander Jong,NED,2000-05-18,478
+479,Sebastian Gima,ROU,2002-05-17,479
+480,Martin Klizan,SVK,1989-07-11,480
+481,Ernesto Escobedo,MEX,1996-07-04,481
+482,Adria Soriano Barrera,ESP,1999-06-02,482
+483,Kaichi Uchida,JPN,1994-08-23,483
+484,Martyn Pawelski,POL,2004-11-07,484
+485,Sascha Gueymard Wayenburg,FRA,2003-08-01,485
+486,Federico Iannaccone,ITA,1999-03-26,486
+487,Constantin Bittoun Kouzmine,FRA,1999-01-04,487
+488,Kirill Kivattsev,RUS,1997-10-10,488
+489,Nam Hoang Ly,VIE,1997-02-25,489
+490,Hamish Stewart,GBR,1999-07-30,490
+491,Petr Nesterov,BUL,2003-03-07,491
+492,Pedro Boscardin Dias,BRA,2003-01-28,492
+493,Yurii Dzhavakian,UKR,1993-05-07,493
+494,Soon Woo Kwon,KOR,1997-12-02,494
+495,Matija Pecotic,CRO,1989-07-03,495
+496,Kyle Edmund,GBR,1995-01-08,496
+497,Edas Butvilas,LTU,2004-01-01,497
+498,Strong Kirchheimer,USA,1995-04-26,498
+499,Imanol Lopez Morillo,ESP,1999-11-18,499
+500,Arthur Bouquier,FRA,2000-12-25,500
