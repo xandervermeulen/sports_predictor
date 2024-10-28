@@ -16,6 +16,8 @@ This project includes:
 The Mendix application serves as the user interface, offering:
 - Easy access to upcoming match predictions.
 - An interactive display for exploring and visualizing prediction data.
+- The ability to interact with other users on our own platform.
+- Multiple Admin and users roles for a user friendly application.
   
 ### Data Collection
 Two specialized data scrapers gather real-time and historical data:
@@ -26,6 +28,7 @@ Two specialized data scrapers gather real-time and historical data:
 Our AI models allow for:
 - **Automated Retraining** – Models are retrained with the latest data, ensuring improved prediction accuracy over time.
 - **Live Predictions** – Users can create "fantasy" matchups, and the model will generate predictions for these custom inputs.
+- **Initial Training** - The first version of our Neural Network is trained in the given notebooks in the project.
 
 All AI logic and data processing run in a dedicated Python backend service.
 
